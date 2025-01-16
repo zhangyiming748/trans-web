@@ -5,7 +5,7 @@ import (
 	"translate/sql"
 )
 
-type TranslateHistory struct {
+type TranslateCache struct {
 	Id  int64  `xorm:"comment('主键id') INT(11)"`
 	Src string `xorm:"varchar(255) comment(原文)"`
 	Dst string `xorm:"varchar(255) comment(译文)"`
@@ -16,12 +16,12 @@ type TranslateHistory struct {
 	DeletedAt time.Time `xorm:"deleted"`
 }
 
-func (t *TranslateHistory) InsertOne() (int64, error) {
+func (t *TranslateCache) InsertOne() (int64, error) {
 	return sql.GetMysql().InsertOne(t)
 }
-func (t *TranslateHistory) InsertAll(histories []TranslateHistory) (int64, error) {
+func (t *TranslateCache) InsertAll(histories []TranslateCache) (int64, error) {
 	return sql.GetMysql().Insert(histories)
 }
-func (t *TranslateHistory) FindBySrc() (bool, error) {
+func (t *TranslateCache) FindBySrc() (bool, error) {
 	return sql.GetMysql().Where("src = ?", t.Src).Get(t)
 }

@@ -81,7 +81,7 @@ func Trans(fp string) {
 		after.WriteString(before[i+1])
 		src := before[i+2]
 		afterSrc := src
-		one := new(model.TranslateHistory)
+		one := new(model.TranslateCache)
 		one.Src = afterSrc
 		var dst string
 		if has, err := one.FindBySrc(); has {

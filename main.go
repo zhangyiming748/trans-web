@@ -42,7 +42,7 @@ func init() {
 	if err != nil {
 		log.Fatalf("ping mysql err: %v", err)
 	}
-	err = sql.GetMysql().Sync2(new(model.TranslateHistory))
+	err = sql.GetMysql().Sync2(new(model.TranslateCache))
 	if err != nil {
 		log.Printf("sync translate history err: %v", err)
 	}
