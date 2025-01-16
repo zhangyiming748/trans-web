@@ -9,4 +9,5 @@ services:
         image: zhangyiming748/whisper
         environment:
             - SQLSERVICE = 192.168.1.9:3306
+            - LocalDeeplxService = 192.168.1.9:3389
         # docker run -e MYSQL=192.168.1.9:3306
