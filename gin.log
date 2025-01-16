@@ -1,0 +1,6753 @@
+2025/01/16 14:42:43 whisper.go:49: 开始转换
+2025/01/16 14:53:50 whisper.go:50: 开始转换
+2025/01/16 14:53:50 whisper.go:40: utf-8环境设置成功
+2025/01/16 14:53:50 whisper.go:78: 开始执行命令:C:\Users\zen\AppData\Roaming\Python\Python310\Scripts\whisper.exe videos\BadMommyPOV - My Stepmom want me to cum all over her [656f292c8ca42].mp4 --model large-v3 --model_dir videos --output_format srt --prepend_punctuations ,.? --language English --output_dir BadMommyPOV - My Stepmom want me to cum all over her [656f292c8ca42].mp4 --verbose True
+2025/01/16 14:56:23 whisper.go:50: 开始转换
+2025/01/16 14:56:23 whisper.go:40: utf-8环境设置成功
+2025/01/16 14:56:23 whisper.go:78: 开始执行命令:C:\Users\zen\AppData\Roaming\Python\Python310\Scripts\whisper.exe videos\BadMommyPOV - My Stepmom want me to cum all over her [656f292c8ca42].mp4 --model large-v3 --model_dir videos --output_format srt --prepend_punctuations ,.? --language English --output_dir BadMommyPOV - My Stepmom want me to cum all over her [656f292c8ca42].mp4 --verbose True
+2025/01/16 15:39:24 whisper.go:56: 文件videos\BadMommyPOV - My Stepmom want me to cum all over her [656f292c8ca42].srt
+总共用时: 43.03 分钟
+2025/01/16 15:54:40 whisper.go:50: 开始转换
+2025/01/16 15:54:40 whisper.go:40: utf-8环境设置成功
+2025/01/16 15:54:40 whisper.go:78: 开始执行命令:C:\Users\zen\AppData\Roaming\Python\Python310\Scripts\whisper.exe videos\BadMommyPOV - My Stepmom want me to cum all over her.mp4 --model large-v3 --model_dir videos --output_format srt --prepend_punctuations ,.? --language English --output_dir videos --verbose True
+2025/01/16 16:47:51 whisper.go:56: 文件videos\BadMommyPOV - My Stepmom want me to cum all over her.srt
+总共用时: 53.19 分钟
+2025/01/16 18:17:51 main.go:37: must set env var: MYSQL
+2025/01/16 18:28:19 translate.go:42: 开始转换
+2025/01/16 18:29:00 translate.go:43: 开始转换
+2025/01/16 18:29:00 whisper.go:78: 翻译之前序号"1
+"时间"00:00:00,000 --> 00:00:06,960
+"正文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"空行"
+"
+1
+2025/01/16 18:29:00 engine.go:43: google查询命令执行出错	命令原文:trans -brief -engine google -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:00 engine.go:59: bing查询命令执行出错	命令原文:trans -brief -engine bing -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:10 engine.go:59: bing查询命令执行出错	命令原文:trans -brief -engine bing -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:10 engine.go:43: google查询命令执行出错	命令原文:trans -brief -engine google -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:20 engine.go:43: google查询命令执行出错	命令原文:trans -brief -engine google -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:20 engine.go:59: bing查询命令执行出错	命令原文:trans -brief -engine bing -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:30 engine.go:59: bing查询命令执行出错	命令原文:trans -brief -engine bing -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:30 engine.go:43: google查询命令执行出错	命令原文:trans -brief -engine google -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:40 engine.go:43: google查询命令执行出错	命令原文:trans -brief -engine google -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+1
+2025/01/16 18:29:40 engine.go:59: bing查询命令执行出错	命令原文:trans -brief -engine bing -proxy 192.168.1.35:8889 :zh-CN Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+	错误原文:exec: "trans": executable file not found in %PATH%
+2025/01/16 18:36:00 translate.go:38: 开始转换
+2025/01/16 18:36:00 whisper.go:77: 翻译之前序号"1
+"时间"00:00:00,000 --> 00:00:06,960
+"正文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"空行"
+"
+1
+2025/01/16 18:36:04 whisper.go:103: 翻译之后序号"1
+"时间"00:00:00,000 --> 00:00:06,960
+"正文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"空行"
+"
+1
+2025/01/16 18:36:04 whisper.go:104: 原文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"	译文"嘿，妈妈，我现在要去海边见那个女孩了，祝我好运吧。"
+1
+2025/01/16 18:36:04 whisper.go:77: 翻译之前序号"2
+"时间"00:00:07,960 --> 00:00:08,940
+"正文"You're going to do what?
+"空行"
+"
+2
+2025/01/16 18:36:07 whisper.go:103: 翻译之后序号"2
+"时间"00:00:07,960 --> 00:00:08,940
+"正文"You're going to do what?
+"空行"
+"
+2
+2025/01/16 18:36:07 whisper.go:104: 原文"You're going to do what?
+"	译文"你要做什么？"
+2
+2025/01/16 18:36:07 whisper.go:77: 翻译之前序号"3
+"时间"00:00:09,560 --> 00:00:12,540
+"正文"I'm going to the beach to meet that girl that I was telling you about.
+"空行"
+"
+3
+2025/01/16 18:36:10 whisper.go:103: 翻译之后序号"3
+"时间"00:00:09,560 --> 00:00:12,540
+"正文"I'm going to the beach to meet that girl that I was telling you about.
+"空行"
+"
+3
+2025/01/16 18:36:10 whisper.go:104: 原文"I'm going to the beach to meet that girl that I was telling you about.
+"	译文"我要去海边见我跟你提过的那个女孩。"
+3
+2025/01/16 18:36:10 whisper.go:77: 翻译之前序号"4
+"时间"00:00:13,360 --> 00:00:15,600
+"正文"Uh, you need to take care of something.
+"空行"
+"
+4
+2025/01/16 18:36:14 whisper.go:103: 翻译之后序号"4
+"时间"00:00:13,360 --> 00:00:15,600
+"正文"Uh, you need to take care of something.
+"空行"
+"
+4
+2025/01/16 18:36:14 whisper.go:104: 原文"Uh, you need to take care of something.
+"	译文"你得去办点事"
+4
+2025/01/16 18:36:14 whisper.go:77: 翻译之前序号"5
+"时间"00:00:16,180 --> 00:00:16,640
+"正文"What?
+"空行"
+"
+5
+2025/01/16 18:36:18 whisper.go:103: 翻译之后序号"5
+"时间"00:00:16,180 --> 00:00:16,640
+"正文"What?
+"空行"
+"
+5
+2025/01/16 18:36:18 whisper.go:104: 原文"What?
+"	译文"什么？"
+5
+2025/01/16 18:36:18 whisper.go:77: 翻译之前序号"6
+"时间"00:00:17,420 --> 00:00:20,080
+"正文"Sweetie, you have a hard-on.
+"空行"
+"
+6
+2025/01/16 18:36:21 whisper.go:103: 翻译之后序号"6
+"时间"00:00:17,420 --> 00:00:20,080
+"正文"Sweetie, you have a hard-on.
+"空行"
+"
+6
+2025/01/16 18:36:21 whisper.go:104: 原文"Sweetie, you have a hard-on.
+"	译文"亲爱的，你勃起了"
+6
+2025/01/16 18:36:21 whisper.go:77: 翻译之前序号"7
+"时间"00:00:20,820 --> 00:00:25,220
+"正文"Mom, we're not supposed to talk about that stuff.
+"空行"
+"
+7
+2025/01/16 18:36:23 whisper.go:103: 翻译之后序号"7
+"时间"00:00:20,820 --> 00:00:25,220
+"正文"Mom, we're not supposed to talk about that stuff.
+"空行"
+"
+7
+2025/01/16 18:36:23 whisper.go:104: 原文"Mom, we're not supposed to talk about that stuff.
+"	译文"Mom, we're not supposed to talk about that stuff.
+"
+7
+2025/01/16 18:36:23 whisper.go:77: 翻译之前序号"8
+"时间"00:00:25,460 --> 00:00:26,840
+"正文"It's like really hard.
+"空行"
+"
+8
+2025/01/16 18:36:25 whisper.go:103: 翻译之后序号"8
+"时间"00:00:25,460 --> 00:00:26,840
+"正文"It's like really hard.
+"空行"
+"
+8
+2025/01/16 18:36:25 whisper.go:104: 原文"It's like really hard.
+"	译文"这就像真的很难。"
+8
+2025/01/16 18:36:25 whisper.go:77: 翻译之前序号"9
+"时间"00:00:27,560 --> 00:00:28,980
+"正文"I know, I...
+"空行"
+"
+9
+2025/01/16 18:36:28 whisper.go:103: 翻译之后序号"9
+"时间"00:00:27,560 --> 00:00:28,980
+"正文"I know, I...
+"空行"
+"
+9
+2025/01/16 18:36:28 whisper.go:104: 原文"I know, I...
+"	译文"我知道，我..."
+9
+2025/01/16 18:36:28 whisper.go:77: 翻译之前序号"10
+"时间"00:00:28,980 --> 00:00:30,440
+"正文"You can't go out like that.
+"空行"
+"
+10
+2025/01/16 18:36:31 whisper.go:103: 翻译之后序号"10
+"时间"00:00:28,980 --> 00:00:30,440
+"正文"You can't go out like that.
+"空行"
+"
+10
+2025/01/16 18:36:31 whisper.go:104: 原文"You can't go out like that.
+"	译文"你不能这样出去"
+10
+2025/01/16 18:36:31 whisper.go:77: 翻译之前序号"11
+"时间"00:00:30,680 --> 00:00:32,440
+"正文"What do you want me to do? What am I supposed to do?
+"空行"
+"
+11
+2025/01/16 18:36:34 whisper.go:103: 翻译之后序号"11
+"时间"00:00:30,680 --> 00:00:32,440
+"正文"What do you want me to do? What am I supposed to do?
+"空行"
+"
+11
+2025/01/16 18:36:34 whisper.go:104: 原文"What do you want me to do? What am I supposed to do?
+"	译文"你想让我做什么？ 我该怎么做？"
+11
+2025/01/16 18:36:34 whisper.go:77: 翻译之前序号"12
+"时间"00:00:32,500 --> 00:00:34,580
+"正文"You need to take care of it before you go and see this girl.
+"空行"
+"
+12
+2025/01/16 18:36:38 whisper.go:103: 翻译之后序号"12
+"时间"00:00:32,500 --> 00:00:34,580
+"正文"You need to take care of it before you go and see this girl.
+"空行"
+"
+12
+2025/01/16 18:36:38 whisper.go:104: 原文"You need to take care of it before you go and see this girl.
+"	译文"在你去见这个女孩之前，你得把它处理好。"
+12
+2025/01/16 18:36:38 whisper.go:77: 翻译之前序号"13
+"时间"00:00:35,180 --> 00:00:40,900
+"正文"Like, I tried, like, in my room, but, I mean, it was kind of weird, because, like, you know,
+"空行"
+"
+13
+2025/01/16 18:36:41 whisper.go:103: 翻译之后序号"13
+"时间"00:00:35,180 --> 00:00:40,900
+"正文"Like, I tried, like, in my room, but, I mean, it was kind of weird, because, like, you know,
+"空行"
+"
+13
+2025/01/16 18:36:41 whisper.go:104: 原文"Like, I tried, like, in my room, but, I mean, it was kind of weird, because, like, you know,
+"	译文"我试过在我的房间里，但是，我的意思是，这有点奇怪，因为，就像，你知道的、"
+13
+2025/01/16 18:36:41 whisper.go:77: 翻译之前序号"14
+"时间"00:00:41,220 --> 00:00:46,460
+"正文"stepmom's in the house, and, like, she'd be listening, and it just didn't really work out,
+"空行"
+"
+14
+2025/01/16 18:36:45 whisper.go:103: 翻译之后序号"14
+"时间"00:00:41,220 --> 00:00:46,460
+"正文"stepmom's in the house, and, like, she'd be listening, and it just didn't really work out,
+"空行"
+"
+14
+2025/01/16 18:36:45 whisper.go:104: 原文"stepmom's in the house, and, like, she'd be listening, and it just didn't really work out,
+"	译文"继母在家里，她会在一旁听着，但这并不奏效、"
+14
+2025/01/16 18:36:45 whisper.go:77: 翻译之前序号"15
+"时间"00:00:46,520 --> 00:00:48,060
+"正文"so I'm just going to go for it.
+"空行"
+"
+15
+2025/01/16 18:36:47 whisper.go:103: 翻译之后序号"15
+"时间"00:00:46,520 --> 00:00:48,060
+"正文"so I'm just going to go for it.
+"空行"
+"
+15
+2025/01/16 18:36:47 whisper.go:104: 原文"so I'm just going to go for it.
+"	译文"所以，我就这么做了。"
+15
+2025/01/16 18:36:47 whisper.go:77: 翻译之前序号"16
+"时间"00:00:48,180 --> 00:00:50,100
+"正文"You don't think your dad doesn't masturbate?
+"空行"
+"
+16
+2025/01/16 18:36:51 whisper.go:103: 翻译之后序号"16
+"时间"00:00:48,180 --> 00:00:50,100
+"正文"You don't think your dad doesn't masturbate?
+"空行"
+"
+16
+2025/01/16 18:36:51 whisper.go:104: 原文"You don't think your dad doesn't masturbate?
+"	译文"你以为你爸爸不会手淫吗？"
+16
+2025/01/16 18:36:51 whisper.go:77: 翻译之前序号"17
+"时间"00:00:50,760 --> 00:00:53,140
+"正文"I don't want to know if my dad's masturbating.
+"空行"
+"
+17
+2025/01/16 18:36:54 whisper.go:103: 翻译之后序号"17
+"时间"00:00:50,760 --> 00:00:53,140
+"正文"I don't want to know if my dad's masturbating.
+"空行"
+"
+17
+2025/01/16 18:36:54 whisper.go:104: 原文"I don't want to know if my dad's masturbating.
+"	译文"我不想知道我爸爸是不是在自慰。"
+17
+2025/01/16 18:36:54 whisper.go:77: 翻译之前序号"18
+"时间"00:00:53,140 --> 00:00:58,500
+"正文"He does, and, you know, I mean, it's a very healthy thing, and it needs to be taken care of,
+"空行"
+"
+18
+2025/01/16 18:36:57 whisper.go:103: 翻译之后序号"18
+"时间"00:00:53,140 --> 00:00:58,500
+"正文"He does, and, you know, I mean, it's a very healthy thing, and it needs to be taken care of,
+"空行"
+"
+18
+2025/01/16 18:36:57 whisper.go:104: 原文"He does, and, you know, I mean, it's a very healthy thing, and it needs to be taken care of,
+"	译文"他是这么想的，你知道，我的意思是，这是一个非常健康的事情，它需要得到照顾、"
+18
+2025/01/16 18:36:57 whisper.go:77: 翻译之前序号"19
+"时间"00:00:58,880 --> 00:00:58,940
+"正文"and...
+"空行"
+"
+19
+2025/01/16 18:36:59 whisper.go:103: 翻译之后序号"19
+"时间"00:00:58,880 --> 00:00:58,940
+"正文"and...
+"空行"
+"
+19
+2025/01/16 18:36:59 whisper.go:104: 原文"and...
+"	译文"和..."
+19
+2025/01/16 18:36:59 whisper.go:77: 翻译之前序号"20
+"时间"00:00:58,980 --> 00:01:00,740
+"正文"And you get more stressed, and you can't...
+"空行"
+"
+20
+2025/01/16 18:37:05 whisper.go:103: 翻译之后序号"20
+"时间"00:00:58,980 --> 00:01:00,740
+"正文"And you get more stressed, and you can't...
+"空行"
+"
+20
+2025/01/16 18:37:05 whisper.go:104: 原文"And you get more stressed, and you can't...
+"	译文"你的压力越来越大，无法..."
+20
+2025/01/16 18:37:05 whisper.go:77: 翻译之前序号"21
+"时间"00:01:00,740 --> 00:01:02,680
+"正文"You cannot go out in public with a hard-on.
+"空行"
+"
+21
+2025/01/16 18:37:08 whisper.go:103: 翻译之后序号"21
+"时间"00:01:00,740 --> 00:01:02,680
+"正文"You cannot go out in public with a hard-on.
+"空行"
+"
+21
+2025/01/16 18:37:08 whisper.go:104: 原文"You cannot go out in public with a hard-on.
+"	译文"勃起后不能在公共场合露面。"
+21
+2025/01/16 18:37:08 whisper.go:77: 翻译之前序号"22
+"时间"00:01:02,800 --> 00:01:03,980
+"正文"People are going to look at you weird.
+"空行"
+"
+22
+2025/01/16 18:37:11 whisper.go:103: 翻译之后序号"22
+"时间"00:01:02,800 --> 00:01:03,980
+"正文"People are going to look at you weird.
+"空行"
+"
+22
+2025/01/16 18:37:11 whisper.go:104: 原文"People are going to look at you weird.
+"	译文"人们会用奇怪的眼光看你。"
+22
+2025/01/16 18:37:11 whisper.go:77: 翻译之前序号"23
+"时间"00:01:04,120 --> 00:01:05,860
+"正文"Well, maybe the girl will take care of it, huh?
+"空行"
+"
+23
+2025/01/16 18:37:15 whisper.go:103: 翻译之后序号"23
+"时间"00:01:04,120 --> 00:01:05,860
+"正文"Well, maybe the girl will take care of it, huh?
+"空行"
+"
+23
+2025/01/16 18:37:15 whisper.go:104: 原文"Well, maybe the girl will take care of it, huh?
+"	译文"好吧，也许女孩会照顾它，是吧？"
+23
+2025/01/16 18:37:15 whisper.go:77: 翻译之前序号"24
+"时间"00:01:06,140 --> 00:01:08,600
+"正文"She is too young to be doing that.
+"空行"
+"
+24
+2025/01/16 18:37:18 whisper.go:103: 翻译之后序号"24
+"时间"00:01:06,140 --> 00:01:08,600
+"正文"She is too young to be doing that.
+"空行"
+"
+24
+2025/01/16 18:37:18 whisper.go:104: 原文"She is too young to be doing that.
+"	译文"她还太小，不应该这么做。"
+24
+2025/01/16 18:37:18 whisper.go:77: 翻译之前序号"25
+"时间"00:01:08,780 --> 00:01:08,920
+"正文"What?
+"空行"
+"
+25
+2025/01/16 18:37:21 whisper.go:103: 翻译之后序号"25
+"时间"00:01:08,780 --> 00:01:08,920
+"正文"What?
+"空行"
+"
+25
+2025/01/16 18:37:21 whisper.go:104: 原文"What?
+"	译文"什么？"
+25
+2025/01/16 18:37:21 whisper.go:77: 翻译之前序号"26
+"时间"00:01:08,920 --> 00:01:09,880
+"正文"You can't be doing that.
+"空行"
+"
+26
+2025/01/16 18:37:24 whisper.go:103: 翻译之后序号"26
+"时间"00:01:08,920 --> 00:01:09,880
+"正文"You can't be doing that.
+"空行"
+"
+26
+2025/01/16 18:37:24 whisper.go:104: 原文"You can't be doing that.
+"	译文"你不能这么做"
+26
+2025/01/16 18:37:24 whisper.go:77: 翻译之前序号"27
+"时间"00:01:10,240 --> 00:01:10,780
+"正文"I can what?
+"空行"
+"
+27
+2025/01/16 18:37:27 whisper.go:103: 翻译之后序号"27
+"时间"00:01:10,240 --> 00:01:10,780
+"正文"I can what?
+"空行"
+"
+27
+2025/01/16 18:37:27 whisper.go:104: 原文"I can what?
+"	译文"我能什么？"
+27
+2025/01/16 18:37:27 whisper.go:77: 翻译之前序号"28
+"时间"00:01:10,780 --> 00:01:14,900
+"正文"No, it needs to be taken care of before you leave the house, or you can't leave.
+"空行"
+"
+28
+2025/01/16 18:37:30 whisper.go:103: 翻译之后序号"28
+"时间"00:01:10,780 --> 00:01:14,900
+"正文"No, it needs to be taken care of before you leave the house, or you can't leave.
+"空行"
+"
+28
+2025/01/16 18:37:30 whisper.go:104: 原文"No, it needs to be taken care of before you leave the house, or you can't leave.
+"	译文"不，必须在离开家之前处理好，否则就不能离开。"
+28
+2025/01/16 18:37:30 whisper.go:77: 翻译之前序号"29
+"时间"00:01:15,060 --> 00:01:16,140
+"正文"What am I supposed to do?
+"空行"
+"
+29
+2025/01/16 18:37:34 whisper.go:103: 翻译之后序号"29
+"时间"00:01:15,060 --> 00:01:16,140
+"正文"What am I supposed to do?
+"空行"
+"
+29
+2025/01/16 18:37:34 whisper.go:104: 原文"What am I supposed to do?
+"	译文"我该怎么办？"
+29
+2025/01/16 18:37:34 whisper.go:77: 翻译之前序号"30
+"时间"00:01:16,580 --> 00:01:18,020
+"正文"How about I take care of it for you?
+"空行"
+"
+30
+2025/01/16 18:37:37 whisper.go:103: 翻译之后序号"30
+"时间"00:01:16,580 --> 00:01:18,020
+"正文"How about I take care of it for you?
+"空行"
+"
+30
+2025/01/16 18:37:37 whisper.go:104: 原文"How about I take care of it for you?
+"	译文"我来帮你处理如何？"
+30
+2025/01/16 18:37:37 whisper.go:77: 翻译之前序号"31
+"时间"00:01:18,900 --> 00:01:19,660
+"正文"You're my mom.
+"空行"
+"
+31
+2025/01/16 18:37:40 whisper.go:103: 翻译之后序号"31
+"时间"00:01:18,900 --> 00:01:19,660
+"正文"You're my mom.
+"空行"
+"
+31
+2025/01/16 18:37:40 whisper.go:104: 原文"You're my mom.
+"	译文"你是我妈妈"
+31
+2025/01/16 18:37:40 whisper.go:77: 翻译之前序号"32
+"时间"00:01:20,460 --> 00:01:22,180
+"正文"I'm your stepmom. It's fine.
+"空行"
+"
+32
+2025/01/16 18:37:44 whisper.go:103: 翻译之后序号"32
+"时间"00:01:20,460 --> 00:01:22,180
+"正文"I'm your stepmom. It's fine.
+"空行"
+"
+32
+2025/01/16 18:37:44 whisper.go:104: 原文"I'm your stepmom. It's fine.
+"	译文"我是你的继母 没事的"
+32
+2025/01/16 18:37:44 whisper.go:77: 翻译之前序号"33
+"时间"00:01:22,800 --> 00:01:23,320
+"正文"It's fine.
+"空行"
+"
+33
+2025/01/16 18:37:47 whisper.go:103: 翻译之后序号"33
+"时间"00:01:22,800 --> 00:01:23,320
+"正文"It's fine.
+"空行"
+"
+33
+2025/01/16 18:37:47 whisper.go:104: 原文"It's fine.
+"	译文"没关系。"
+33
+2025/01/16 18:37:47 whisper.go:77: 翻译之前序号"34
+"时间"00:01:23,320 --> 00:01:27,840
+"正文"I can take care of it, and I can show you what to do, and then you can go have your nice little date.
+"空行"
+"
+34
+2025/01/16 18:37:50 whisper.go:103: 翻译之后序号"34
+"时间"00:01:23,320 --> 00:01:27,840
+"正文"I can take care of it, and I can show you what to do, and then you can go have your nice little date.
+"空行"
+"
+34
+2025/01/16 18:37:50 whisper.go:104: 原文"I can take care of it, and I can show you what to do, and then you can go have your nice little date.
+"	译文"我可以帮你处理，我可以教你怎么做，然后你就可以去约会了。"
+34
+2025/01/16 18:37:50 whisper.go:77: 翻译之前序号"35
+"时间"00:01:28,340 --> 00:01:28,880
+"正文"You know, I mean...
+"空行"
+"
+35
+2025/01/16 18:37:54 whisper.go:103: 翻译之后序号"35
+"时间"00:01:28,340 --> 00:01:28,880
+"正文"You know, I mean...
+"空行"
+"
+35
+2025/01/16 18:37:54 whisper.go:104: 原文"You know, I mean...
+"	译文"你知道，我的意思是..."
+35
+2025/01/16 18:37:54 whisper.go:77: 翻译之前序号"36
+"时间"00:01:28,980 --> 00:01:29,980
+"正文"I mean, I don't know.
+"空行"
+"
+36
+2025/01/16 18:37:57 whisper.go:103: 翻译之后序号"36
+"时间"00:01:28,980 --> 00:01:29,980
+"正文"I mean, I don't know.
+"空行"
+"
+36
+2025/01/16 18:37:57 whisper.go:104: 原文"I mean, I don't know.
+"	译文"我的意思是，我不知道。"
+36
+2025/01/16 18:37:57 whisper.go:77: 翻译之前序号"37
+"时间"00:01:29,980 --> 00:01:31,900
+"正文"I think I'm a pretty good-looking stepmom, right?
+"空行"
+"
+37
+2025/01/16 18:38:00 whisper.go:103: 翻译之后序号"37
+"时间"00:01:29,980 --> 00:01:31,900
+"正文"I think I'm a pretty good-looking stepmom, right?
+"空行"
+"
+37
+2025/01/16 18:38:00 whisper.go:104: 原文"I think I'm a pretty good-looking stepmom, right?
+"	译文"我想我是个漂亮的继母，对吗？"
+37
+2025/01/16 18:38:00 whisper.go:77: 翻译之前序号"38
+"时间"00:01:31,900 --> 00:01:35,520
+"正文"I mean, yeah, you're super hot, and I can kind of see your boobs.
+"空行"
+"
+38
+2025/01/16 18:38:04 whisper.go:103: 翻译之后序号"38
+"时间"00:01:31,900 --> 00:01:35,520
+"正文"I mean, yeah, you're super hot, and I can kind of see your boobs.
+"空行"
+"
+38
+2025/01/16 18:38:04 whisper.go:104: 原文"I mean, yeah, you're super hot, and I can kind of see your boobs.
+"	译文"我是说，是啊，你超级性感，我都能看到你的胸部了。"
+38
+2025/01/16 18:38:04 whisper.go:77: 翻译之前序号"39
+"时间"00:01:36,280 --> 00:01:37,700
+"正文"I know. I always walk around like that.
+"空行"
+"
+39
+2025/01/16 18:38:07 whisper.go:103: 翻译之后序号"39
+"时间"00:01:36,280 --> 00:01:37,700
+"正文"I know. I always walk around like that.
+"空行"
+"
+39
+2025/01/16 18:38:07 whisper.go:104: 原文"I know. I always walk around like that.
+"	译文"我知道 我总是这样走来走去"
+39
+2025/01/16 18:38:07 whisper.go:77: 翻译之前序号"40
+"时间"00:01:37,700 --> 00:01:40,400
+"正文"I mean, your mom never wears a bra, so, you know?
+"空行"
+"
+40
+2025/01/16 18:38:09 whisper.go:103: 翻译之后序号"40
+"时间"00:01:37,700 --> 00:01:40,400
+"正文"I mean, your mom never wears a bra, so, you know?
+"空行"
+"
+40
+2025/01/16 18:38:09 whisper.go:104: 原文"I mean, your mom never wears a bra, so, you know?
+"	译文"我是说，你妈妈从来不戴胸罩，所以，你知道吗？"
+40
+2025/01/16 18:38:09 whisper.go:77: 翻译之前序号"41
+"时间"00:01:41,100 --> 00:01:43,380
+"正文"But why don't you just...
+"空行"
+"
+41
+2025/01/16 18:38:14 whisper.go:103: 翻译之后序号"41
+"时间"00:01:41,100 --> 00:01:43,380
+"正文"But why don't you just...
+"空行"
+"
+41
+2025/01/16 18:38:14 whisper.go:104: 原文"But why don't you just...
+"	译文"但你为什么不..."
+41
+2025/01/16 18:38:14 whisper.go:77: 翻译之前序号"42
+"时间"00:01:43,380 --> 00:01:45,740
+"正文"Mom, if Dad comes in and sees this...
+"空行"
+"
+42
+2025/01/16 18:38:17 whisper.go:103: 翻译之后序号"42
+"时间"00:01:43,380 --> 00:01:45,740
+"正文"Mom, if Dad comes in and sees this...
+"空行"
+"
+42
+2025/01/16 18:38:17 whisper.go:104: 原文"Mom, if Dad comes in and sees this...
+"	译文"妈妈，如果爸爸进来看到这个..."
+42
+2025/01/16 18:38:17 whisper.go:77: 翻译之前序号"43
+"时间"00:01:45,740 --> 00:01:48,060
+"正文"He's at work. He's not going to see this, you know?
+"空行"
+"
+43
+2025/01/16 18:38:21 whisper.go:103: 翻译之后序号"43
+"时间"00:01:45,740 --> 00:01:48,060
+"正文"He's at work. He's not going to see this, you know?
+"空行"
+"
+43
+2025/01/16 18:38:21 whisper.go:104: 原文"He's at work. He's not going to see this, you know?
+"	译文"他在工作 他不会看到这个的，你知道吗？"
+43
+2025/01/16 18:38:21 whisper.go:77: 翻译之前序号"44
+"时间"00:01:48,400 --> 00:01:49,680
+"正文"I can just take care of it.
+"空行"
+"
+44
+2025/01/16 18:38:24 whisper.go:103: 翻译之后序号"44
+"时间"00:01:48,400 --> 00:01:49,680
+"正文"I can just take care of it.
+"空行"
+"
+44
+2025/01/16 18:38:24 whisper.go:104: 原文"I can just take care of it.
+"	译文"我可以自己解决。"
+44
+2025/01/16 18:38:24 whisper.go:77: 翻译之前序号"45
+"时间"00:01:49,680 --> 00:01:50,640
+"正文"You're touching it.
+"空行"
+"
+45
+2025/01/16 18:38:27 whisper.go:103: 翻译之后序号"45
+"时间"00:01:49,680 --> 00:01:50,640
+"正文"You're touching it.
+"空行"
+"
+45
+2025/01/16 18:38:27 whisper.go:104: 原文"You're touching it.
+"	译文"你在触摸它"
+45
+2025/01/16 18:38:27 whisper.go:77: 翻译之前序号"46
+"时间"00:01:51,220 --> 00:01:53,440
+"正文"Yeah, I am. I'm very much touching it.
+"空行"
+"
+46
+2025/01/16 18:38:30 whisper.go:103: 翻译之后序号"46
+"时间"00:01:51,220 --> 00:01:53,440
+"正文"Yeah, I am. I'm very much touching it.
+"空行"
+"
+46
+2025/01/16 18:38:30 whisper.go:104: 原文"Yeah, I am. I'm very much touching it.
+"	译文"是的 我非常喜欢"
+46
+2025/01/16 18:38:30 whisper.go:77: 翻译之前序号"47
+"时间"00:01:53,960 --> 00:01:56,260
+"正文"But it's so hard. It's sticking out of your pants.
+"空行"
+"
+47
+2025/01/16 18:38:34 whisper.go:103: 翻译之后序号"47
+"时间"00:01:53,960 --> 00:01:56,260
+"正文"But it's so hard. It's sticking out of your pants.
+"空行"
+"
+47
+2025/01/16 18:38:34 whisper.go:104: 原文"But it's so hard. It's sticking out of your pants.
+"	译文"但它太硬了 它从你的裤子里伸出来了"
+47
+2025/01/16 18:38:34 whisper.go:77: 翻译之前序号"48
+"时间"00:01:56,880 --> 00:01:57,400
+"正文"Come on.
+"空行"
+"
+48
+2025/01/16 18:38:37 whisper.go:103: 翻译之后序号"48
+"时间"00:01:56,880 --> 00:01:57,400
+"正文"Come on.
+"空行"
+"
+48
+2025/01/16 18:38:37 whisper.go:104: 原文"Come on.
+"	译文"来吧"
+48
+2025/01/16 18:38:37 whisper.go:77: 翻译之前序号"49
+"时间"00:01:58,380 --> 00:01:58,880
+"正文"Let your mom know.
+"空行"
+"
+49
+2025/01/16 18:38:40 whisper.go:103: 翻译之后序号"49
+"时间"00:01:58,380 --> 00:01:58,880
+"正文"Let your mom know.
+"空行"
+"
+49
+2025/01/16 18:38:40 whisper.go:104: 原文"Let your mom know.
+"	译文"让你妈妈知道"
+49
+2025/01/16 18:38:40 whisper.go:77: 翻译之前序号"50
+"时间"00:01:58,880 --> 00:02:01,540
+"正文"Let your mom just take care of it, so why don't you just lay down?
+"空行"
+"
+50
+2025/01/16 18:38:44 whisper.go:103: 翻译之后序号"50
+"时间"00:01:58,880 --> 00:02:01,540
+"正文"Let your mom just take care of it, so why don't you just lay down?
+"空行"
+"
+50
+2025/01/16 18:38:44 whisper.go:104: 原文"Let your mom just take care of it, so why don't you just lay down?
+"	译文"让你妈妈来处理吧 你为什么不躺下来呢？"
+50
+2025/01/16 18:38:44 whisper.go:77: 翻译之前序号"51
+"时间"00:02:01,940 --> 00:02:02,600
+"正文"Sit down right there.
+"空行"
+"
+51
+2025/01/16 18:38:47 whisper.go:103: 翻译之后序号"51
+"时间"00:02:01,940 --> 00:02:02,600
+"正文"Sit down right there.
+"空行"
+"
+51
+2025/01/16 18:38:47 whisper.go:104: 原文"Sit down right there.
+"	译文"坐在那里"
+51
+2025/01/16 18:38:47 whisper.go:77: 翻译之前序号"52
+"时间"00:02:03,240 --> 00:02:03,640
+"正文"Okay.
+"空行"
+"
+52
+2025/01/16 18:38:50 whisper.go:103: 翻译之后序号"52
+"时间"00:02:03,240 --> 00:02:03,640
+"正文"Okay.
+"空行"
+"
+52
+2025/01/16 18:38:50 whisper.go:104: 原文"Okay.
+"	译文"好的"
+52
+2025/01/16 18:38:50 whisper.go:77: 翻译之前序号"53
+"时间"00:02:03,820 --> 00:02:04,280
+"正文"Sit right there.
+"空行"
+"
+53
+2025/01/16 18:38:54 whisper.go:103: 翻译之后序号"53
+"时间"00:02:03,820 --> 00:02:04,280
+"正文"Sit right there.
+"空行"
+"
+53
+2025/01/16 18:38:54 whisper.go:104: 原文"Sit right there.
+"	译文"坐在那儿"
+53
+2025/01/16 18:38:54 whisper.go:77: 翻译之前序号"54
+"时间"00:02:04,880 --> 00:02:05,280
+"正文"Okay?
+"空行"
+"
+54
+2025/01/16 18:38:57 whisper.go:103: 翻译之后序号"54
+"时间"00:02:04,880 --> 00:02:05,280
+"正文"Okay?
+"空行"
+"
+54
+2025/01/16 18:38:57 whisper.go:104: 原文"Okay?
+"	译文"好吗？"
+54
+2025/01/16 18:38:57 whisper.go:77: 翻译之前序号"55
+"时间"00:02:05,580 --> 00:02:05,980
+"正文"Okay.
+"空行"
+"
+55
+2025/01/16 18:39:00 whisper.go:103: 翻译之后序号"55
+"时间"00:02:05,580 --> 00:02:05,980
+"正文"Okay.
+"空行"
+"
+55
+2025/01/16 18:39:00 whisper.go:104: 原文"Okay.
+"	译文"好的"
+55
+2025/01/16 18:39:00 whisper.go:77: 翻译之前序号"56
+"时间"00:02:07,280 --> 00:02:10,000
+"正文"All right. Let me just show you what to do.
+"空行"
+"
+56
+2025/01/16 18:39:04 whisper.go:103: 翻译之后序号"56
+"时间"00:02:07,280 --> 00:02:10,000
+"正文"All right. Let me just show you what to do.
+"空行"
+"
+56
+2025/01/16 18:39:04 whisper.go:104: 原文"All right. Let me just show you what to do.
+"	译文"好的 我来教你怎么做"
+56
+2025/01/16 18:39:04 whisper.go:77: 翻译之前序号"57
+"时间"00:02:10,460 --> 00:02:11,280
+"正文"All right.
+"空行"
+"
+57
+2025/01/16 18:39:07 whisper.go:103: 翻译之后序号"57
+"时间"00:02:10,460 --> 00:02:11,280
+"正文"All right.
+"空行"
+"
+57
+2025/01/16 18:39:07 whisper.go:104: 原文"All right.
+"	译文"好的"
+57
+2025/01/16 18:39:07 whisper.go:77: 翻译之前序号"58
+"时间"00:02:11,540 --> 00:02:11,940
+"正文"Okay.
+"空行"
+"
+58
+2025/01/16 18:39:10 whisper.go:103: 翻译之后序号"58
+"时间"00:02:11,540 --> 00:02:11,940
+"正文"Okay.
+"空行"
+"
+58
+2025/01/16 18:39:10 whisper.go:104: 原文"Okay.
+"	译文"好的"
+58
+2025/01/16 18:39:10 whisper.go:77: 翻译之前序号"59
+"时间"00:02:13,000 --> 00:02:14,700
+"正文"Let your mom just take care of this.
+"空行"
+"
+59
+2025/01/16 18:39:14 whisper.go:103: 翻译之后序号"59
+"时间"00:02:13,000 --> 00:02:14,700
+"正文"Let your mom just take care of this.
+"空行"
+"
+59
+2025/01/16 18:39:14 whisper.go:104: 原文"Let your mom just take care of this.
+"	译文"让你妈妈来处理吧"
+59
+2025/01/16 18:39:14 whisper.go:77: 翻译之前序号"60
+"时间"00:02:15,700 --> 00:02:17,220
+"正文"I can't believe this is happening.
+"空行"
+"
+60
+2025/01/16 18:39:17 whisper.go:103: 翻译之后序号"60
+"时间"00:02:15,700 --> 00:02:17,220
+"正文"I can't believe this is happening.
+"空行"
+"
+60
+2025/01/16 18:39:17 whisper.go:104: 原文"I can't believe this is happening.
+"	译文"真不敢相信会发生这种事。"
+60
+2025/01/16 18:39:17 whisper.go:77: 翻译之前序号"61
+"时间"00:02:19,300 --> 00:02:19,700
+"正文"Oh.
+"空行"
+"
+61
+2025/01/16 18:39:20 whisper.go:103: 翻译之后序号"61
+"时间"00:02:19,300 --> 00:02:19,700
+"正文"Oh.
+"空行"
+"
+61
+2025/01/16 18:39:20 whisper.go:104: 原文"Oh.
+"	译文"哦。"
+61
+2025/01/16 18:39:20 whisper.go:77: 翻译之前序号"62
+"时间"00:02:21,080 --> 00:02:22,400
+"正文"Let me see what you have.
+"空行"
+"
+62
+2025/01/16 18:39:24 whisper.go:103: 翻译之后序号"62
+"时间"00:02:21,080 --> 00:02:22,400
+"正文"Let me see what you have.
+"空行"
+"
+62
+2025/01/16 18:39:24 whisper.go:104: 原文"Let me see what you have.
+"	译文"让我看看你有什么。"
+62
+2025/01/16 18:39:24 whisper.go:77: 翻译之前序号"63
+"时间"00:02:22,780 --> 00:02:24,200
+"正文"Gosh, it's just sticking out.
+"空行"
+"
+63
+2025/01/16 18:39:27 whisper.go:103: 翻译之后序号"63
+"时间"00:02:22,780 --> 00:02:24,200
+"正文"Gosh, it's just sticking out.
+"空行"
+"
+63
+2025/01/16 18:39:27 whisper.go:104: 原文"Gosh, it's just sticking out.
+"	译文"天哪，它就这么伸出来了。"
+63
+2025/01/16 18:39:27 whisper.go:77: 翻译之前序号"64
+"时间"00:02:25,620 --> 00:02:26,620
+"正文"Take these off.
+"空行"
+"
+64
+2025/01/16 18:39:30 whisper.go:103: 翻译之后序号"64
+"时间"00:02:25,620 --> 00:02:26,620
+"正文"Take these off.
+"空行"
+"
+64
+2025/01/16 18:39:30 whisper.go:104: 原文"Take these off.
+"	译文"把这些脱掉"
+64
+2025/01/16 18:39:30 whisper.go:77: 翻译之前序号"65
+"时间"00:02:27,320 --> 00:02:28,480
+"正文"Okay, but I got them in either way.
+"空行"
+"
+65
+2025/01/16 18:39:33 whisper.go:103: 翻译之后序号"65
+"时间"00:02:27,320 --> 00:02:28,480
+"正文"Okay, but I got them in either way.
+"空行"
+"
+65
+2025/01/16 18:39:33 whisper.go:104: 原文"Okay, but I got them in either way.
+"	译文"好吧，但不管用哪种方法，我都把它们弄进来了。"
+65
+2025/01/16 18:39:33 whisper.go:77: 翻译之前序号"66
+"时间"00:02:28,880 --> 00:02:29,700
+"正文"Just take them off.
+"空行"
+"
+66
+2025/01/16 18:39:35 whisper.go:103: 翻译之后序号"66
+"时间"00:02:28,880 --> 00:02:29,700
+"正文"Just take them off.
+"空行"
+"
+66
+2025/01/16 18:39:35 whisper.go:104: 原文"Just take them off.
+"	译文"脱掉就好。"
+66
+2025/01/16 18:39:35 whisper.go:77: 翻译之前序号"67
+"时间"00:02:30,140 --> 00:02:30,420
+"正文"Goodness.
+"空行"
+"
+67
+2025/01/16 18:39:39 whisper.go:103: 翻译之后序号"67
+"时间"00:02:30,140 --> 00:02:30,420
+"正文"Goodness.
+"空行"
+"
+67
+2025/01/16 18:39:39 whisper.go:104: 原文"Goodness.
+"	译文"天哪"
+67
+2025/01/16 18:39:39 whisper.go:77: 翻译之前序号"68
+"时间"00:02:31,880 --> 00:02:32,700
+"正文"Take this off.
+"空行"
+"
+68
+2025/01/16 18:39:42 whisper.go:103: 翻译之后序号"68
+"时间"00:02:31,880 --> 00:02:32,700
+"正文"Take this off.
+"空行"
+"
+68
+2025/01/16 18:39:42 whisper.go:104: 原文"Take this off.
+"	译文"把这个脱掉"
+68
+2025/01/16 18:39:42 whisper.go:77: 翻译之前序号"69
+"时间"00:02:34,440 --> 00:02:35,420
+"正文"Good job.
+"空行"
+"
+69
+2025/01/16 18:39:45 whisper.go:103: 翻译之后序号"69
+"时间"00:02:34,440 --> 00:02:35,420
+"正文"Good job.
+"空行"
+"
+69
+2025/01/16 18:39:45 whisper.go:104: 原文"Good job.
+"	译文"干得好"
+69
+2025/01/16 18:39:45 whisper.go:77: 翻译之前序号"70
+"时间"00:02:36,240 --> 00:02:37,080
+"正文"There we go.
+"空行"
+"
+70
+2025/01/16 18:39:48 whisper.go:103: 翻译之后序号"70
+"时间"00:02:36,240 --> 00:02:37,080
+"正文"There we go.
+"空行"
+"
+70
+2025/01/16 18:39:48 whisper.go:104: 原文"There we go.
+"	译文"好了"
+70
+2025/01/16 18:39:48 whisper.go:77: 翻译之前序号"71
+"时间"00:02:37,500 --> 00:02:39,160
+"正文"Okay, I guess you're doing this, huh?
+"空行"
+"
+71
+2025/01/16 18:39:51 whisper.go:103: 翻译之后序号"71
+"时间"00:02:37,500 --> 00:02:39,160
+"正文"Okay, I guess you're doing this, huh?
+"空行"
+"
+71
+2025/01/16 18:39:51 whisper.go:104: 原文"Okay, I guess you're doing this, huh?
+"	译文"好吧，我猜你在做这个，是吧？"
+71
+2025/01/16 18:39:51 whisper.go:77: 翻译之前序号"72
+"时间"00:02:39,160 --> 00:02:39,480
+"正文"Mm-hmm.
+"空行"
+"
+72
+2025/01/16 18:39:54 whisper.go:103: 翻译之后序号"72
+"时间"00:02:39,160 --> 00:02:39,480
+"正文"Mm-hmm.
+"空行"
+"
+72
+2025/01/16 18:39:54 whisper.go:104: 原文"Mm-hmm.
+"	译文"嗯"
+72
+2025/01/16 18:39:54 whisper.go:77: 翻译之前序号"73
+"时间"00:02:39,680 --> 00:02:41,180
+"正文"Take these boxers off.
+"空行"
+"
+73
+2025/01/16 18:39:56 whisper.go:103: 翻译之后序号"73
+"时间"00:02:39,680 --> 00:02:41,180
+"正文"Take these boxers off.
+"空行"
+"
+73
+2025/01/16 18:39:56 whisper.go:104: 原文"Take these boxers off.
+"	译文"把内裤脱了"
+73
+2025/01/16 18:39:56 whisper.go:77: 翻译之前序号"74
+"时间"00:02:43,080 --> 00:02:44,540
+"正文"These are clean boxers, right?
+"空行"
+"
+74
+2025/01/16 18:40:00 whisper.go:103: 翻译之后序号"74
+"时间"00:02:43,080 --> 00:02:44,540
+"正文"These are clean boxers, right?
+"空行"
+"
+74
+2025/01/16 18:40:00 whisper.go:104: 原文"These are clean boxers, right?
+"	译文"这些是干净的拳击手，对吗？"
+74
+2025/01/16 18:40:00 whisper.go:77: 翻译之前序号"75
+"时间"00:02:44,700 --> 00:02:45,260
+"正文"Yes, they're clean.
+"空行"
+"
+75
+2025/01/16 18:40:04 whisper.go:103: 翻译之后序号"75
+"时间"00:02:44,700 --> 00:02:45,260
+"正文"Yes, they're clean.
+"空行"
+"
+75
+2025/01/16 18:40:04 whisper.go:104: 原文"Yes, they're clean.
+"	译文"是的，它们很干净。"
+75
+2025/01/16 18:40:04 whisper.go:77: 翻译之前序号"76
+"时间"00:02:45,260 --> 00:02:46,460
+"正文"Yes, I washed them.
+"空行"
+"
+76
+2025/01/16 18:40:07 whisper.go:103: 翻译之后序号"76
+"时间"00:02:45,260 --> 00:02:46,460
+"正文"Yes, I washed them.
+"空行"
+"
+76
+2025/01/16 18:40:07 whisper.go:104: 原文"Yes, I washed them.
+"	译文"是的，我洗过了。"
+76
+2025/01/16 18:40:07 whisper.go:77: 翻译之前序号"77
+"时间"00:02:47,840 --> 00:02:48,640
+"正文"Oh, goodness.
+"空行"
+"
+77
+2025/01/16 18:40:10 whisper.go:103: 翻译之后序号"77
+"时间"00:02:47,840 --> 00:02:48,640
+"正文"Oh, goodness.
+"空行"
+"
+77
+2025/01/16 18:40:10 whisper.go:104: 原文"Oh, goodness.
+"	译文"哦，天哪"
+77
+2025/01/16 18:40:10 whisper.go:77: 翻译之前序号"78
+"时间"00:02:49,380 --> 00:02:49,700
+"正文"So.
+"空行"
+"
+78
+2025/01/16 18:40:14 whisper.go:103: 翻译之后序号"78
+"时间"00:02:49,380 --> 00:02:49,700
+"正文"So.
+"空行"
+"
+78
+2025/01/16 18:40:14 whisper.go:104: 原文"So.
+"	译文"那么"
+78
+2025/01/16 18:40:14 whisper.go:77: 翻译之前序号"79
+"时间"00:02:51,500 --> 00:02:52,720
+"正文"Oh, that feels good.
+"空行"
+"
+79
+2025/01/16 18:40:17 whisper.go:103: 翻译之后序号"79
+"时间"00:02:51,500 --> 00:02:52,720
+"正文"Oh, that feels good.
+"空行"
+"
+79
+2025/01/16 18:40:17 whisper.go:104: 原文"Oh, that feels good.
+"	译文"哦，感觉真好。"
+79
+2025/01/16 18:40:17 whisper.go:77: 翻译之前序号"80
+"时间"00:02:52,720 --> 00:02:54,480
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+80
+2025/01/16 18:40:20 whisper.go:103: 翻译之后序号"80
+"时间"00:02:52,720 --> 00:02:54,480
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+80
+2025/01/16 18:40:20 whisper.go:104: 原文"Yeah, it feels really good, doesn't it?
+"	译文"是啊，感觉真不错，不是吗？"
+80
+2025/01/16 18:40:20 whisper.go:77: 翻译之前序号"81
+"时间"00:02:54,480 --> 00:02:55,340
+"正文"Yeah, it does.
+"空行"
+"
+81
+2025/01/16 18:40:24 whisper.go:103: 翻译之后序号"81
+"时间"00:02:54,480 --> 00:02:55,340
+"正文"Yeah, it does.
+"空行"
+"
+81
+2025/01/16 18:40:24 whisper.go:104: 原文"Yeah, it does.
+"	译文"是的，确实如此。"
+81
+2025/01/16 18:40:24 whisper.go:77: 翻译之前序号"82
+"时间"00:02:55,340 --> 00:02:55,860
+"正文"Oh.
+"空行"
+"
+82
+2025/01/16 18:40:27 whisper.go:103: 翻译之后序号"82
+"时间"00:02:55,340 --> 00:02:55,860
+"正文"Oh.
+"空行"
+"
+82
+2025/01/16 18:40:27 whisper.go:104: 原文"Oh.
+"	译文"哦。"
+82
+2025/01/16 18:40:27 whisper.go:77: 翻译之前序号"83
+"时间"00:02:57,060 --> 00:02:57,900
+"正文"Oh.
+"空行"
+"
+83
+2025/01/16 18:40:31 whisper.go:103: 翻译之后序号"83
+"时间"00:02:57,060 --> 00:02:57,900
+"正文"Oh.
+"空行"
+"
+83
+2025/01/16 18:40:31 whisper.go:104: 原文"Oh.
+"	译文"哦。"
+83
+2025/01/16 18:40:31 whisper.go:77: 翻译之前序号"84
+"时间"00:02:58,880 --> 00:03:00,320
+"正文"You like what I put in my cock?
+"空行"
+"
+84
+2025/01/16 18:40:34 whisper.go:103: 翻译之后序号"84
+"时间"00:02:58,880 --> 00:03:00,320
+"正文"You like what I put in my cock?
+"空行"
+"
+84
+2025/01/16 18:40:34 whisper.go:104: 原文"You like what I put in my cock?
+"	译文"你喜欢我在鸡巴里放的东西吗？"
+84
+2025/01/16 18:40:34 whisper.go:77: 翻译之前序号"85
+"时间"00:03:00,560 --> 00:03:00,880
+"正文"Yeah.
+"空行"
+"
+85
+2025/01/16 18:40:37 whisper.go:103: 翻译之后序号"85
+"时间"00:03:00,560 --> 00:03:00,880
+"正文"Yeah.
+"空行"
+"
+85
+2025/01/16 18:40:37 whisper.go:104: 原文"Yeah.
+"	译文"是啊"
+85
+2025/01/16 18:40:37 whisper.go:77: 翻译之前序号"86
+"时间"00:03:01,000 --> 00:03:02,100
+"正文"Your cock in my mouth?
+"空行"
+"
+86
+2025/01/16 18:40:40 whisper.go:103: 翻译之后序号"86
+"时间"00:03:01,000 --> 00:03:02,100
+"正文"Your cock in my mouth?
+"空行"
+"
+86
+2025/01/16 18:40:40 whisper.go:104: 原文"Your cock in my mouth?
+"	译文"你的鸡巴在我嘴里？"
+86
+2025/01/16 18:40:40 whisper.go:77: 翻译之前序号"87
+"时间"00:03:04,940 --> 00:03:05,900
+"正文"Mm-hmm.
+"空行"
+"
+87
+2025/01/16 18:40:43 whisper.go:103: 翻译之后序号"87
+"时间"00:03:04,940 --> 00:03:05,900
+"正文"Mm-hmm.
+"空行"
+"
+87
+2025/01/16 18:40:43 whisper.go:104: 原文"Mm-hmm.
+"	译文"嗯"
+87
+2025/01/16 18:40:43 whisper.go:77: 翻译之前序号"88
+"时间"00:03:08,520 --> 00:03:09,080
+"正文"Mm.
+"空行"
+"
+88
+2025/01/16 18:40:46 whisper.go:103: 翻译之后序号"88
+"时间"00:03:08,520 --> 00:03:09,080
+"正文"Mm.
+"空行"
+"
+88
+2025/01/16 18:40:46 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+88
+2025/01/16 18:40:46 whisper.go:77: 翻译之前序号"89
+"时间"00:03:11,860 --> 00:03:12,820
+"正文"Mm, yeah.
+"空行"
+"
+89
+2025/01/16 18:40:49 whisper.go:103: 翻译之后序号"89
+"时间"00:03:11,860 --> 00:03:12,820
+"正文"Mm, yeah.
+"空行"
+"
+89
+2025/01/16 18:40:49 whisper.go:104: 原文"Mm, yeah.
+"	译文"嗯，是的"
+89
+2025/01/16 18:40:49 whisper.go:77: 翻译之前序号"90
+"时间"00:03:17,040 --> 00:03:17,560
+"正文"Mm.
+"空行"
+"
+90
+2025/01/16 18:40:52 whisper.go:103: 翻译之后序号"90
+"时间"00:03:17,040 --> 00:03:17,560
+"正文"Mm.
+"空行"
+"
+90
+2025/01/16 18:40:52 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+90
+2025/01/16 18:40:52 whisper.go:77: 翻译之前序号"91
+"时间"00:03:17,560 --> 00:03:17,960
+"正文"Mm.
+"空行"
+"
+91
+2025/01/16 18:40:55 whisper.go:103: 翻译之后序号"91
+"时间"00:03:17,560 --> 00:03:17,960
+"正文"Mm.
+"空行"
+"
+91
+2025/01/16 18:40:55 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+91
+2025/01/16 18:40:55 whisper.go:77: 翻译之前序号"92
+"时间"00:03:23,880 --> 00:03:25,440
+"正文"Oh, my God, it feels good.
+"空行"
+"
+92
+2025/01/16 18:40:59 whisper.go:103: 翻译之后序号"92
+"时间"00:03:23,880 --> 00:03:25,440
+"正文"Oh, my God, it feels good.
+"空行"
+"
+92
+2025/01/16 18:40:59 whisper.go:104: 原文"Oh, my God, it feels good.
+"	译文"天哪，感觉真好"
+92
+2025/01/16 18:40:59 whisper.go:77: 翻译之前序号"93
+"时间"00:03:26,520 --> 00:03:28,800
+"正文"Mm, yeah, you like your mom's mouth, right?
+"空行"
+"
+93
+2025/01/16 18:41:02 whisper.go:103: 翻译之后序号"93
+"时间"00:03:26,520 --> 00:03:28,800
+"正文"Mm, yeah, you like your mom's mouth, right?
+"空行"
+"
+93
+2025/01/16 18:41:02 whisper.go:104: 原文"Mm, yeah, you like your mom's mouth, right?
+"	译文"嗯，是的，你喜欢你妈妈的嘴，对吗？"
+93
+2025/01/16 18:41:02 whisper.go:77: 翻译之前序号"94
+"时间"00:03:29,660 --> 00:03:30,200
+"正文"Oh, my God.
+"空行"
+"
+94
+2025/01/16 18:41:04 whisper.go:103: 翻译之后序号"94
+"时间"00:03:29,660 --> 00:03:30,200
+"正文"Oh, my God.
+"空行"
+"
+94
+2025/01/16 18:41:04 whisper.go:104: 原文"Oh, my God.
+"	译文"我的天啊"
+94
+2025/01/16 18:41:05 whisper.go:77: 翻译之前序号"95
+"时间"00:03:30,200 --> 00:03:30,740
+"正文"You like that?
+"空行"
+"
+95
+2025/01/16 18:41:07 whisper.go:103: 翻译之后序号"95
+"时间"00:03:30,200 --> 00:03:30,740
+"正文"You like that?
+"空行"
+"
+95
+2025/01/16 18:41:07 whisper.go:104: 原文"You like that?
+"	译文"喜欢吗？"
+95
+2025/01/16 18:41:07 whisper.go:77: 翻译之前序号"96
+"时间"00:03:30,860 --> 00:03:31,180
+"正文"Don't you?
+"空行"
+"
+96
+2025/01/16 18:41:10 whisper.go:103: 翻译之后序号"96
+"时间"00:03:30,860 --> 00:03:31,180
+"正文"Don't you?
+"空行"
+"
+96
+2025/01/16 18:41:10 whisper.go:104: 原文"Don't you?
+"	译文"不是吗？"
+96
+2025/01/16 18:41:10 whisper.go:77: 翻译之前序号"97
+"时间"00:03:32,260 --> 00:03:33,960
+"正文"Oh, good.
+"空行"
+"
+97
+2025/01/16 18:41:14 whisper.go:103: 翻译之后序号"97
+"时间"00:03:32,260 --> 00:03:33,960
+"正文"Oh, good.
+"空行"
+"
+97
+2025/01/16 18:41:14 whisper.go:104: 原文"Oh, good.
+"	译文"哦，很好"
+97
+2025/01/16 18:41:14 whisper.go:77: 翻译之前序号"98
+"时间"00:03:35,560 --> 00:03:35,600
+"正文"Oh.
+"空行"
+"
+98
+2025/01/16 18:41:17 whisper.go:103: 翻译之后序号"98
+"时间"00:03:35,560 --> 00:03:35,600
+"正文"Oh.
+"空行"
+"
+98
+2025/01/16 18:41:17 whisper.go:104: 原文"Oh.
+"	译文"哦。"
+98
+2025/01/16 18:41:17 whisper.go:77: 翻译之前序号"99
+"时间"00:03:35,600 --> 00:03:36,420
+"正文"Don't that feel good?
+"空行"
+"
+99
+2025/01/16 18:41:21 whisper.go:103: 翻译之后序号"99
+"时间"00:03:35,600 --> 00:03:36,420
+"正文"Don't that feel good?
+"空行"
+"
+99
+2025/01/16 18:41:21 whisper.go:104: 原文"Don't that feel good?
+"	译文"感觉不错吧？"
+99
+2025/01/16 18:41:21 whisper.go:77: 翻译之前序号"100
+"时间"00:03:36,420 --> 00:03:36,960
+"正文"It does.
+"空行"
+"
+100
+2025/01/16 18:41:24 whisper.go:103: 翻译之后序号"100
+"时间"00:03:36,420 --> 00:03:36,960
+"正文"It does.
+"空行"
+"
+100
+2025/01/16 18:41:24 whisper.go:104: 原文"It does.
+"	译文"确实如此。"
+100
+2025/01/16 18:41:24 whisper.go:77: 翻译之前序号"101
+"时间"00:03:37,480 --> 00:03:38,180
+"正文"Mm-hmm.
+"空行"
+"
+101
+2025/01/16 18:41:28 whisper.go:103: 翻译之后序号"101
+"时间"00:03:37,480 --> 00:03:38,180
+"正文"Mm-hmm.
+"空行"
+"
+101
+2025/01/16 18:41:28 whisper.go:104: 原文"Mm-hmm.
+"	译文"嗯"
+101
+2025/01/16 18:41:28 whisper.go:77: 翻译之前序号"102
+"时间"00:03:42,140 --> 00:03:43,000
+"正文"Mm.
+"空行"
+"
+102
+2025/01/16 18:41:31 whisper.go:103: 翻译之后序号"102
+"时间"00:03:42,140 --> 00:03:43,000
+"正文"Mm.
+"空行"
+"
+102
+2025/01/16 18:41:31 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+102
+2025/01/16 18:41:31 whisper.go:77: 翻译之前序号"103
+"时间"00:03:44,580 --> 00:03:45,940
+"正文"Mm.
+"空行"
+"
+103
+2025/01/16 18:41:34 whisper.go:103: 翻译之后序号"103
+"时间"00:03:44,580 --> 00:03:45,940
+"正文"Mm.
+"空行"
+"
+103
+2025/01/16 18:41:34 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+103
+2025/01/16 18:41:34 whisper.go:77: 翻译之前序号"104
+"时间"00:03:47,200 --> 00:03:48,080
+"正文"Oh.
+"空行"
+"
+104
+2025/01/16 18:41:37 whisper.go:103: 翻译之后序号"104
+"时间"00:03:47,200 --> 00:03:48,080
+"正文"Oh.
+"空行"
+"
+104
+2025/01/16 18:41:37 whisper.go:104: 原文"Oh.
+"	译文"哦。"
+104
+2025/01/16 18:41:37 whisper.go:77: 翻译之前序号"105
+"时间"00:03:48,640 --> 00:03:51,180
+"正文"This is how a real woman sucks cock.
+"空行"
+"
+105
+2025/01/16 18:41:41 whisper.go:103: 翻译之后序号"105
+"时间"00:03:48,640 --> 00:03:51,180
+"正文"This is how a real woman sucks cock.
+"空行"
+"
+105
+2025/01/16 18:41:41 whisper.go:104: 原文"This is how a real woman sucks cock.
+"	译文"这才是真正的女人口交。"
+105
+2025/01/16 18:41:41 whisper.go:77: 翻译之前序号"106
+"时间"00:03:52,140 --> 00:03:53,200
+"正文"Oh, good.
+"空行"
+"
+106
+2025/01/16 18:41:44 whisper.go:103: 翻译之后序号"106
+"时间"00:03:52,140 --> 00:03:53,200
+"正文"Oh, good.
+"空行"
+"
+106
+2025/01/16 18:41:44 whisper.go:104: 原文"Oh, good.
+"	译文"哦，很好"
+106
+2025/01/16 18:41:44 whisper.go:77: 翻译之前序号"107
+"时间"00:03:54,720 --> 00:03:54,860
+"正文"Mm.
+"空行"
+"
+107
+2025/01/16 18:41:48 whisper.go:103: 翻译之后序号"107
+"时间"00:03:54,720 --> 00:03:54,860
+"正文"Mm.
+"空行"
+"
+107
+2025/01/16 18:41:48 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+107
+2025/01/16 18:41:48 whisper.go:77: 翻译之前序号"108
+"时间"00:03:56,280 --> 00:03:57,960
+"正文"Mm.
+"空行"
+"
+108
+2025/01/16 18:41:51 whisper.go:103: 翻译之后序号"108
+"时间"00:03:56,280 --> 00:03:57,960
+"正文"Mm.
+"空行"
+"
+108
+2025/01/16 18:41:51 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+108
+2025/01/16 18:41:51 whisper.go:77: 翻译之前序号"109
+"时间"00:03:57,960 --> 00:03:58,240
+"正文"Mm.
+"空行"
+"
+109
+2025/01/16 18:41:54 whisper.go:103: 翻译之后序号"109
+"时间"00:03:57,960 --> 00:03:58,240
+"正文"Mm.
+"空行"
+"
+109
+2025/01/16 18:41:54 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+109
+2025/01/16 18:41:54 whisper.go:77: 翻译之前序号"110
+"时间"00:03:58,240 --> 00:03:58,280
+"正文"Mm.
+"空行"
+"
+110
+2025/01/16 18:41:57 whisper.go:103: 翻译之后序号"110
+"时间"00:03:58,240 --> 00:03:58,280
+"正文"Mm.
+"空行"
+"
+110
+2025/01/16 18:41:57 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+110
+2025/01/16 18:41:57 whisper.go:77: 翻译之前序号"111
+"时间"00:03:58,280 --> 00:03:58,320
+"正文"Mm.
+"空行"
+"
+111
+2025/01/16 18:42:01 whisper.go:103: 翻译之后序号"111
+"时间"00:03:58,280 --> 00:03:58,320
+"正文"Mm.
+"空行"
+"
+111
+2025/01/16 18:42:01 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+111
+2025/01/16 18:42:01 whisper.go:77: 翻译之前序号"112
+"时间"00:03:58,320 --> 00:03:58,660
+"正文"Mm.
+"空行"
+"
+112
+2025/01/16 18:42:03 whisper.go:103: 翻译之后序号"112
+"时间"00:03:58,320 --> 00:03:58,660
+"正文"Mm.
+"空行"
+"
+112
+2025/01/16 18:42:03 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+112
+2025/01/16 18:42:03 whisper.go:77: 翻译之前序号"113
+"时间"00:03:58,660 --> 00:03:58,680
+"正文"Oh.
+"空行"
+"
+113
+2025/01/16 18:42:06 whisper.go:103: 翻译之后序号"113
+"时间"00:03:58,660 --> 00:03:58,680
+"正文"Oh.
+"空行"
+"
+113
+2025/01/16 18:42:06 whisper.go:104: 原文"Oh.
+"	译文"哦。"
+113
+2025/01/16 18:42:06 whisper.go:77: 翻译之前序号"114
+"时间"00:03:58,680 --> 00:03:58,740
+"正文"Mm.
+"空行"
+"
+114
+2025/01/16 18:42:10 whisper.go:103: 翻译之后序号"114
+"时间"00:03:58,680 --> 00:03:58,740
+"正文"Mm.
+"空行"
+"
+114
+2025/01/16 18:42:10 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+114
+2025/01/16 18:42:10 whisper.go:77: 翻译之前序号"115
+"时间"00:03:58,740 --> 00:03:58,820
+"正文"Mm.
+"空行"
+"
+115
+2025/01/16 18:42:14 whisper.go:103: 翻译之后序号"115
+"时间"00:03:58,740 --> 00:03:58,820
+"正文"Mm.
+"空行"
+"
+115
+2025/01/16 18:42:14 whisper.go:104: 原文"Mm.
+"	译文"嗯 Mm."
+115
+2025/01/16 18:42:14 whisper.go:77: 翻译之前序号"116
+"时间"00:03:58,880 --> 00:04:00,880
+"正文"Mm-hmm
+"空行"
+"
+116
+2025/01/16 18:42:17 whisper.go:103: 翻译之后序号"116
+"时间"00:03:58,880 --> 00:04:00,880
+"正文"Mm-hmm
+"空行"
+"
+116
+2025/01/16 18:42:17 whisper.go:104: 原文"Mm-hmm
+"	译文"嗯"
+116
+2025/01/16 18:42:17 whisper.go:77: 翻译之前序号"117
+"时间"00:04:28,880 --> 00:04:30,880
+"正文"Oh, fuck.
+"空行"
+"
+117
+2025/01/16 18:42:20 whisper.go:103: 翻译之后序号"117
+"时间"00:04:28,880 --> 00:04:30,880
+"正文"Oh, fuck.
+"空行"
+"
+117
+2025/01/16 18:42:20 whisper.go:104: 原文"Oh, fuck.
+"	译文"妈的"
+117
+2025/01/16 18:42:20 whisper.go:77: 翻译之前序号"118
+"时间"00:04:41,880 --> 00:04:43,880
+"正文"I can't believe my mom was sucking my cock.
+"空行"
+"
+118
+2025/01/16 18:42:24 whisper.go:103: 翻译之后序号"118
+"时间"00:04:41,880 --> 00:04:43,880
+"正文"I can't believe my mom was sucking my cock.
+"空行"
+"
+118
+2025/01/16 18:42:24 whisper.go:104: 原文"I can't believe my mom was sucking my cock.
+"	译文"真不敢相信，我妈竟然在给我口交"
+118
+2025/01/16 18:42:24 whisper.go:77: 翻译之前序号"119
+"时间"00:04:45,880 --> 00:04:47,880
+"正文"And you can't tell your dad about this.
+"空行"
+"
+119
+2025/01/16 18:42:27 whisper.go:103: 翻译之后序号"119
+"时间"00:04:45,880 --> 00:04:47,880
+"正文"And you can't tell your dad about this.
+"空行"
+"
+119
+2025/01/16 18:42:27 whisper.go:104: 原文"And you can't tell your dad about this.
+"	译文"你不能告诉你爸爸这件事"
+119
+2025/01/16 18:42:27 whisper.go:77: 翻译之前序号"120
+"时间"00:04:49,880 --> 00:04:51,880
+"正文"It feels good when you stroke it.
+"空行"
+"
+120
+2025/01/16 18:42:30 whisper.go:103: 翻译之后序号"120
+"时间"00:04:49,880 --> 00:04:51,880
+"正文"It feels good when you stroke it.
+"空行"
+"
+120
+2025/01/16 18:42:30 whisper.go:104: 原文"It feels good when you stroke it.
+"	译文"抚摸时感觉很好。"
+120
+2025/01/16 18:42:30 whisper.go:77: 翻译之前序号"121
+"时间"00:04:51,880 --> 00:04:53,880
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+121
+2025/01/16 18:42:34 whisper.go:103: 翻译之后序号"121
+"时间"00:04:51,880 --> 00:04:53,880
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+121
+2025/01/16 18:42:34 whisper.go:104: 原文"Yeah, it feels really good, doesn't it?
+"	译文"是啊，感觉真不错，不是吗？"
+121
+2025/01/16 18:42:34 whisper.go:77: 翻译之前序号"122
+"时间"00:04:58,880 --> 00:05:00,880
+"正文"Mmm.
+"空行"
+"
+122
+2025/01/16 18:42:37 whisper.go:103: 翻译之后序号"122
+"时间"00:04:58,880 --> 00:05:00,880
+"正文"Mmm.
+"空行"
+"
+122
+2025/01/16 18:42:37 whisper.go:104: 原文"Mmm.
+"	译文"嗯"
+122
+2025/01/16 18:42:37 whisper.go:77: 翻译之前序号"123
+"时间"00:05:04,880 --> 00:05:06,880
+"正文"It's so hard with your mom.
+"空行"
+"
+123
+2025/01/16 18:42:40 whisper.go:103: 翻译之后序号"123
+"时间"00:05:04,880 --> 00:05:06,880
+"正文"It's so hard with your mom.
+"空行"
+"
+123
+2025/01/16 18:42:40 whisper.go:104: 原文"It's so hard with your mom.
+"	译文"和你妈妈在一起真不容易。"
+123
+2025/01/16 18:42:40 whisper.go:77: 翻译之前序号"124
+"时间"00:05:06,880 --> 00:05:08,880
+"正文"Yeah.
+"空行"
+"
+124
+2025/01/16 18:42:44 whisper.go:103: 翻译之后序号"124
+"时间"00:05:06,880 --> 00:05:08,880
+"正文"Yeah.
+"空行"
+"
+124
+2025/01/16 18:42:44 whisper.go:104: 原文"Yeah.
+"	译文"是啊"
+124
+2025/01/16 18:42:44 whisper.go:77: 翻译之前序号"125
+"时间"00:05:08,880 --> 00:05:10,880
+"正文"Oh, fuck yes.
+"空行"
+"
+125
+2025/01/16 18:42:48 whisper.go:103: 翻译之后序号"125
+"时间"00:05:08,880 --> 00:05:10,880
+"正文"Oh, fuck yes.
+"空行"
+"
+125
+2025/01/16 18:42:48 whisper.go:104: 原文"Oh, fuck yes.
+"	译文"哦，他妈的是的。"
+125
+2025/01/16 18:42:48 whisper.go:77: 翻译之前序号"126
+"时间"00:05:18,880 --> 00:05:20,880
+"正文"Mommy, can you ride me?
+"空行"
+"
+126
+2025/01/16 18:42:51 whisper.go:103: 翻译之后序号"126
+"时间"00:05:18,880 --> 00:05:20,880
+"正文"Mommy, can you ride me?
+"空行"
+"
+126
+2025/01/16 18:42:51 whisper.go:104: 原文"Mommy, can you ride me?
+"	译文"妈妈，你能骑我吗？"
+126
+2025/01/16 18:42:51 whisper.go:77: 翻译之前序号"127
+"时间"00:05:20,880 --> 00:05:22,880
+"正文"Yes, of course you can ride me.
+"空行"
+"
+127
+2025/01/16 18:42:54 whisper.go:103: 翻译之后序号"127
+"时间"00:05:20,880 --> 00:05:22,880
+"正文"Yes, of course you can ride me.
+"空行"
+"
+127
+2025/01/16 18:42:54 whisper.go:104: 原文"Yes, of course you can ride me.
+"	译文"是的，你当然可以骑我。"
+127
+2025/01/16 18:42:54 whisper.go:77: 翻译之前序号"128
+"时间"00:05:26,880 --> 00:05:28,880
+"正文"Yes.
+"空行"
+"
+128
+2025/01/16 18:42:57 whisper.go:103: 翻译之后序号"128
+"时间"00:05:26,880 --> 00:05:28,880
+"正文"Yes.
+"空行"
+"
+128
+2025/01/16 18:42:57 whisper.go:104: 原文"Yes.
+"	译文"是的。"
+128
+2025/01/16 18:42:57 whisper.go:77: 翻译之前序号"129
+"时间"00:05:28,880 --> 00:05:29,880
+"正文"Oh, fuck.
+"空行"
+"
+129
+2025/01/16 18:43:00 whisper.go:103: 翻译之后序号"129
+"时间"00:05:28,880 --> 00:05:29,880
+"正文"Oh, fuck.
+"空行"
+"
+129
+2025/01/16 18:43:00 whisper.go:104: 原文"Oh, fuck.
+"	译文"妈的"
+129
+2025/01/16 18:43:00 whisper.go:77: 翻译之前序号"130
+"时间"00:05:31,880 --> 00:05:34,880
+"正文"Let me just, so I don't fucking touch you.
+"空行"
+"
+130
+2025/01/16 18:43:03 whisper.go:103: 翻译之后序号"130
+"时间"00:05:31,880 --> 00:05:34,880
+"正文"Let me just, so I don't fucking touch you.
+"空行"
+"
+130
+2025/01/16 18:43:03 whisper.go:104: 原文"Let me just, so I don't fucking touch you.
+"	译文"让我来，这样我就不会碰你了。"
+130
+2025/01/16 18:43:03 whisper.go:77: 翻译之前序号"131
+"时间"00:05:34,880 --> 00:05:36,880
+"正文"Oh my god.
+"空行"
+"
+131
+2025/01/16 18:43:06 whisper.go:103: 翻译之后序号"131
+"时间"00:05:34,880 --> 00:05:36,880
+"正文"Oh my god.
+"空行"
+"
+131
+2025/01/16 18:43:06 whisper.go:104: 原文"Oh my god.
+"	译文"我的天啊"
+131
+2025/01/16 18:43:06 whisper.go:77: 翻译之前序号"132
+"时间"00:05:38,880 --> 00:05:40,880
+"正文"There you go, up here.
+"空行"
+"
+132
+2025/01/16 18:43:09 whisper.go:103: 翻译之后序号"132
+"时间"00:05:38,880 --> 00:05:40,880
+"正文"There you go, up here.
+"空行"
+"
+132
+2025/01/16 18:43:09 whisper.go:104: 原文"There you go, up here.
+"	译文"你去那里，在这里。"
+132
+2025/01/16 18:43:09 whisper.go:77: 翻译之前序号"133
+"时间"00:05:41,880 --> 00:05:42,880
+"正文"Oh, yes.
+"空行"
+"
+133
+2025/01/16 18:43:12 whisper.go:103: 翻译之后序号"133
+"时间"00:05:41,880 --> 00:05:42,880
+"正文"Oh, yes.
+"空行"
+"
+133
+2025/01/16 18:43:12 whisper.go:104: 原文"Oh, yes.
+"	译文"哦，是的。"
+133
+2025/01/16 18:43:12 whisper.go:77: 翻译之前序号"134
+"时间"00:05:42,880 --> 00:05:44,880
+"正文"There you go.
+"空行"
+"
+134
+2025/01/16 18:43:15 whisper.go:103: 翻译之后序号"134
+"时间"00:05:42,880 --> 00:05:44,880
+"正文"There you go.
+"空行"
+"
+134
+2025/01/16 18:43:15 whisper.go:104: 原文"There you go.
+"	译文"这就对了。"
+134
+2025/01/16 18:43:15 whisper.go:77: 翻译之前序号"135
+"时间"00:05:46,880 --> 00:05:48,880
+"正文"Oh, yes.
+"空行"
+"
+135
+2025/01/16 18:43:18 whisper.go:103: 翻译之后序号"135
+"时间"00:05:46,880 --> 00:05:48,880
+"正文"Oh, yes.
+"空行"
+"
+135
+2025/01/16 18:43:18 whisper.go:104: 原文"Oh, yes.
+"	译文"哦，是的。"
+135
+2025/01/16 18:43:18 whisper.go:77: 翻译之前序号"136
+"时间"00:05:51,880 --> 00:05:52,880
+"正文"Okay.
+"空行"
+"
+136
+2025/01/16 18:43:21 whisper.go:103: 翻译之后序号"136
+"时间"00:05:51,880 --> 00:05:52,880
+"正文"Okay.
+"空行"
+"
+136
+2025/01/16 18:43:21 whisper.go:104: 原文"Okay.
+"	译文"好的"
+136
+2025/01/16 18:43:21 whisper.go:77: 翻译之前序号"137
+"时间"00:05:53,880 --> 00:05:55,880
+"正文"Let's get mommy going back.
+"空行"
+"
+137
+2025/01/16 18:43:24 whisper.go:103: 翻译之后序号"137
+"时间"00:05:53,880 --> 00:05:55,880
+"正文"Let's get mommy going back.
+"空行"
+"
+137
+2025/01/16 18:43:24 whisper.go:104: 原文"Let's get mommy going back.
+"	译文"让妈妈回去吧"
+137
+2025/01/16 18:43:24 whisper.go:77: 翻译之前序号"138
+"时间"00:05:55,880 --> 00:05:56,880
+"正文"Yeah.
+"空行"
+"
+138
+2025/01/16 18:43:27 whisper.go:103: 翻译之后序号"138
+"时间"00:05:55,880 --> 00:05:56,880
+"正文"Yeah.
+"空行"
+"
+138
+2025/01/16 18:43:27 whisper.go:104: 原文"Yeah.
+"	译文"是啊"
+138
+2025/01/16 18:43:27 whisper.go:77: 翻译之前序号"139
+"时间"00:05:56,880 --> 00:05:57,880
+"正文"Oh, god.
+"空行"
+"
+139
+2025/01/16 18:43:30 whisper.go:103: 翻译之后序号"139
+"时间"00:05:56,880 --> 00:05:57,880
+"正文"Oh, god.
+"空行"
+"
+139
+2025/01/16 18:43:30 whisper.go:104: 原文"Oh, god.
+"	译文"哦，上帝啊"
+139
+2025/01/16 18:43:30 whisper.go:77: 翻译之前序号"140
+"时间"00:05:57,880 --> 00:05:58,880
+"正文"Oh, yeah.
+"空行"
+"
+140
+2025/01/16 18:43:34 whisper.go:103: 翻译之后序号"140
+"时间"00:05:57,880 --> 00:05:58,880
+"正文"Oh, yeah.
+"空行"
+"
+140
+2025/01/16 18:43:34 whisper.go:104: 原文"Oh, yeah.
+"	译文"哦，是的"
+140
+2025/01/16 18:43:34 whisper.go:77: 翻译之前序号"141
+"时间"00:05:58,880 --> 00:06:01,380
+"正文"Like how tight your mommy's pussies
+"空行"
+"
+141
+2025/01/16 18:43:37 whisper.go:103: 翻译之后序号"141
+"时间"00:05:58,880 --> 00:06:01,380
+"正文"Like how tight your mommy's pussies
+"空行"
+"
+141
+2025/01/16 18:43:37 whisper.go:104: 原文"Like how tight your mommy's pussies
+"	译文"就像你妈妈的阴道有多紧致一样"
+141
+2025/01/16 18:43:37 whisper.go:77: 翻译之前序号"142
+"时间"00:06:01,380 --> 00:06:05,020
+"正文"Oh yeah
+"空行"
+"
+142
+2025/01/16 18:43:40 whisper.go:103: 翻译之后序号"142
+"时间"00:06:01,380 --> 00:06:05,020
+"正文"Oh yeah
+"空行"
+"
+142
+2025/01/16 18:43:40 whisper.go:104: 原文"Oh yeah
+"	译文"是的"
+142
+2025/01/16 18:43:40 whisper.go:77: 翻译之前序号"143
+"时间"00:06:05,020 --> 00:06:08,060
+"正文"You're so good
+"空行"
+"
+143
+2025/01/16 18:43:43 whisper.go:103: 翻译之后序号"143
+"时间"00:06:05,020 --> 00:06:08,060
+"正文"You're so good
+"空行"
+"
+143
+2025/01/16 18:43:43 whisper.go:104: 原文"You're so good
+"	译文"你真棒"
+143
+2025/01/16 18:43:43 whisper.go:77: 翻译之前序号"144
+"时间"00:06:08,060 --> 00:06:09,200
+"正文"I'm so glad you had me
+"空行"
+"
+144
+2025/01/16 18:43:46 whisper.go:103: 翻译之后序号"144
+"时间"00:06:08,060 --> 00:06:09,200
+"正文"I'm so glad you had me
+"空行"
+"
+144
+2025/01/16 18:43:46 whisper.go:104: 原文"I'm so glad you had me
+"	译文"我很高兴你让我"
+144
+2025/01/16 18:43:46 whisper.go:77: 翻译之前序号"145
+"时间"00:06:09,200 --> 00:06:10,040
+"正文"Oh yeah
+"空行"
+"
+145
+2025/01/16 18:43:50 whisper.go:103: 翻译之后序号"145
+"时间"00:06:09,200 --> 00:06:10,040
+"正文"Oh yeah
+"空行"
+"
+145
+2025/01/16 18:43:50 whisper.go:104: 原文"Oh yeah
+"	译文"是的"
+145
+2025/01/16 18:43:50 whisper.go:77: 翻译之前序号"146
+"时间"00:06:10,040 --> 00:06:13,700
+"正文"Teach me all this stuff
+"空行"
+"
+146
+2025/01/16 18:43:52 whisper.go:103: 翻译之后序号"146
+"时间"00:06:10,040 --> 00:06:13,700
+"正文"Teach me all this stuff
+"空行"
+"
+146
+2025/01/16 18:43:52 whisper.go:104: 原文"Teach me all this stuff
+"	译文"教我这些东西"
+146
+2025/01/16 18:43:52 whisper.go:77: 翻译之前序号"147
+"时间"00:06:13,700 --> 00:06:18,120
+"正文"You like that don't you
+"空行"
+"
+147
+2025/01/16 18:43:55 whisper.go:103: 翻译之后序号"147
+"时间"00:06:13,700 --> 00:06:18,120
+"正文"You like that don't you
+"空行"
+"
+147
+2025/01/16 18:43:55 whisper.go:104: 原文"You like that don't you
+"	译文"你喜欢这样，不是吗？"
+147
+2025/01/16 18:43:55 whisper.go:77: 翻译之前序号"148
+"时间"00:06:18,120 --> 00:06:19,340
+"正文"Yeah
+"空行"
+"
+148
+2025/01/16 18:43:58 whisper.go:103: 翻译之后序号"148
+"时间"00:06:18,120 --> 00:06:19,340
+"正文"Yeah
+"空行"
+"
+148
+2025/01/16 18:43:58 whisper.go:104: 原文"Yeah
+"	译文"是的"
+148
+2025/01/16 18:43:58 whisper.go:77: 翻译之前序号"149
+"时间"00:06:19,340 --> 00:06:21,500
+"正文"You like how I'm fucking you
+"空行"
+"
+149
+2025/01/16 18:44:01 whisper.go:103: 翻译之后序号"149
+"时间"00:06:19,340 --> 00:06:21,500
+"正文"You like how I'm fucking you
+"空行"
+"
+149
+2025/01/16 18:44:01 whisper.go:104: 原文"You like how I'm fucking you
+"	译文"你喜欢我和你做爱的方式"
+149
+2025/01/16 18:44:02 whisper.go:77: 翻译之前序号"150
+"时间"00:06:21,500 --> 00:06:23,760
+"正文"Like how your mommy's fucking you don't you
+"空行"
+"
+150
+2025/01/16 18:44:04 whisper.go:103: 翻译之后序号"150
+"时间"00:06:21,500 --> 00:06:23,760
+"正文"Like how your mommy's fucking you don't you
+"空行"
+"
+150
+2025/01/16 18:44:04 whisper.go:104: 原文"Like how your mommy's fucking you don't you
+"	译文"就像你妈妈和你做爱一样，不是吗？"
+150
+2025/01/16 18:44:04 whisper.go:77: 翻译之前序号"151
+"时间"00:06:23,760 --> 00:06:24,660
+"正文"Yeah
+"空行"
+"
+151
+2025/01/16 18:44:08 whisper.go:103: 翻译之后序号"151
+"时间"00:06:23,760 --> 00:06:24,660
+"正文"Yeah
+"空行"
+"
+151
+2025/01/16 18:44:08 whisper.go:104: 原文"Yeah
+"	译文"是的"
+151
+2025/01/16 18:44:08 whisper.go:77: 翻译之前序号"152
+"时间"00:06:24,660 --> 00:06:27,940
+"正文"Yeah I'm gonna turn you into a bad little boy
+"空行"
+"
+152
+2025/01/16 18:44:11 whisper.go:103: 翻译之后序号"152
+"时间"00:06:24,660 --> 00:06:27,940
+"正文"Yeah I'm gonna turn you into a bad little boy
+"空行"
+"
+152
+2025/01/16 18:44:11 whisper.go:104: 原文"Yeah I'm gonna turn you into a bad little boy
+"	译文"我要把你变成一个坏小子"
+152
+2025/01/16 18:44:11 whisper.go:77: 翻译之前序号"153
+"时间"00:06:27,940 --> 00:06:31,800
+"正文"Oh good
+"空行"
+"
+153
+2025/01/16 18:44:14 whisper.go:103: 翻译之后序号"153
+"时间"00:06:27,940 --> 00:06:31,800
+"正文"Oh good
+"空行"
+"
+153
+2025/01/16 18:44:14 whisper.go:104: 原文"Oh good
+"	译文"哦，很好"
+153
+2025/01/16 18:44:14 whisper.go:77: 翻译之前序号"154
+"时间"00:06:31,800 --> 00:06:37,000
+"正文"Oh good
+"空行"
+"
+154
+2025/01/16 18:44:17 whisper.go:103: 翻译之后序号"154
+"时间"00:06:31,800 --> 00:06:37,000
+"正文"Oh good
+"空行"
+"
+154
+2025/01/16 18:44:17 whisper.go:104: 原文"Oh good
+"	译文"哦，很好"
+154
+2025/01/16 18:44:17 whisper.go:77: 翻译之前序号"155
+"时间"00:06:37,000 --> 00:06:49,100
+"正文"Oh yes
+"空行"
+"
+155
+2025/01/16 18:44:20 whisper.go:103: 翻译之后序号"155
+"时间"00:06:37,000 --> 00:06:49,100
+"正文"Oh yes
+"空行"
+"
+155
+2025/01/16 18:44:20 whisper.go:104: 原文"Oh yes
+"	译文"哦，是的"
+155
+2025/01/16 18:44:20 whisper.go:77: 翻译之前序号"156
+"时间"00:06:49,100 --> 00:06:50,960
+"正文"Oh my god yes
+"空行"
+"
+2025/01/16 18:46:31 translate.go:38: 开始转换
+2025/01/16 18:46:31 whisper.go:77: 翻译之前序号"1
+"时间"00:00:00,000 --> 00:00:06,960
+"正文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"空行"
+"
+1
+2025/01/16 18:46:35 whisper.go:104: 插入数据库失败:Error 1045 (28000): Access denied for user 'root'@'192.168.1.6' (using password: YES)
+2025/01/16 18:50:53 translate.go:38: 开始转换
+2025/01/16 18:50:53 whisper.go:77: 翻译之前序号"1
+"时间"00:00:00,000 --> 00:00:06,960
+"正文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"空行"
+"
+1
+2025/01/16 18:50:57 whisper.go:104: 插入数据库失败:Error 1045 (28000): Access denied for user 'root'@'192.168.1.6' (using password: YES)
+2025/01/16 18:54:58 main.go:43: ping mysql err: Error 1045 (28000): Access denied for user 'root'@'192.168.1.6' (using password: YES)
+2025/01/16 18:56:40 main.go:43: ping mysql err: Error 1045 (28000): Access denied for user 'root'@'192.168.1.6' (using password: YES)
+2025/01/16 19:16:24 translate.go:38: 开始转换
+2025/01/16 19:16:24 trans.go:77: 翻译之前序号"1
+"时间"00:00:00,000 --> 00:00:06,960
+"正文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"空行"
+"
+1
+2025/01/16 19:16:27 trans.go:107: 翻译之后序号"1
+"时间"00:00:00,000 --> 00:00:06,960
+"正文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"空行"
+"
+1
+2025/01/16 19:16:27 trans.go:108: 原文"Hey mom, so I'm going to go meet that girl at the beach now, so wish me luck.
+"	译文"嘿，妈妈，我现在要去海边见那个女孩了，祝我好运吧。"
+1
+2025/01/16 19:16:27 trans.go:77: 翻译之前序号"2
+"时间"00:00:07,960 --> 00:00:08,940
+"正文"You're going to do what?
+"空行"
+"
+2
+2025/01/16 19:16:28 trans.go:107: 翻译之后序号"2
+"时间"00:00:07,960 --> 00:00:08,940
+"正文"You're going to do what?
+"空行"
+"
+2
+2025/01/16 19:16:28 trans.go:108: 原文"You're going to do what?
+"	译文"You're going to do what?
+"
+2
+2025/01/16 19:16:28 trans.go:77: 翻译之前序号"3
+"时间"00:00:09,560 --> 00:00:12,540
+"正文"I'm going to the beach to meet that girl that I was telling you about.
+"空行"
+"
+3
+2025/01/16 19:16:31 trans.go:107: 翻译之后序号"3
+"时间"00:00:09,560 --> 00:00:12,540
+"正文"I'm going to the beach to meet that girl that I was telling you about.
+"空行"
+"
+3
+2025/01/16 19:16:31 trans.go:108: 原文"I'm going to the beach to meet that girl that I was telling you about.
+"	译文"我要去海边见我跟你说过的那个女孩。"
+3
+2025/01/16 19:16:31 trans.go:77: 翻译之前序号"4
+"时间"00:00:13,360 --> 00:00:15,600
+"正文"Uh, you need to take care of something.
+"空行"
+"
+4
+2025/01/16 19:16:35 trans.go:107: 翻译之后序号"4
+"时间"00:00:13,360 --> 00:00:15,600
+"正文"Uh, you need to take care of something.
+"空行"
+"
+4
+2025/01/16 19:16:35 trans.go:108: 原文"Uh, you need to take care of something.
+"	译文"你得去办点事"
+4
+2025/01/16 19:16:35 trans.go:77: 翻译之前序号"5
+"时间"00:00:16,180 --> 00:00:16,640
+"正文"What?
+"空行"
+"
+5
+2025/01/16 19:16:38 trans.go:107: 翻译之后序号"5
+"时间"00:00:16,180 --> 00:00:16,640
+"正文"What?
+"空行"
+"
+5
+2025/01/16 19:16:38 trans.go:108: 原文"What?
+"	译文"什么？"
+5
+2025/01/16 19:16:38 trans.go:77: 翻译之前序号"6
+"时间"00:00:17,420 --> 00:00:20,080
+"正文"Sweetie, you have a hard-on.
+"空行"
+"
+6
+2025/01/16 19:16:41 trans.go:107: 翻译之后序号"6
+"时间"00:00:17,420 --> 00:00:20,080
+"正文"Sweetie, you have a hard-on.
+"空行"
+"
+6
+2025/01/16 19:16:41 trans.go:108: 原文"Sweetie, you have a hard-on.
+"	译文"亲爱的，你勃起了"
+6
+2025/01/16 19:16:41 trans.go:77: 翻译之前序号"7
+"时间"00:00:20,820 --> 00:00:25,220
+"正文"Mom, we're not supposed to talk about that stuff.
+"空行"
+"
+7
+2025/01/16 19:16:44 trans.go:107: 翻译之后序号"7
+"时间"00:00:20,820 --> 00:00:25,220
+"正文"Mom, we're not supposed to talk about that stuff.
+"空行"
+"
+7
+2025/01/16 19:16:44 trans.go:108: 原文"Mom, we're not supposed to talk about that stuff.
+"	译文"妈妈，我们不应该谈论这些的。"
+7
+2025/01/16 19:16:44 trans.go:77: 翻译之前序号"8
+"时间"00:00:25,460 --> 00:00:26,840
+"正文"It's like really hard.
+"空行"
+"
+8
+2025/01/16 19:16:47 trans.go:107: 翻译之后序号"8
+"时间"00:00:25,460 --> 00:00:26,840
+"正文"It's like really hard.
+"空行"
+"
+8
+2025/01/16 19:16:47 trans.go:108: 原文"It's like really hard.
+"	译文"这就像真的很难。"
+8
+2025/01/16 19:16:47 trans.go:77: 翻译之前序号"9
+"时间"00:00:27,560 --> 00:00:28,980
+"正文"I know, I...
+"空行"
+"
+9
+2025/01/16 19:16:50 trans.go:107: 翻译之后序号"9
+"时间"00:00:27,560 --> 00:00:28,980
+"正文"I know, I...
+"空行"
+"
+9
+2025/01/16 19:16:50 trans.go:108: 原文"I know, I...
+"	译文"我知道，我..."
+9
+2025/01/16 19:16:50 trans.go:77: 翻译之前序号"10
+"时间"00:00:28,980 --> 00:00:30,440
+"正文"You can't go out like that.
+"空行"
+"
+10
+2025/01/16 19:16:54 trans.go:107: 翻译之后序号"10
+"时间"00:00:28,980 --> 00:00:30,440
+"正文"You can't go out like that.
+"空行"
+"
+10
+2025/01/16 19:16:54 trans.go:108: 原文"You can't go out like that.
+"	译文"你不能这样出去"
+10
+2025/01/16 19:16:54 trans.go:77: 翻译之前序号"11
+"时间"00:00:30,680 --> 00:00:32,440
+"正文"What do you want me to do? What am I supposed to do?
+"空行"
+"
+11
+2025/01/16 19:16:57 trans.go:107: 翻译之后序号"11
+"时间"00:00:30,680 --> 00:00:32,440
+"正文"What do you want me to do? What am I supposed to do?
+"空行"
+"
+11
+2025/01/16 19:16:57 trans.go:108: 原文"What do you want me to do? What am I supposed to do?
+"	译文"你想让我做什么？ 我该怎么做？"
+11
+2025/01/16 19:16:57 trans.go:77: 翻译之前序号"12
+"时间"00:00:32,500 --> 00:00:34,580
+"正文"You need to take care of it before you go and see this girl.
+"空行"
+"
+12
+2025/01/16 19:17:00 trans.go:107: 翻译之后序号"12
+"时间"00:00:32,500 --> 00:00:34,580
+"正文"You need to take care of it before you go and see this girl.
+"空行"
+"
+12
+2025/01/16 19:17:00 trans.go:108: 原文"You need to take care of it before you go and see this girl.
+"	译文"在你去见这个女孩之前，你得把它处理好。"
+12
+2025/01/16 19:17:00 trans.go:77: 翻译之前序号"13
+"时间"00:00:35,180 --> 00:00:40,900
+"正文"Like, I tried, like, in my room, but, I mean, it was kind of weird, because, like, you know,
+"空行"
+"
+13
+2025/01/16 19:17:03 trans.go:107: 翻译之后序号"13
+"时间"00:00:35,180 --> 00:00:40,900
+"正文"Like, I tried, like, in my room, but, I mean, it was kind of weird, because, like, you know,
+"空行"
+"
+13
+2025/01/16 19:17:03 trans.go:108: 原文"Like, I tried, like, in my room, but, I mean, it was kind of weird, because, like, you know,
+"	译文"我试过在我的房间里，但是，我的意思是，这有点奇怪，因为，就像，你知道的、"
+13
+2025/01/16 19:17:03 trans.go:77: 翻译之前序号"14
+"时间"00:00:41,220 --> 00:00:46,460
+"正文"stepmom's in the house, and, like, she'd be listening, and it just didn't really work out,
+"空行"
+"
+14
+2025/01/16 19:17:05 trans.go:107: 翻译之后序号"14
+"时间"00:00:41,220 --> 00:00:46,460
+"正文"stepmom's in the house, and, like, she'd be listening, and it just didn't really work out,
+"空行"
+"
+14
+2025/01/16 19:17:05 trans.go:108: 原文"stepmom's in the house, and, like, she'd be listening, and it just didn't really work out,
+"	译文"继母在家里，她会在一旁听着，但这并不奏效、"
+14
+2025/01/16 19:17:05 trans.go:77: 翻译之前序号"15
+"时间"00:00:46,520 --> 00:00:48,060
+"正文"so I'm just going to go for it.
+"空行"
+"
+15
+2025/01/16 19:17:09 trans.go:107: 翻译之后序号"15
+"时间"00:00:46,520 --> 00:00:48,060
+"正文"so I'm just going to go for it.
+"空行"
+"
+15
+2025/01/16 19:17:09 trans.go:108: 原文"so I'm just going to go for it.
+"	译文"所以，我就这么做了。"
+15
+2025/01/16 19:17:09 trans.go:77: 翻译之前序号"16
+"时间"00:00:48,180 --> 00:00:50,100
+"正文"You don't think your dad doesn't masturbate?
+"空行"
+"
+16
+2025/01/16 19:17:12 trans.go:107: 翻译之后序号"16
+"时间"00:00:48,180 --> 00:00:50,100
+"正文"You don't think your dad doesn't masturbate?
+"空行"
+"
+16
+2025/01/16 19:17:12 trans.go:108: 原文"You don't think your dad doesn't masturbate?
+"	译文"你以为你爸爸不会手淫吗？"
+16
+2025/01/16 19:17:12 trans.go:77: 翻译之前序号"17
+"时间"00:00:50,760 --> 00:00:53,140
+"正文"I don't want to know if my dad's masturbating.
+"空行"
+"
+17
+2025/01/16 19:17:15 trans.go:107: 翻译之后序号"17
+"时间"00:00:50,760 --> 00:00:53,140
+"正文"I don't want to know if my dad's masturbating.
+"空行"
+"
+17
+2025/01/16 19:17:15 trans.go:108: 原文"I don't want to know if my dad's masturbating.
+"	译文"我不想知道我爸爸是不是在手淫。"
+17
+2025/01/16 19:17:15 trans.go:77: 翻译之前序号"18
+"时间"00:00:53,140 --> 00:00:58,500
+"正文"He does, and, you know, I mean, it's a very healthy thing, and it needs to be taken care of,
+"空行"
+"
+18
+2025/01/16 19:17:18 trans.go:107: 翻译之后序号"18
+"时间"00:00:53,140 --> 00:00:58,500
+"正文"He does, and, you know, I mean, it's a very healthy thing, and it needs to be taken care of,
+"空行"
+"
+18
+2025/01/16 19:17:18 trans.go:108: 原文"He does, and, you know, I mean, it's a very healthy thing, and it needs to be taken care of,
+"	译文"他是这么想的，你知道，我的意思是，这是一个非常健康的事情，它需要得到照顾、"
+18
+2025/01/16 19:17:18 trans.go:77: 翻译之前序号"19
+"时间"00:00:58,880 --> 00:00:58,940
+"正文"and...
+"空行"
+"
+19
+2025/01/16 19:17:21 trans.go:107: 翻译之后序号"19
+"时间"00:00:58,880 --> 00:00:58,940
+"正文"and...
+"空行"
+"
+19
+2025/01/16 19:17:21 trans.go:108: 原文"and...
+"	译文"和..."
+19
+2025/01/16 19:17:21 trans.go:77: 翻译之前序号"20
+"时间"00:00:58,980 --> 00:01:00,740
+"正文"And you get more stressed, and you can't...
+"空行"
+"
+20
+2025/01/16 19:17:24 trans.go:107: 翻译之后序号"20
+"时间"00:00:58,980 --> 00:01:00,740
+"正文"And you get more stressed, and you can't...
+"空行"
+"
+20
+2025/01/16 19:17:24 trans.go:108: 原文"And you get more stressed, and you can't...
+"	译文"你的压力越来越大，无法..."
+20
+2025/01/16 19:17:24 trans.go:77: 翻译之前序号"21
+"时间"00:01:00,740 --> 00:01:02,680
+"正文"You cannot go out in public with a hard-on.
+"空行"
+"
+21
+2025/01/16 19:17:28 trans.go:107: 翻译之后序号"21
+"时间"00:01:00,740 --> 00:01:02,680
+"正文"You cannot go out in public with a hard-on.
+"空行"
+"
+21
+2025/01/16 19:17:28 trans.go:108: 原文"You cannot go out in public with a hard-on.
+"	译文"勃起后不能在公共场合露面。"
+21
+2025/01/16 19:17:28 trans.go:77: 翻译之前序号"22
+"时间"00:01:02,800 --> 00:01:03,980
+"正文"People are going to look at you weird.
+"空行"
+"
+22
+2025/01/16 19:17:30 trans.go:107: 翻译之后序号"22
+"时间"00:01:02,800 --> 00:01:03,980
+"正文"People are going to look at you weird.
+"空行"
+"
+22
+2025/01/16 19:17:30 trans.go:108: 原文"People are going to look at you weird.
+"	译文"人们会用奇怪的眼光看你。"
+22
+2025/01/16 19:17:30 trans.go:77: 翻译之前序号"23
+"时间"00:01:04,120 --> 00:01:05,860
+"正文"Well, maybe the girl will take care of it, huh?
+"空行"
+"
+23
+2025/01/16 19:17:34 trans.go:107: 翻译之后序号"23
+"时间"00:01:04,120 --> 00:01:05,860
+"正文"Well, maybe the girl will take care of it, huh?
+"空行"
+"
+23
+2025/01/16 19:17:34 trans.go:108: 原文"Well, maybe the girl will take care of it, huh?
+"	译文"好吧，也许女孩会照顾它，是吧？"
+23
+2025/01/16 19:17:34 trans.go:77: 翻译之前序号"24
+"时间"00:01:06,140 --> 00:01:08,600
+"正文"She is too young to be doing that.
+"空行"
+"
+24
+2025/01/16 19:17:37 trans.go:107: 翻译之后序号"24
+"时间"00:01:06,140 --> 00:01:08,600
+"正文"She is too young to be doing that.
+"空行"
+"
+24
+2025/01/16 19:17:37 trans.go:108: 原文"She is too young to be doing that.
+"	译文"她还太小，不应该这么做。"
+24
+2025/01/16 19:17:37 trans.go:77: 翻译之前序号"25
+"时间"00:01:08,780 --> 00:01:08,920
+"正文"What?
+"空行"
+"
+25
+2025/01/16 19:17:37 trans.go:107: 翻译之后序号"25
+"时间"00:01:08,780 --> 00:01:08,920
+"正文"What?
+"空行"
+"
+25
+2025/01/16 19:17:37 trans.go:108: 原文"What?
+"	译文"什么？"
+25
+2025/01/16 19:17:37 trans.go:77: 翻译之前序号"26
+"时间"00:01:08,920 --> 00:01:09,880
+"正文"You can't be doing that.
+"空行"
+"
+26
+2025/01/16 19:17:40 trans.go:107: 翻译之后序号"26
+"时间"00:01:08,920 --> 00:01:09,880
+"正文"You can't be doing that.
+"空行"
+"
+26
+2025/01/16 19:17:40 trans.go:108: 原文"You can't be doing that.
+"	译文"你不能这么做"
+26
+2025/01/16 19:17:40 trans.go:77: 翻译之前序号"27
+"时间"00:01:10,240 --> 00:01:10,780
+"正文"I can what?
+"空行"
+"
+27
+2025/01/16 19:17:43 trans.go:107: 翻译之后序号"27
+"时间"00:01:10,240 --> 00:01:10,780
+"正文"I can what?
+"空行"
+"
+27
+2025/01/16 19:17:43 trans.go:108: 原文"I can what?
+"	译文"我能什么？"
+27
+2025/01/16 19:17:44 trans.go:77: 翻译之前序号"28
+"时间"00:01:10,780 --> 00:01:14,900
+"正文"No, it needs to be taken care of before you leave the house, or you can't leave.
+"空行"
+"
+28
+2025/01/16 19:17:47 trans.go:107: 翻译之后序号"28
+"时间"00:01:10,780 --> 00:01:14,900
+"正文"No, it needs to be taken care of before you leave the house, or you can't leave.
+"空行"
+"
+28
+2025/01/16 19:17:47 trans.go:108: 原文"No, it needs to be taken care of before you leave the house, or you can't leave.
+"	译文"不，必须在离开家之前处理好，否则就不能离开。"
+28
+2025/01/16 19:17:47 trans.go:77: 翻译之前序号"29
+"时间"00:01:15,060 --> 00:01:16,140
+"正文"What am I supposed to do?
+"空行"
+"
+29
+2025/01/16 19:17:50 trans.go:107: 翻译之后序号"29
+"时间"00:01:15,060 --> 00:01:16,140
+"正文"What am I supposed to do?
+"空行"
+"
+29
+2025/01/16 19:17:50 trans.go:108: 原文"What am I supposed to do?
+"	译文"我该怎么办？"
+29
+2025/01/16 19:17:50 trans.go:77: 翻译之前序号"30
+"时间"00:01:16,580 --> 00:01:18,020
+"正文"How about I take care of it for you?
+"空行"
+"
+30
+2025/01/16 19:17:53 trans.go:107: 翻译之后序号"30
+"时间"00:01:16,580 --> 00:01:18,020
+"正文"How about I take care of it for you?
+"空行"
+"
+30
+2025/01/16 19:17:53 trans.go:108: 原文"How about I take care of it for you?
+"	译文"我来帮你处理如何？"
+30
+2025/01/16 19:17:53 trans.go:77: 翻译之前序号"31
+"时间"00:01:18,900 --> 00:01:19,660
+"正文"You're my mom.
+"空行"
+"
+31
+2025/01/16 19:17:56 trans.go:107: 翻译之后序号"31
+"时间"00:01:18,900 --> 00:01:19,660
+"正文"You're my mom.
+"空行"
+"
+31
+2025/01/16 19:17:56 trans.go:108: 原文"You're my mom.
+"	译文"你是我妈妈"
+31
+2025/01/16 19:17:56 trans.go:77: 翻译之前序号"32
+"时间"00:01:20,460 --> 00:01:22,180
+"正文"I'm your stepmom. It's fine.
+"空行"
+"
+32
+2025/01/16 19:18:00 trans.go:107: 翻译之后序号"32
+"时间"00:01:20,460 --> 00:01:22,180
+"正文"I'm your stepmom. It's fine.
+"空行"
+"
+32
+2025/01/16 19:18:00 trans.go:108: 原文"I'm your stepmom. It's fine.
+"	译文"我是你的继母 没事的"
+32
+2025/01/16 19:18:00 trans.go:77: 翻译之前序号"33
+"时间"00:01:22,800 --> 00:01:23,320
+"正文"It's fine.
+"空行"
+"
+33
+2025/01/16 19:18:04 trans.go:107: 翻译之后序号"33
+"时间"00:01:22,800 --> 00:01:23,320
+"正文"It's fine.
+"空行"
+"
+33
+2025/01/16 19:18:04 trans.go:108: 原文"It's fine.
+"	译文"没关系。"
+33
+2025/01/16 19:18:04 trans.go:77: 翻译之前序号"34
+"时间"00:01:23,320 --> 00:01:27,840
+"正文"I can take care of it, and I can show you what to do, and then you can go have your nice little date.
+"空行"
+"
+34
+2025/01/16 19:18:07 trans.go:107: 翻译之后序号"34
+"时间"00:01:23,320 --> 00:01:27,840
+"正文"I can take care of it, and I can show you what to do, and then you can go have your nice little date.
+"空行"
+"
+34
+2025/01/16 19:18:07 trans.go:108: 原文"I can take care of it, and I can show you what to do, and then you can go have your nice little date.
+"	译文"我可以帮你处理，我可以教你怎么做，然后你就可以去约会了。"
+34
+2025/01/16 19:18:07 trans.go:77: 翻译之前序号"35
+"时间"00:01:28,340 --> 00:01:28,880
+"正文"You know, I mean...
+"空行"
+"
+35
+2025/01/16 19:18:10 trans.go:107: 翻译之后序号"35
+"时间"00:01:28,340 --> 00:01:28,880
+"正文"You know, I mean...
+"空行"
+"
+35
+2025/01/16 19:18:10 trans.go:108: 原文"You know, I mean...
+"	译文"你知道，我的意思是..."
+35
+2025/01/16 19:18:10 trans.go:77: 翻译之前序号"36
+"时间"00:01:28,980 --> 00:01:29,980
+"正文"I mean, I don't know.
+"空行"
+"
+36
+2025/01/16 19:18:14 trans.go:107: 翻译之后序号"36
+"时间"00:01:28,980 --> 00:01:29,980
+"正文"I mean, I don't know.
+"空行"
+"
+36
+2025/01/16 19:18:14 trans.go:108: 原文"I mean, I don't know.
+"	译文"我的意思是，我不知道。"
+36
+2025/01/16 19:18:14 trans.go:77: 翻译之前序号"37
+"时间"00:01:29,980 --> 00:01:31,900
+"正文"I think I'm a pretty good-looking stepmom, right?
+"空行"
+"
+37
+2025/01/16 19:18:17 trans.go:107: 翻译之后序号"37
+"时间"00:01:29,980 --> 00:01:31,900
+"正文"I think I'm a pretty good-looking stepmom, right?
+"空行"
+"
+37
+2025/01/16 19:18:17 trans.go:108: 原文"I think I'm a pretty good-looking stepmom, right?
+"	译文"我想我是个漂亮的继母，对吗？"
+37
+2025/01/16 19:18:17 trans.go:77: 翻译之前序号"38
+"时间"00:01:31,900 --> 00:01:35,520
+"正文"I mean, yeah, you're super hot, and I can kind of see your boobs.
+"空行"
+"
+38
+2025/01/16 19:18:20 trans.go:107: 翻译之后序号"38
+"时间"00:01:31,900 --> 00:01:35,520
+"正文"I mean, yeah, you're super hot, and I can kind of see your boobs.
+"空行"
+"
+38
+2025/01/16 19:18:20 trans.go:108: 原文"I mean, yeah, you're super hot, and I can kind of see your boobs.
+"	译文"我是说，是啊，你超级性感，我都能看到你的胸部了。"
+38
+2025/01/16 19:18:20 trans.go:77: 翻译之前序号"39
+"时间"00:01:36,280 --> 00:01:37,700
+"正文"I know. I always walk around like that.
+"空行"
+"
+39
+2025/01/16 19:18:23 trans.go:107: 翻译之后序号"39
+"时间"00:01:36,280 --> 00:01:37,700
+"正文"I know. I always walk around like that.
+"空行"
+"
+39
+2025/01/16 19:18:23 trans.go:108: 原文"I know. I always walk around like that.
+"	译文"我知道 我总是这样走来走去"
+39
+2025/01/16 19:18:23 trans.go:77: 翻译之前序号"40
+"时间"00:01:37,700 --> 00:01:40,400
+"正文"I mean, your mom never wears a bra, so, you know?
+"空行"
+"
+40
+2025/01/16 19:18:27 trans.go:107: 翻译之后序号"40
+"时间"00:01:37,700 --> 00:01:40,400
+"正文"I mean, your mom never wears a bra, so, you know?
+"空行"
+"
+40
+2025/01/16 19:18:27 trans.go:108: 原文"I mean, your mom never wears a bra, so, you know?
+"	译文"我是说，你妈妈从来不戴胸罩，所以，你知道吗？"
+40
+2025/01/16 19:18:27 trans.go:77: 翻译之前序号"41
+"时间"00:01:41,100 --> 00:01:43,380
+"正文"But why don't you just...
+"空行"
+"
+41
+2025/01/16 19:18:30 trans.go:107: 翻译之后序号"41
+"时间"00:01:41,100 --> 00:01:43,380
+"正文"But why don't you just...
+"空行"
+"
+41
+2025/01/16 19:18:30 trans.go:108: 原文"But why don't you just...
+"	译文"但你为什么不..."
+41
+2025/01/16 19:18:30 trans.go:77: 翻译之前序号"42
+"时间"00:01:43,380 --> 00:01:45,740
+"正文"Mom, if Dad comes in and sees this...
+"空行"
+"
+42
+2025/01/16 19:18:33 trans.go:107: 翻译之后序号"42
+"时间"00:01:43,380 --> 00:01:45,740
+"正文"Mom, if Dad comes in and sees this...
+"空行"
+"
+42
+2025/01/16 19:18:33 trans.go:108: 原文"Mom, if Dad comes in and sees this...
+"	译文"妈妈，如果爸爸进来看到这个..."
+42
+2025/01/16 19:18:33 trans.go:77: 翻译之前序号"43
+"时间"00:01:45,740 --> 00:01:48,060
+"正文"He's at work. He's not going to see this, you know?
+"空行"
+"
+43
+2025/01/16 19:18:37 trans.go:107: 翻译之后序号"43
+"时间"00:01:45,740 --> 00:01:48,060
+"正文"He's at work. He's not going to see this, you know?
+"空行"
+"
+43
+2025/01/16 19:18:37 trans.go:108: 原文"He's at work. He's not going to see this, you know?
+"	译文"他在工作 他不会看到这个的，你知道吗？"
+43
+2025/01/16 19:18:37 trans.go:77: 翻译之前序号"44
+"时间"00:01:48,400 --> 00:01:49,680
+"正文"I can just take care of it.
+"空行"
+"
+44
+2025/01/16 19:18:40 trans.go:107: 翻译之后序号"44
+"时间"00:01:48,400 --> 00:01:49,680
+"正文"I can just take care of it.
+"空行"
+"
+44
+2025/01/16 19:18:40 trans.go:108: 原文"I can just take care of it.
+"	译文"我可以自己解决。"
+44
+2025/01/16 19:18:40 trans.go:77: 翻译之前序号"45
+"时间"00:01:49,680 --> 00:01:50,640
+"正文"You're touching it.
+"空行"
+"
+45
+2025/01/16 19:18:44 trans.go:107: 翻译之后序号"45
+"时间"00:01:49,680 --> 00:01:50,640
+"正文"You're touching it.
+"空行"
+"
+45
+2025/01/16 19:18:44 trans.go:108: 原文"You're touching it.
+"	译文"你在触摸它"
+45
+2025/01/16 19:18:44 trans.go:77: 翻译之前序号"46
+"时间"00:01:51,220 --> 00:01:53,440
+"正文"Yeah, I am. I'm very much touching it.
+"空行"
+"
+46
+2025/01/16 19:18:47 trans.go:107: 翻译之后序号"46
+"时间"00:01:51,220 --> 00:01:53,440
+"正文"Yeah, I am. I'm very much touching it.
+"空行"
+"
+46
+2025/01/16 19:18:47 trans.go:108: 原文"Yeah, I am. I'm very much touching it.
+"	译文"是的 我非常喜欢"
+46
+2025/01/16 19:18:47 trans.go:77: 翻译之前序号"47
+"时间"00:01:53,960 --> 00:01:56,260
+"正文"But it's so hard. It's sticking out of your pants.
+"空行"
+"
+47
+2025/01/16 19:18:50 trans.go:107: 翻译之后序号"47
+"时间"00:01:53,960 --> 00:01:56,260
+"正文"But it's so hard. It's sticking out of your pants.
+"空行"
+"
+47
+2025/01/16 19:18:50 trans.go:108: 原文"But it's so hard. It's sticking out of your pants.
+"	译文"但它太硬了 它从你的裤子里伸出来了"
+47
+2025/01/16 19:18:50 trans.go:77: 翻译之前序号"48
+"时间"00:01:56,880 --> 00:01:57,400
+"正文"Come on.
+"空行"
+"
+48
+2025/01/16 19:18:54 trans.go:107: 翻译之后序号"48
+"时间"00:01:56,880 --> 00:01:57,400
+"正文"Come on.
+"空行"
+"
+48
+2025/01/16 19:18:54 trans.go:108: 原文"Come on.
+"	译文"来吧"
+48
+2025/01/16 19:18:54 trans.go:77: 翻译之前序号"49
+"时间"00:01:58,380 --> 00:01:58,880
+"正文"Let your mom know.
+"空行"
+"
+49
+2025/01/16 19:18:57 trans.go:107: 翻译之后序号"49
+"时间"00:01:58,380 --> 00:01:58,880
+"正文"Let your mom know.
+"空行"
+"
+49
+2025/01/16 19:18:57 trans.go:108: 原文"Let your mom know.
+"	译文"让你妈妈知道"
+49
+2025/01/16 19:18:57 trans.go:77: 翻译之前序号"50
+"时间"00:01:58,880 --> 00:02:01,540
+"正文"Let your mom just take care of it, so why don't you just lay down?
+"空行"
+"
+50
+2025/01/16 19:19:00 trans.go:107: 翻译之后序号"50
+"时间"00:01:58,880 --> 00:02:01,540
+"正文"Let your mom just take care of it, so why don't you just lay down?
+"空行"
+"
+50
+2025/01/16 19:19:00 trans.go:108: 原文"Let your mom just take care of it, so why don't you just lay down?
+"	译文"让你妈妈来处理吧，你为什么不躺下来呢？"
+50
+2025/01/16 19:19:00 trans.go:77: 翻译之前序号"51
+"时间"00:02:01,940 --> 00:02:02,600
+"正文"Sit down right there.
+"空行"
+"
+51
+2025/01/16 19:19:04 trans.go:107: 翻译之后序号"51
+"时间"00:02:01,940 --> 00:02:02,600
+"正文"Sit down right there.
+"空行"
+"
+51
+2025/01/16 19:19:04 trans.go:108: 原文"Sit down right there.
+"	译文"坐在那里"
+51
+2025/01/16 19:19:04 trans.go:77: 翻译之前序号"52
+"时间"00:02:03,240 --> 00:02:03,640
+"正文"Okay.
+"空行"
+"
+52
+2025/01/16 19:19:08 trans.go:107: 翻译之后序号"52
+"时间"00:02:03,240 --> 00:02:03,640
+"正文"Okay.
+"空行"
+"
+52
+2025/01/16 19:19:08 trans.go:108: 原文"Okay.
+"	译文"好的"
+52
+2025/01/16 19:19:08 trans.go:77: 翻译之前序号"53
+"时间"00:02:03,820 --> 00:02:04,280
+"正文"Sit right there.
+"空行"
+"
+53
+2025/01/16 19:19:11 trans.go:107: 翻译之后序号"53
+"时间"00:02:03,820 --> 00:02:04,280
+"正文"Sit right there.
+"空行"
+"
+53
+2025/01/16 19:19:11 trans.go:108: 原文"Sit right there.
+"	译文"坐在那儿"
+53
+2025/01/16 19:19:11 trans.go:77: 翻译之前序号"54
+"时间"00:02:04,880 --> 00:02:05,280
+"正文"Okay?
+"空行"
+"
+54
+2025/01/16 19:19:14 trans.go:107: 翻译之后序号"54
+"时间"00:02:04,880 --> 00:02:05,280
+"正文"Okay?
+"空行"
+"
+54
+2025/01/16 19:19:14 trans.go:108: 原文"Okay?
+"	译文"好吗？"
+54
+2025/01/16 19:19:14 trans.go:77: 翻译之前序号"55
+"时间"00:02:05,580 --> 00:02:05,980
+"正文"Okay.
+"空行"
+"
+55
+2025/01/16 19:19:14 trans.go:107: 翻译之后序号"55
+"时间"00:02:05,580 --> 00:02:05,980
+"正文"Okay.
+"空行"
+"
+55
+2025/01/16 19:19:14 trans.go:108: 原文"Okay.
+"	译文"好的"
+55
+2025/01/16 19:19:14 trans.go:77: 翻译之前序号"56
+"时间"00:02:07,280 --> 00:02:10,000
+"正文"All right. Let me just show you what to do.
+"空行"
+"
+56
+2025/01/16 19:19:17 trans.go:107: 翻译之后序号"56
+"时间"00:02:07,280 --> 00:02:10,000
+"正文"All right. Let me just show you what to do.
+"空行"
+"
+56
+2025/01/16 19:19:17 trans.go:108: 原文"All right. Let me just show you what to do.
+"	译文"好的 我来教你怎么做"
+56
+2025/01/16 19:19:17 trans.go:77: 翻译之前序号"57
+"时间"00:02:10,460 --> 00:02:11,280
+"正文"All right.
+"空行"
+"
+57
+2025/01/16 19:19:20 trans.go:107: 翻译之后序号"57
+"时间"00:02:10,460 --> 00:02:11,280
+"正文"All right.
+"空行"
+"
+57
+2025/01/16 19:19:20 trans.go:108: 原文"All right.
+"	译文"好的"
+57
+2025/01/16 19:19:20 trans.go:77: 翻译之前序号"58
+"时间"00:02:11,540 --> 00:02:11,940
+"正文"Okay.
+"空行"
+"
+58
+2025/01/16 19:19:20 trans.go:107: 翻译之后序号"58
+"时间"00:02:11,540 --> 00:02:11,940
+"正文"Okay.
+"空行"
+"
+58
+2025/01/16 19:19:20 trans.go:108: 原文"Okay.
+"	译文"好的"
+58
+2025/01/16 19:19:20 trans.go:77: 翻译之前序号"59
+"时间"00:02:13,000 --> 00:02:14,700
+"正文"Let your mom just take care of this.
+"空行"
+"
+59
+2025/01/16 19:19:23 trans.go:107: 翻译之后序号"59
+"时间"00:02:13,000 --> 00:02:14,700
+"正文"Let your mom just take care of this.
+"空行"
+"
+59
+2025/01/16 19:19:23 trans.go:108: 原文"Let your mom just take care of this.
+"	译文"让你妈妈来处理吧"
+59
+2025/01/16 19:19:23 trans.go:77: 翻译之前序号"60
+"时间"00:02:15,700 --> 00:02:17,220
+"正文"I can't believe this is happening.
+"空行"
+"
+60
+2025/01/16 19:19:26 trans.go:107: 翻译之后序号"60
+"时间"00:02:15,700 --> 00:02:17,220
+"正文"I can't believe this is happening.
+"空行"
+"
+60
+2025/01/16 19:19:26 trans.go:108: 原文"I can't believe this is happening.
+"	译文"真不敢相信会发生这种事。"
+60
+2025/01/16 19:19:26 trans.go:77: 翻译之前序号"61
+"时间"00:02:19,300 --> 00:02:19,700
+"正文"Oh.
+"空行"
+"
+61
+2025/01/16 19:19:29 trans.go:107: 翻译之后序号"61
+"时间"00:02:19,300 --> 00:02:19,700
+"正文"Oh.
+"空行"
+"
+61
+2025/01/16 19:19:29 trans.go:108: 原文"Oh.
+"	译文"哦。"
+61
+2025/01/16 19:19:29 trans.go:77: 翻译之前序号"62
+"时间"00:02:21,080 --> 00:02:22,400
+"正文"Let me see what you have.
+"空行"
+"
+62
+2025/01/16 19:19:31 trans.go:107: 翻译之后序号"62
+"时间"00:02:21,080 --> 00:02:22,400
+"正文"Let me see what you have.
+"空行"
+"
+62
+2025/01/16 19:19:31 trans.go:108: 原文"Let me see what you have.
+"	译文"让我看看你有什么。"
+62
+2025/01/16 19:19:31 trans.go:77: 翻译之前序号"63
+"时间"00:02:22,780 --> 00:02:24,200
+"正文"Gosh, it's just sticking out.
+"空行"
+"
+63
+2025/01/16 19:19:35 trans.go:107: 翻译之后序号"63
+"时间"00:02:22,780 --> 00:02:24,200
+"正文"Gosh, it's just sticking out.
+"空行"
+"
+63
+2025/01/16 19:19:35 trans.go:108: 原文"Gosh, it's just sticking out.
+"	译文"天哪，它就这么伸出来了。"
+63
+2025/01/16 19:19:35 trans.go:77: 翻译之前序号"64
+"时间"00:02:25,620 --> 00:02:26,620
+"正文"Take these off.
+"空行"
+"
+64
+2025/01/16 19:19:38 trans.go:107: 翻译之后序号"64
+"时间"00:02:25,620 --> 00:02:26,620
+"正文"Take these off.
+"空行"
+"
+64
+2025/01/16 19:19:38 trans.go:108: 原文"Take these off.
+"	译文"把这些脱掉"
+64
+2025/01/16 19:19:38 trans.go:77: 翻译之前序号"65
+"时间"00:02:27,320 --> 00:02:28,480
+"正文"Okay, but I got them in either way.
+"空行"
+"
+65
+2025/01/16 19:19:40 trans.go:107: 翻译之后序号"65
+"时间"00:02:27,320 --> 00:02:28,480
+"正文"Okay, but I got them in either way.
+"空行"
+"
+65
+2025/01/16 19:19:40 trans.go:108: 原文"Okay, but I got them in either way.
+"	译文"好吧，但不管用哪种方法，我都把它们弄进来了。"
+65
+2025/01/16 19:19:40 trans.go:77: 翻译之前序号"66
+"时间"00:02:28,880 --> 00:02:29,700
+"正文"Just take them off.
+"空行"
+"
+66
+2025/01/16 19:19:43 trans.go:107: 翻译之后序号"66
+"时间"00:02:28,880 --> 00:02:29,700
+"正文"Just take them off.
+"空行"
+"
+66
+2025/01/16 19:19:43 trans.go:108: 原文"Just take them off.
+"	译文"脱掉就好。"
+66
+2025/01/16 19:19:43 trans.go:77: 翻译之前序号"67
+"时间"00:02:30,140 --> 00:02:30,420
+"正文"Goodness.
+"空行"
+"
+67
+2025/01/16 19:19:46 trans.go:107: 翻译之后序号"67
+"时间"00:02:30,140 --> 00:02:30,420
+"正文"Goodness.
+"空行"
+"
+67
+2025/01/16 19:19:46 trans.go:108: 原文"Goodness.
+"	译文"天哪"
+67
+2025/01/16 19:19:46 trans.go:77: 翻译之前序号"68
+"时间"00:02:31,880 --> 00:02:32,700
+"正文"Take this off.
+"空行"
+"
+68
+2025/01/16 19:19:49 trans.go:107: 翻译之后序号"68
+"时间"00:02:31,880 --> 00:02:32,700
+"正文"Take this off.
+"空行"
+"
+68
+2025/01/16 19:19:49 trans.go:108: 原文"Take this off.
+"	译文"把这个脱掉"
+68
+2025/01/16 19:19:49 trans.go:77: 翻译之前序号"69
+"时间"00:02:34,440 --> 00:02:35,420
+"正文"Good job.
+"空行"
+"
+69
+2025/01/16 19:19:52 trans.go:107: 翻译之后序号"69
+"时间"00:02:34,440 --> 00:02:35,420
+"正文"Good job.
+"空行"
+"
+69
+2025/01/16 19:19:52 trans.go:108: 原文"Good job.
+"	译文"干得好"
+69
+2025/01/16 19:19:52 trans.go:77: 翻译之前序号"70
+"时间"00:02:36,240 --> 00:02:37,080
+"正文"There we go.
+"空行"
+"
+70
+2025/01/16 19:19:55 trans.go:107: 翻译之后序号"70
+"时间"00:02:36,240 --> 00:02:37,080
+"正文"There we go.
+"空行"
+"
+70
+2025/01/16 19:19:55 trans.go:108: 原文"There we go.
+"	译文"好了"
+70
+2025/01/16 19:19:55 trans.go:77: 翻译之前序号"71
+"时间"00:02:37,500 --> 00:02:39,160
+"正文"Okay, I guess you're doing this, huh?
+"空行"
+"
+71
+2025/01/16 19:19:58 trans.go:107: 翻译之后序号"71
+"时间"00:02:37,500 --> 00:02:39,160
+"正文"Okay, I guess you're doing this, huh?
+"空行"
+"
+71
+2025/01/16 19:19:58 trans.go:108: 原文"Okay, I guess you're doing this, huh?
+"	译文"好吧，我猜你在做这个，是吧？"
+71
+2025/01/16 19:19:58 trans.go:77: 翻译之前序号"72
+"时间"00:02:39,160 --> 00:02:39,480
+"正文"Mm-hmm.
+"空行"
+"
+72
+2025/01/16 19:20:01 trans.go:107: 翻译之后序号"72
+"时间"00:02:39,160 --> 00:02:39,480
+"正文"Mm-hmm.
+"空行"
+"
+72
+2025/01/16 19:20:01 trans.go:108: 原文"Mm-hmm.
+"	译文"嗯"
+72
+2025/01/16 19:20:01 trans.go:77: 翻译之前序号"73
+"时间"00:02:39,680 --> 00:02:41,180
+"正文"Take these boxers off.
+"空行"
+"
+73
+2025/01/16 19:20:04 trans.go:107: 翻译之后序号"73
+"时间"00:02:39,680 --> 00:02:41,180
+"正文"Take these boxers off.
+"空行"
+"
+73
+2025/01/16 19:20:04 trans.go:108: 原文"Take these boxers off.
+"	译文"把内裤脱了"
+73
+2025/01/16 19:20:04 trans.go:77: 翻译之前序号"74
+"时间"00:02:43,080 --> 00:02:44,540
+"正文"These are clean boxers, right?
+"空行"
+"
+74
+2025/01/16 19:20:07 trans.go:107: 翻译之后序号"74
+"时间"00:02:43,080 --> 00:02:44,540
+"正文"These are clean boxers, right?
+"空行"
+"
+74
+2025/01/16 19:20:07 trans.go:108: 原文"These are clean boxers, right?
+"	译文"这些是干净的拳击手，对吗？"
+74
+2025/01/16 19:20:07 trans.go:77: 翻译之前序号"75
+"时间"00:02:44,700 --> 00:02:45,260
+"正文"Yes, they're clean.
+"空行"
+"
+75
+2025/01/16 19:20:10 trans.go:107: 翻译之后序号"75
+"时间"00:02:44,700 --> 00:02:45,260
+"正文"Yes, they're clean.
+"空行"
+"
+75
+2025/01/16 19:20:10 trans.go:108: 原文"Yes, they're clean.
+"	译文"是的，它们很干净。"
+75
+2025/01/16 19:20:10 trans.go:77: 翻译之前序号"76
+"时间"00:02:45,260 --> 00:02:46,460
+"正文"Yes, I washed them.
+"空行"
+"
+76
+2025/01/16 19:20:13 trans.go:107: 翻译之后序号"76
+"时间"00:02:45,260 --> 00:02:46,460
+"正文"Yes, I washed them.
+"空行"
+"
+76
+2025/01/16 19:20:13 trans.go:108: 原文"Yes, I washed them.
+"	译文"是的，我洗过了。"
+76
+2025/01/16 19:20:13 trans.go:77: 翻译之前序号"77
+"时间"00:02:47,840 --> 00:02:48,640
+"正文"Oh, goodness.
+"空行"
+"
+77
+2025/01/16 19:20:16 trans.go:107: 翻译之后序号"77
+"时间"00:02:47,840 --> 00:02:48,640
+"正文"Oh, goodness.
+"空行"
+"
+77
+2025/01/16 19:20:16 trans.go:108: 原文"Oh, goodness.
+"	译文"哦，天哪"
+77
+2025/01/16 19:20:16 trans.go:77: 翻译之前序号"78
+"时间"00:02:49,380 --> 00:02:49,700
+"正文"So.
+"空行"
+"
+78
+2025/01/16 19:20:19 trans.go:107: 翻译之后序号"78
+"时间"00:02:49,380 --> 00:02:49,700
+"正文"So.
+"空行"
+"
+78
+2025/01/16 19:20:19 trans.go:108: 原文"So.
+"	译文"那么"
+78
+2025/01/16 19:20:19 trans.go:77: 翻译之前序号"79
+"时间"00:02:51,500 --> 00:02:52,720
+"正文"Oh, that feels good.
+"空行"
+"
+79
+2025/01/16 19:20:23 trans.go:107: 翻译之后序号"79
+"时间"00:02:51,500 --> 00:02:52,720
+"正文"Oh, that feels good.
+"空行"
+"
+79
+2025/01/16 19:20:23 trans.go:108: 原文"Oh, that feels good.
+"	译文"哦，感觉真好。"
+79
+2025/01/16 19:20:23 trans.go:77: 翻译之前序号"80
+"时间"00:02:52,720 --> 00:02:54,480
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+80
+2025/01/16 19:20:26 trans.go:107: 翻译之后序号"80
+"时间"00:02:52,720 --> 00:02:54,480
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+80
+2025/01/16 19:20:26 trans.go:108: 原文"Yeah, it feels really good, doesn't it?
+"	译文"是啊，感觉真不错，不是吗？"
+80
+2025/01/16 19:20:26 trans.go:77: 翻译之前序号"81
+"时间"00:02:54,480 --> 00:02:55,340
+"正文"Yeah, it does.
+"空行"
+"
+81
+2025/01/16 19:20:30 trans.go:107: 翻译之后序号"81
+"时间"00:02:54,480 --> 00:02:55,340
+"正文"Yeah, it does.
+"空行"
+"
+81
+2025/01/16 19:20:30 trans.go:108: 原文"Yeah, it does.
+"	译文"是的，确实如此。"
+81
+2025/01/16 19:20:30 trans.go:77: 翻译之前序号"82
+"时间"00:02:55,340 --> 00:02:55,860
+"正文"Oh.
+"空行"
+"
+82
+2025/01/16 19:20:30 trans.go:107: 翻译之后序号"82
+"时间"00:02:55,340 --> 00:02:55,860
+"正文"Oh.
+"空行"
+"
+82
+2025/01/16 19:20:30 trans.go:108: 原文"Oh.
+"	译文"哦。"
+82
+2025/01/16 19:20:30 trans.go:77: 翻译之前序号"83
+"时间"00:02:57,060 --> 00:02:57,900
+"正文"Oh.
+"空行"
+"
+83
+2025/01/16 19:20:30 trans.go:107: 翻译之后序号"83
+"时间"00:02:57,060 --> 00:02:57,900
+"正文"Oh.
+"空行"
+"
+83
+2025/01/16 19:20:30 trans.go:108: 原文"Oh.
+"	译文"哦。"
+83
+2025/01/16 19:20:30 trans.go:77: 翻译之前序号"84
+"时间"00:02:58,880 --> 00:03:00,320
+"正文"You like what I put in my cock?
+"空行"
+"
+84
+2025/01/16 19:20:33 trans.go:107: 翻译之后序号"84
+"时间"00:02:58,880 --> 00:03:00,320
+"正文"You like what I put in my cock?
+"空行"
+"
+84
+2025/01/16 19:20:33 trans.go:108: 原文"You like what I put in my cock?
+"	译文"你喜欢我在鸡巴里放的东西吗？"
+84
+2025/01/16 19:20:33 trans.go:77: 翻译之前序号"85
+"时间"00:03:00,560 --> 00:03:00,880
+"正文"Yeah.
+"空行"
+"
+85
+2025/01/16 19:20:36 trans.go:107: 翻译之后序号"85
+"时间"00:03:00,560 --> 00:03:00,880
+"正文"Yeah.
+"空行"
+"
+85
+2025/01/16 19:20:36 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+85
+2025/01/16 19:20:36 trans.go:77: 翻译之前序号"86
+"时间"00:03:01,000 --> 00:03:02,100
+"正文"Your cock in my mouth?
+"空行"
+"
+86
+2025/01/16 19:20:38 trans.go:107: 翻译之后序号"86
+"时间"00:03:01,000 --> 00:03:02,100
+"正文"Your cock in my mouth?
+"空行"
+"
+86
+2025/01/16 19:20:38 trans.go:108: 原文"Your cock in my mouth?
+"	译文"你的鸡巴在我嘴里？"
+86
+2025/01/16 19:20:38 trans.go:77: 翻译之前序号"87
+"时间"00:03:04,940 --> 00:03:05,900
+"正文"Mm-hmm.
+"空行"
+"
+87
+2025/01/16 19:20:38 trans.go:107: 翻译之后序号"87
+"时间"00:03:04,940 --> 00:03:05,900
+"正文"Mm-hmm.
+"空行"
+"
+87
+2025/01/16 19:20:38 trans.go:108: 原文"Mm-hmm.
+"	译文"嗯"
+87
+2025/01/16 19:20:38 trans.go:77: 翻译之前序号"88
+"时间"00:03:08,520 --> 00:03:09,080
+"正文"Mm.
+"空行"
+"
+88
+2025/01/16 19:20:41 trans.go:107: 翻译之后序号"88
+"时间"00:03:08,520 --> 00:03:09,080
+"正文"Mm.
+"空行"
+"
+88
+2025/01/16 19:20:41 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+88
+2025/01/16 19:20:41 trans.go:77: 翻译之前序号"89
+"时间"00:03:11,860 --> 00:03:12,820
+"正文"Mm, yeah.
+"空行"
+"
+89
+2025/01/16 19:20:44 trans.go:107: 翻译之后序号"89
+"时间"00:03:11,860 --> 00:03:12,820
+"正文"Mm, yeah.
+"空行"
+"
+89
+2025/01/16 19:20:44 trans.go:108: 原文"Mm, yeah.
+"	译文"嗯，是的"
+89
+2025/01/16 19:20:44 trans.go:77: 翻译之前序号"90
+"时间"00:03:17,040 --> 00:03:17,560
+"正文"Mm.
+"空行"
+"
+90
+2025/01/16 19:20:44 trans.go:107: 翻译之后序号"90
+"时间"00:03:17,040 --> 00:03:17,560
+"正文"Mm.
+"空行"
+"
+90
+2025/01/16 19:20:44 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+90
+2025/01/16 19:20:44 trans.go:77: 翻译之前序号"91
+"时间"00:03:17,560 --> 00:03:17,960
+"正文"Mm.
+"空行"
+"
+91
+2025/01/16 19:20:44 trans.go:107: 翻译之后序号"91
+"时间"00:03:17,560 --> 00:03:17,960
+"正文"Mm.
+"空行"
+"
+91
+2025/01/16 19:20:44 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+91
+2025/01/16 19:20:44 trans.go:77: 翻译之前序号"92
+"时间"00:03:23,880 --> 00:03:25,440
+"正文"Oh, my God, it feels good.
+"空行"
+"
+92
+2025/01/16 19:20:47 trans.go:107: 翻译之后序号"92
+"时间"00:03:23,880 --> 00:03:25,440
+"正文"Oh, my God, it feels good.
+"空行"
+"
+92
+2025/01/16 19:20:47 trans.go:108: 原文"Oh, my God, it feels good.
+"	译文"天哪，感觉真好"
+92
+2025/01/16 19:20:47 trans.go:77: 翻译之前序号"93
+"时间"00:03:26,520 --> 00:03:28,800
+"正文"Mm, yeah, you like your mom's mouth, right?
+"空行"
+"
+93
+2025/01/16 19:20:50 trans.go:107: 翻译之后序号"93
+"时间"00:03:26,520 --> 00:03:28,800
+"正文"Mm, yeah, you like your mom's mouth, right?
+"空行"
+"
+93
+2025/01/16 19:20:50 trans.go:108: 原文"Mm, yeah, you like your mom's mouth, right?
+"	译文"嗯，是的，你喜欢你妈妈的嘴，对吗？"
+93
+2025/01/16 19:20:50 trans.go:77: 翻译之前序号"94
+"时间"00:03:29,660 --> 00:03:30,200
+"正文"Oh, my God.
+"空行"
+"
+94
+2025/01/16 19:20:54 trans.go:107: 翻译之后序号"94
+"时间"00:03:29,660 --> 00:03:30,200
+"正文"Oh, my God.
+"空行"
+"
+94
+2025/01/16 19:20:54 trans.go:108: 原文"Oh, my God.
+"	译文"我的天啊"
+94
+2025/01/16 19:20:54 trans.go:77: 翻译之前序号"95
+"时间"00:03:30,200 --> 00:03:30,740
+"正文"You like that?
+"空行"
+"
+95
+2025/01/16 19:20:58 trans.go:107: 翻译之后序号"95
+"时间"00:03:30,200 --> 00:03:30,740
+"正文"You like that?
+"空行"
+"
+95
+2025/01/16 19:20:58 trans.go:108: 原文"You like that?
+"	译文"喜欢吗？"
+95
+2025/01/16 19:20:58 trans.go:77: 翻译之前序号"96
+"时间"00:03:30,860 --> 00:03:31,180
+"正文"Don't you?
+"空行"
+"
+96
+2025/01/16 19:21:01 trans.go:107: 翻译之后序号"96
+"时间"00:03:30,860 --> 00:03:31,180
+"正文"Don't you?
+"空行"
+"
+96
+2025/01/16 19:21:01 trans.go:108: 原文"Don't you?
+"	译文"不是吗？"
+96
+2025/01/16 19:21:01 trans.go:77: 翻译之前序号"97
+"时间"00:03:32,260 --> 00:03:33,960
+"正文"Oh, good.
+"空行"
+"
+97
+2025/01/16 19:21:05 trans.go:107: 翻译之后序号"97
+"时间"00:03:32,260 --> 00:03:33,960
+"正文"Oh, good.
+"空行"
+"
+97
+2025/01/16 19:21:05 trans.go:108: 原文"Oh, good.
+"	译文"哦，很好"
+97
+2025/01/16 19:21:05 trans.go:77: 翻译之前序号"98
+"时间"00:03:35,560 --> 00:03:35,600
+"正文"Oh.
+"空行"
+"
+98
+2025/01/16 19:21:05 trans.go:107: 翻译之后序号"98
+"时间"00:03:35,560 --> 00:03:35,600
+"正文"Oh.
+"空行"
+"
+98
+2025/01/16 19:21:05 trans.go:108: 原文"Oh.
+"	译文"哦。"
+98
+2025/01/16 19:21:05 trans.go:77: 翻译之前序号"99
+"时间"00:03:35,600 --> 00:03:36,420
+"正文"Don't that feel good?
+"空行"
+"
+99
+2025/01/16 19:21:08 trans.go:107: 翻译之后序号"99
+"时间"00:03:35,600 --> 00:03:36,420
+"正文"Don't that feel good?
+"空行"
+"
+99
+2025/01/16 19:21:08 trans.go:108: 原文"Don't that feel good?
+"	译文"感觉不错吧？"
+99
+2025/01/16 19:21:08 trans.go:77: 翻译之前序号"100
+"时间"00:03:36,420 --> 00:03:36,960
+"正文"It does.
+"空行"
+"
+100
+2025/01/16 19:21:11 trans.go:107: 翻译之后序号"100
+"时间"00:03:36,420 --> 00:03:36,960
+"正文"It does.
+"空行"
+"
+100
+2025/01/16 19:21:11 trans.go:108: 原文"It does.
+"	译文"确实如此。"
+100
+2025/01/16 19:21:11 trans.go:77: 翻译之前序号"101
+"时间"00:03:37,480 --> 00:03:38,180
+"正文"Mm-hmm.
+"空行"
+"
+101
+2025/01/16 19:21:11 trans.go:107: 翻译之后序号"101
+"时间"00:03:37,480 --> 00:03:38,180
+"正文"Mm-hmm.
+"空行"
+"
+101
+2025/01/16 19:21:11 trans.go:108: 原文"Mm-hmm.
+"	译文"嗯"
+101
+2025/01/16 19:21:11 trans.go:77: 翻译之前序号"102
+"时间"00:03:42,140 --> 00:03:43,000
+"正文"Mm.
+"空行"
+"
+102
+2025/01/16 19:21:11 trans.go:107: 翻译之后序号"102
+"时间"00:03:42,140 --> 00:03:43,000
+"正文"Mm.
+"空行"
+"
+102
+2025/01/16 19:21:11 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+102
+2025/01/16 19:21:11 trans.go:77: 翻译之前序号"103
+"时间"00:03:44,580 --> 00:03:45,940
+"正文"Mm.
+"空行"
+"
+103
+2025/01/16 19:21:11 trans.go:107: 翻译之后序号"103
+"时间"00:03:44,580 --> 00:03:45,940
+"正文"Mm.
+"空行"
+"
+103
+2025/01/16 19:21:11 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+103
+2025/01/16 19:21:11 trans.go:77: 翻译之前序号"104
+"时间"00:03:47,200 --> 00:03:48,080
+"正文"Oh.
+"空行"
+"
+104
+2025/01/16 19:21:11 trans.go:107: 翻译之后序号"104
+"时间"00:03:47,200 --> 00:03:48,080
+"正文"Oh.
+"空行"
+"
+104
+2025/01/16 19:21:11 trans.go:108: 原文"Oh.
+"	译文"哦。"
+104
+2025/01/16 19:21:11 trans.go:77: 翻译之前序号"105
+"时间"00:03:48,640 --> 00:03:51,180
+"正文"This is how a real woman sucks cock.
+"空行"
+"
+105
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"105
+"时间"00:03:48,640 --> 00:03:51,180
+"正文"This is how a real woman sucks cock.
+"空行"
+"
+105
+2025/01/16 19:21:15 trans.go:108: 原文"This is how a real woman sucks cock.
+"	译文"这才是真正的女人口交。"
+105
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"106
+"时间"00:03:52,140 --> 00:03:53,200
+"正文"Oh, good.
+"空行"
+"
+106
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"106
+"时间"00:03:52,140 --> 00:03:53,200
+"正文"Oh, good.
+"空行"
+"
+106
+2025/01/16 19:21:15 trans.go:108: 原文"Oh, good.
+"	译文"哦，很好"
+106
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"107
+"时间"00:03:54,720 --> 00:03:54,860
+"正文"Mm.
+"空行"
+"
+107
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"107
+"时间"00:03:54,720 --> 00:03:54,860
+"正文"Mm.
+"空行"
+"
+107
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+107
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"108
+"时间"00:03:56,280 --> 00:03:57,960
+"正文"Mm.
+"空行"
+"
+108
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"108
+"时间"00:03:56,280 --> 00:03:57,960
+"正文"Mm.
+"空行"
+"
+108
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+108
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"109
+"时间"00:03:57,960 --> 00:03:58,240
+"正文"Mm.
+"空行"
+"
+109
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"109
+"时间"00:03:57,960 --> 00:03:58,240
+"正文"Mm.
+"空行"
+"
+109
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+109
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"110
+"时间"00:03:58,240 --> 00:03:58,280
+"正文"Mm.
+"空行"
+"
+110
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"110
+"时间"00:03:58,240 --> 00:03:58,280
+"正文"Mm.
+"空行"
+"
+110
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+110
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"111
+"时间"00:03:58,280 --> 00:03:58,320
+"正文"Mm.
+"空行"
+"
+111
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"111
+"时间"00:03:58,280 --> 00:03:58,320
+"正文"Mm.
+"空行"
+"
+111
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+111
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"112
+"时间"00:03:58,320 --> 00:03:58,660
+"正文"Mm.
+"空行"
+"
+112
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"112
+"时间"00:03:58,320 --> 00:03:58,660
+"正文"Mm.
+"空行"
+"
+112
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+112
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"113
+"时间"00:03:58,660 --> 00:03:58,680
+"正文"Oh.
+"空行"
+"
+113
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"113
+"时间"00:03:58,660 --> 00:03:58,680
+"正文"Oh.
+"空行"
+"
+113
+2025/01/16 19:21:15 trans.go:108: 原文"Oh.
+"	译文"哦。"
+113
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"114
+"时间"00:03:58,680 --> 00:03:58,740
+"正文"Mm.
+"空行"
+"
+114
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"114
+"时间"00:03:58,680 --> 00:03:58,740
+"正文"Mm.
+"空行"
+"
+114
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+114
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"115
+"时间"00:03:58,740 --> 00:03:58,820
+"正文"Mm.
+"空行"
+"
+115
+2025/01/16 19:21:15 trans.go:107: 翻译之后序号"115
+"时间"00:03:58,740 --> 00:03:58,820
+"正文"Mm.
+"空行"
+"
+115
+2025/01/16 19:21:15 trans.go:108: 原文"Mm.
+"	译文"嗯 Mm."
+115
+2025/01/16 19:21:15 trans.go:77: 翻译之前序号"116
+"时间"00:03:58,880 --> 00:04:00,880
+"正文"Mm-hmm
+"空行"
+"
+116
+2025/01/16 19:21:18 trans.go:107: 翻译之后序号"116
+"时间"00:03:58,880 --> 00:04:00,880
+"正文"Mm-hmm
+"空行"
+"
+116
+2025/01/16 19:21:18 trans.go:108: 原文"Mm-hmm
+"	译文"嗯"
+116
+2025/01/16 19:21:18 trans.go:77: 翻译之前序号"117
+"时间"00:04:28,880 --> 00:04:30,880
+"正文"Oh, fuck.
+"空行"
+"
+117
+2025/01/16 19:21:22 trans.go:107: 翻译之后序号"117
+"时间"00:04:28,880 --> 00:04:30,880
+"正文"Oh, fuck.
+"空行"
+"
+117
+2025/01/16 19:21:22 trans.go:108: 原文"Oh, fuck.
+"	译文"妈的"
+117
+2025/01/16 19:21:22 trans.go:77: 翻译之前序号"118
+"时间"00:04:41,880 --> 00:04:43,880
+"正文"I can't believe my mom was sucking my cock.
+"空行"
+"
+118
+2025/01/16 19:21:25 trans.go:107: 翻译之后序号"118
+"时间"00:04:41,880 --> 00:04:43,880
+"正文"I can't believe my mom was sucking my cock.
+"空行"
+"
+118
+2025/01/16 19:21:25 trans.go:108: 原文"I can't believe my mom was sucking my cock.
+"	译文"真不敢相信，我妈竟然在给我口交"
+118
+2025/01/16 19:21:25 trans.go:77: 翻译之前序号"119
+"时间"00:04:45,880 --> 00:04:47,880
+"正文"And you can't tell your dad about this.
+"空行"
+"
+119
+2025/01/16 19:21:28 trans.go:107: 翻译之后序号"119
+"时间"00:04:45,880 --> 00:04:47,880
+"正文"And you can't tell your dad about this.
+"空行"
+"
+119
+2025/01/16 19:21:28 trans.go:108: 原文"And you can't tell your dad about this.
+"	译文"你不能告诉你爸爸这件事"
+119
+2025/01/16 19:21:28 trans.go:77: 翻译之前序号"120
+"时间"00:04:49,880 --> 00:04:51,880
+"正文"It feels good when you stroke it.
+"空行"
+"
+120
+2025/01/16 19:21:32 trans.go:107: 翻译之后序号"120
+"时间"00:04:49,880 --> 00:04:51,880
+"正文"It feels good when you stroke it.
+"空行"
+"
+120
+2025/01/16 19:21:32 trans.go:108: 原文"It feels good when you stroke it.
+"	译文"抚摸时感觉很好。"
+120
+2025/01/16 19:21:32 trans.go:77: 翻译之前序号"121
+"时间"00:04:51,880 --> 00:04:53,880
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+121
+2025/01/16 19:21:32 trans.go:107: 翻译之后序号"121
+"时间"00:04:51,880 --> 00:04:53,880
+"正文"Yeah, it feels really good, doesn't it?
+"空行"
+"
+121
+2025/01/16 19:21:32 trans.go:108: 原文"Yeah, it feels really good, doesn't it?
+"	译文"是啊，感觉真不错，不是吗？"
+121
+2025/01/16 19:21:32 trans.go:77: 翻译之前序号"122
+"时间"00:04:58,880 --> 00:05:00,880
+"正文"Mmm.
+"空行"
+"
+122
+2025/01/16 19:21:34 trans.go:107: 翻译之后序号"122
+"时间"00:04:58,880 --> 00:05:00,880
+"正文"Mmm.
+"空行"
+"
+122
+2025/01/16 19:21:34 trans.go:108: 原文"Mmm.
+"	译文"嗯"
+122
+2025/01/16 19:21:34 trans.go:77: 翻译之前序号"123
+"时间"00:05:04,880 --> 00:05:06,880
+"正文"It's so hard with your mom.
+"空行"
+"
+123
+2025/01/16 19:21:38 trans.go:107: 翻译之后序号"123
+"时间"00:05:04,880 --> 00:05:06,880
+"正文"It's so hard with your mom.
+"空行"
+"
+123
+2025/01/16 19:21:38 trans.go:108: 原文"It's so hard with your mom.
+"	译文"和你妈妈在一起真不容易。"
+123
+2025/01/16 19:21:38 trans.go:77: 翻译之前序号"124
+"时间"00:05:06,880 --> 00:05:08,880
+"正文"Yeah.
+"空行"
+"
+124
+2025/01/16 19:21:38 trans.go:107: 翻译之后序号"124
+"时间"00:05:06,880 --> 00:05:08,880
+"正文"Yeah.
+"空行"
+"
+124
+2025/01/16 19:21:38 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+124
+2025/01/16 19:21:38 trans.go:77: 翻译之前序号"125
+"时间"00:05:08,880 --> 00:05:10,880
+"正文"Oh, fuck yes.
+"空行"
+"
+125
+2025/01/16 19:21:41 trans.go:107: 翻译之后序号"125
+"时间"00:05:08,880 --> 00:05:10,880
+"正文"Oh, fuck yes.
+"空行"
+"
+125
+2025/01/16 19:21:41 trans.go:108: 原文"Oh, fuck yes.
+"	译文"哦，他妈的是的。"
+125
+2025/01/16 19:21:41 trans.go:77: 翻译之前序号"126
+"时间"00:05:18,880 --> 00:05:20,880
+"正文"Mommy, can you ride me?
+"空行"
+"
+126
+2025/01/16 19:21:43 trans.go:107: 翻译之后序号"126
+"时间"00:05:18,880 --> 00:05:20,880
+"正文"Mommy, can you ride me?
+"空行"
+"
+126
+2025/01/16 19:21:43 trans.go:108: 原文"Mommy, can you ride me?
+"	译文"妈妈，你能骑我吗？"
+126
+2025/01/16 19:21:43 trans.go:77: 翻译之前序号"127
+"时间"00:05:20,880 --> 00:05:22,880
+"正文"Yes, of course you can ride me.
+"空行"
+"
+127
+2025/01/16 19:21:47 trans.go:107: 翻译之后序号"127
+"时间"00:05:20,880 --> 00:05:22,880
+"正文"Yes, of course you can ride me.
+"空行"
+"
+127
+2025/01/16 19:21:47 trans.go:108: 原文"Yes, of course you can ride me.
+"	译文"是的，你当然可以骑我。"
+127
+2025/01/16 19:21:47 trans.go:77: 翻译之前序号"128
+"时间"00:05:26,880 --> 00:05:28,880
+"正文"Yes.
+"空行"
+"
+128
+2025/01/16 19:21:49 trans.go:107: 翻译之后序号"128
+"时间"00:05:26,880 --> 00:05:28,880
+"正文"Yes.
+"空行"
+"
+128
+2025/01/16 19:21:49 trans.go:108: 原文"Yes.
+"	译文"是的。"
+128
+2025/01/16 19:21:49 trans.go:77: 翻译之前序号"129
+"时间"00:05:28,880 --> 00:05:29,880
+"正文"Oh, fuck.
+"空行"
+"
+129
+2025/01/16 19:21:49 trans.go:107: 翻译之后序号"129
+"时间"00:05:28,880 --> 00:05:29,880
+"正文"Oh, fuck.
+"空行"
+"
+129
+2025/01/16 19:21:49 trans.go:108: 原文"Oh, fuck.
+"	译文"妈的"
+129
+2025/01/16 19:21:49 trans.go:77: 翻译之前序号"130
+"时间"00:05:31,880 --> 00:05:34,880
+"正文"Let me just, so I don't fucking touch you.
+"空行"
+"
+130
+2025/01/16 19:21:53 trans.go:107: 翻译之后序号"130
+"时间"00:05:31,880 --> 00:05:34,880
+"正文"Let me just, so I don't fucking touch you.
+"空行"
+"
+130
+2025/01/16 19:21:53 trans.go:108: 原文"Let me just, so I don't fucking touch you.
+"	译文"让我来，这样我就不会碰你了。"
+130
+2025/01/16 19:21:53 trans.go:77: 翻译之前序号"131
+"时间"00:05:34,880 --> 00:05:36,880
+"正文"Oh my god.
+"空行"
+"
+131
+2025/01/16 19:21:56 trans.go:107: 翻译之后序号"131
+"时间"00:05:34,880 --> 00:05:36,880
+"正文"Oh my god.
+"空行"
+"
+131
+2025/01/16 19:21:56 trans.go:108: 原文"Oh my god.
+"	译文"我的天啊"
+131
+2025/01/16 19:21:56 trans.go:77: 翻译之前序号"132
+"时间"00:05:38,880 --> 00:05:40,880
+"正文"There you go, up here.
+"空行"
+"
+132
+2025/01/16 19:22:00 trans.go:107: 翻译之后序号"132
+"时间"00:05:38,880 --> 00:05:40,880
+"正文"There you go, up here.
+"空行"
+"
+132
+2025/01/16 19:22:00 trans.go:108: 原文"There you go, up here.
+"	译文"你去那里，在这里。"
+132
+2025/01/16 19:22:00 trans.go:77: 翻译之前序号"133
+"时间"00:05:41,880 --> 00:05:42,880
+"正文"Oh, yes.
+"空行"
+"
+133
+2025/01/16 19:22:04 trans.go:107: 翻译之后序号"133
+"时间"00:05:41,880 --> 00:05:42,880
+"正文"Oh, yes.
+"空行"
+"
+133
+2025/01/16 19:22:04 trans.go:108: 原文"Oh, yes.
+"	译文"哦，是的。"
+133
+2025/01/16 19:22:04 trans.go:77: 翻译之前序号"134
+"时间"00:05:42,880 --> 00:05:44,880
+"正文"There you go.
+"空行"
+"
+134
+2025/01/16 19:22:07 trans.go:107: 翻译之后序号"134
+"时间"00:05:42,880 --> 00:05:44,880
+"正文"There you go.
+"空行"
+"
+134
+2025/01/16 19:22:07 trans.go:108: 原文"There you go.
+"	译文"这就对了。"
+134
+2025/01/16 19:22:07 trans.go:77: 翻译之前序号"135
+"时间"00:05:46,880 --> 00:05:48,880
+"正文"Oh, yes.
+"空行"
+"
+135
+2025/01/16 19:22:07 trans.go:107: 翻译之后序号"135
+"时间"00:05:46,880 --> 00:05:48,880
+"正文"Oh, yes.
+"空行"
+"
+135
+2025/01/16 19:22:07 trans.go:108: 原文"Oh, yes.
+"	译文"哦，是的。"
+135
+2025/01/16 19:22:07 trans.go:77: 翻译之前序号"136
+"时间"00:05:51,880 --> 00:05:52,880
+"正文"Okay.
+"空行"
+"
+136
+2025/01/16 19:22:07 trans.go:107: 翻译之后序号"136
+"时间"00:05:51,880 --> 00:05:52,880
+"正文"Okay.
+"空行"
+"
+136
+2025/01/16 19:22:07 trans.go:108: 原文"Okay.
+"	译文"好的"
+136
+2025/01/16 19:22:07 trans.go:77: 翻译之前序号"137
+"时间"00:05:53,880 --> 00:05:55,880
+"正文"Let's get mommy going back.
+"空行"
+"
+137
+2025/01/16 19:22:11 trans.go:107: 翻译之后序号"137
+"时间"00:05:53,880 --> 00:05:55,880
+"正文"Let's get mommy going back.
+"空行"
+"
+137
+2025/01/16 19:22:11 trans.go:108: 原文"Let's get mommy going back.
+"	译文"让妈妈回去吧"
+137
+2025/01/16 19:22:11 trans.go:77: 翻译之前序号"138
+"时间"00:05:55,880 --> 00:05:56,880
+"正文"Yeah.
+"空行"
+"
+138
+2025/01/16 19:22:11 trans.go:107: 翻译之后序号"138
+"时间"00:05:55,880 --> 00:05:56,880
+"正文"Yeah.
+"空行"
+"
+138
+2025/01/16 19:22:11 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+138
+2025/01/16 19:22:11 trans.go:77: 翻译之前序号"139
+"时间"00:05:56,880 --> 00:05:57,880
+"正文"Oh, god.
+"空行"
+"
+139
+2025/01/16 19:22:14 trans.go:107: 翻译之后序号"139
+"时间"00:05:56,880 --> 00:05:57,880
+"正文"Oh, god.
+"空行"
+"
+139
+2025/01/16 19:22:14 trans.go:108: 原文"Oh, god.
+"	译文"哦，上帝啊"
+139
+2025/01/16 19:22:14 trans.go:77: 翻译之前序号"140
+"时间"00:05:57,880 --> 00:05:58,880
+"正文"Oh, yeah.
+"空行"
+"
+140
+2025/01/16 19:22:17 trans.go:107: 翻译之后序号"140
+"时间"00:05:57,880 --> 00:05:58,880
+"正文"Oh, yeah.
+"空行"
+"
+140
+2025/01/16 19:22:17 trans.go:108: 原文"Oh, yeah.
+"	译文"哦，是的"
+140
+2025/01/16 19:22:17 trans.go:77: 翻译之前序号"141
+"时间"00:05:58,880 --> 00:06:01,380
+"正文"Like how tight your mommy's pussies
+"空行"
+"
+141
+2025/01/16 19:22:21 trans.go:107: 翻译之后序号"141
+"时间"00:05:58,880 --> 00:06:01,380
+"正文"Like how tight your mommy's pussies
+"空行"
+"
+141
+2025/01/16 19:22:21 trans.go:108: 原文"Like how tight your mommy's pussies
+"	译文"就像你妈妈的阴道有多紧致一样"
+141
+2025/01/16 19:22:21 trans.go:77: 翻译之前序号"142
+"时间"00:06:01,380 --> 00:06:05,020
+"正文"Oh yeah
+"空行"
+"
+142
+2025/01/16 19:22:24 trans.go:107: 翻译之后序号"142
+"时间"00:06:01,380 --> 00:06:05,020
+"正文"Oh yeah
+"空行"
+"
+142
+2025/01/16 19:22:24 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+142
+2025/01/16 19:22:24 trans.go:77: 翻译之前序号"143
+"时间"00:06:05,020 --> 00:06:08,060
+"正文"You're so good
+"空行"
+"
+143
+2025/01/16 19:22:27 trans.go:107: 翻译之后序号"143
+"时间"00:06:05,020 --> 00:06:08,060
+"正文"You're so good
+"空行"
+"
+143
+2025/01/16 19:22:27 trans.go:108: 原文"You're so good
+"	译文"你真棒"
+143
+2025/01/16 19:22:27 trans.go:77: 翻译之前序号"144
+"时间"00:06:08,060 --> 00:06:09,200
+"正文"I'm so glad you had me
+"空行"
+"
+144
+2025/01/16 19:22:30 trans.go:107: 翻译之后序号"144
+"时间"00:06:08,060 --> 00:06:09,200
+"正文"I'm so glad you had me
+"空行"
+"
+144
+2025/01/16 19:22:30 trans.go:108: 原文"I'm so glad you had me
+"	译文"我很高兴你让我"
+144
+2025/01/16 19:22:30 trans.go:77: 翻译之前序号"145
+"时间"00:06:09,200 --> 00:06:10,040
+"正文"Oh yeah
+"空行"
+"
+145
+2025/01/16 19:22:30 trans.go:107: 翻译之后序号"145
+"时间"00:06:09,200 --> 00:06:10,040
+"正文"Oh yeah
+"空行"
+"
+145
+2025/01/16 19:22:30 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+145
+2025/01/16 19:22:30 trans.go:77: 翻译之前序号"146
+"时间"00:06:10,040 --> 00:06:13,700
+"正文"Teach me all this stuff
+"空行"
+"
+146
+2025/01/16 19:22:34 trans.go:107: 翻译之后序号"146
+"时间"00:06:10,040 --> 00:06:13,700
+"正文"Teach me all this stuff
+"空行"
+"
+146
+2025/01/16 19:22:34 trans.go:108: 原文"Teach me all this stuff
+"	译文"教我这些东西"
+146
+2025/01/16 19:22:34 trans.go:77: 翻译之前序号"147
+"时间"00:06:13,700 --> 00:06:18,120
+"正文"You like that don't you
+"空行"
+"
+147
+2025/01/16 19:22:37 trans.go:107: 翻译之后序号"147
+"时间"00:06:13,700 --> 00:06:18,120
+"正文"You like that don't you
+"空行"
+"
+147
+2025/01/16 19:22:37 trans.go:108: 原文"You like that don't you
+"	译文"你喜欢这样，不是吗？"
+147
+2025/01/16 19:22:37 trans.go:77: 翻译之前序号"148
+"时间"00:06:18,120 --> 00:06:19,340
+"正文"Yeah
+"空行"
+"
+148
+2025/01/16 19:22:40 trans.go:107: 翻译之后序号"148
+"时间"00:06:18,120 --> 00:06:19,340
+"正文"Yeah
+"空行"
+"
+148
+2025/01/16 19:22:40 trans.go:108: 原文"Yeah
+"	译文"是的"
+148
+2025/01/16 19:22:40 trans.go:77: 翻译之前序号"149
+"时间"00:06:19,340 --> 00:06:21,500
+"正文"You like how I'm fucking you
+"空行"
+"
+149
+2025/01/16 19:22:44 trans.go:107: 翻译之后序号"149
+"时间"00:06:19,340 --> 00:06:21,500
+"正文"You like how I'm fucking you
+"空行"
+"
+149
+2025/01/16 19:22:44 trans.go:108: 原文"You like how I'm fucking you
+"	译文"你喜欢我和你做爱的方式"
+149
+2025/01/16 19:22:44 trans.go:77: 翻译之前序号"150
+"时间"00:06:21,500 --> 00:06:23,760
+"正文"Like how your mommy's fucking you don't you
+"空行"
+"
+150
+2025/01/16 19:22:47 trans.go:107: 翻译之后序号"150
+"时间"00:06:21,500 --> 00:06:23,760
+"正文"Like how your mommy's fucking you don't you
+"空行"
+"
+150
+2025/01/16 19:22:47 trans.go:108: 原文"Like how your mommy's fucking you don't you
+"	译文"就像你妈妈和你做爱一样，不是吗？"
+150
+2025/01/16 19:22:47 trans.go:77: 翻译之前序号"151
+"时间"00:06:23,760 --> 00:06:24,660
+"正文"Yeah
+"空行"
+"
+151
+2025/01/16 19:22:47 trans.go:107: 翻译之后序号"151
+"时间"00:06:23,760 --> 00:06:24,660
+"正文"Yeah
+"空行"
+"
+151
+2025/01/16 19:22:47 trans.go:108: 原文"Yeah
+"	译文"是的"
+151
+2025/01/16 19:22:47 trans.go:77: 翻译之前序号"152
+"时间"00:06:24,660 --> 00:06:27,940
+"正文"Yeah I'm gonna turn you into a bad little boy
+"空行"
+"
+152
+2025/01/16 19:22:51 trans.go:107: 翻译之后序号"152
+"时间"00:06:24,660 --> 00:06:27,940
+"正文"Yeah I'm gonna turn you into a bad little boy
+"空行"
+"
+152
+2025/01/16 19:22:51 trans.go:108: 原文"Yeah I'm gonna turn you into a bad little boy
+"	译文"我要把你变成一个坏小子"
+152
+2025/01/16 19:22:51 trans.go:77: 翻译之前序号"153
+"时间"00:06:27,940 --> 00:06:31,800
+"正文"Oh good
+"空行"
+"
+153
+2025/01/16 19:22:53 trans.go:107: 翻译之后序号"153
+"时间"00:06:27,940 --> 00:06:31,800
+"正文"Oh good
+"空行"
+"
+153
+2025/01/16 19:22:53 trans.go:108: 原文"Oh good
+"	译文"哦，很好"
+153
+2025/01/16 19:22:53 trans.go:77: 翻译之前序号"154
+"时间"00:06:31,800 --> 00:06:37,000
+"正文"Oh good
+"空行"
+"
+154
+2025/01/16 19:22:53 trans.go:107: 翻译之后序号"154
+"时间"00:06:31,800 --> 00:06:37,000
+"正文"Oh good
+"空行"
+"
+154
+2025/01/16 19:22:53 trans.go:108: 原文"Oh good
+"	译文"哦，很好"
+154
+2025/01/16 19:22:53 trans.go:77: 翻译之前序号"155
+"时间"00:06:37,000 --> 00:06:49,100
+"正文"Oh yes
+"空行"
+"
+155
+2025/01/16 19:22:56 trans.go:107: 翻译之后序号"155
+"时间"00:06:37,000 --> 00:06:49,100
+"正文"Oh yes
+"空行"
+"
+155
+2025/01/16 19:22:56 trans.go:108: 原文"Oh yes
+"	译文"哦，是的"
+155
+2025/01/16 19:22:56 trans.go:77: 翻译之前序号"156
+"时间"00:06:49,100 --> 00:06:50,960
+"正文"Oh my god yes
+"空行"
+"
+156
+2025/01/16 19:22:59 trans.go:107: 翻译之后序号"156
+"时间"00:06:49,100 --> 00:06:50,960
+"正文"Oh my god yes
+"空行"
+"
+156
+2025/01/16 19:22:59 trans.go:108: 原文"Oh my god yes
+"	译文"哦，我的上帝，是的"
+156
+2025/01/16 19:22:59 trans.go:77: 翻译之前序号"157
+"时间"00:06:50,960 --> 00:06:54,480
+"正文"Oh yeah
+"空行"
+"
+157
+2025/01/16 19:22:59 trans.go:107: 翻译之后序号"157
+"时间"00:06:50,960 --> 00:06:54,480
+"正文"Oh yeah
+"空行"
+"
+157
+2025/01/16 19:22:59 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+157
+2025/01/16 19:22:59 trans.go:77: 翻译之前序号"158
+"时间"00:06:54,480 --> 00:06:57,040
+"正文"Stick that cock back in that pussy
+"空行"
+"
+158
+2025/01/16 19:23:03 trans.go:107: 翻译之后序号"158
+"时间"00:06:54,480 --> 00:06:57,040
+"正文"Stick that cock back in that pussy
+"空行"
+"
+158
+2025/01/16 19:23:03 trans.go:108: 原文"Stick that cock back in that pussy
+"	译文"把鸡巴插回小穴里"
+158
+2025/01/16 19:23:03 trans.go:77: 翻译之前序号"159
+"时间"00:06:57,040 --> 00:06:57,580
+"正文"Oh
+"空行"
+"
+159
+2025/01/16 19:23:06 trans.go:107: 翻译之后序号"159
+"时间"00:06:57,040 --> 00:06:57,580
+"正文"Oh
+"空行"
+"
+159
+2025/01/16 19:23:06 trans.go:108: 原文"Oh
+"	译文"哦"
+159
+2025/01/16 19:23:06 trans.go:77: 翻译之前序号"160
+"时间"00:06:57,580 --> 00:06:57,920
+"正文"Oh
+"空行"
+"
+160
+2025/01/16 19:23:06 trans.go:107: 翻译之后序号"160
+"时间"00:06:57,580 --> 00:06:57,920
+"正文"Oh
+"空行"
+"
+160
+2025/01/16 19:23:06 trans.go:108: 原文"Oh
+"	译文"哦"
+160
+2025/01/16 19:23:06 trans.go:77: 翻译之前序号"161
+"时间"00:06:57,940 --> 00:06:59,780
+"正文"Oh fuck
+"空行"
+"
+161
+2025/01/16 19:23:09 trans.go:107: 翻译之后序号"161
+"时间"00:06:57,940 --> 00:06:59,780
+"正文"Oh fuck
+"空行"
+"
+161
+2025/01/16 19:23:09 trans.go:108: 原文"Oh fuck
+"	译文"我操"
+161
+2025/01/16 19:23:09 trans.go:77: 翻译之前序号"162
+"时间"00:06:59,780 --> 00:07:05,080
+"正文"Yeah
+"空行"
+"
+162
+2025/01/16 19:23:09 trans.go:107: 翻译之后序号"162
+"时间"00:06:59,780 --> 00:07:05,080
+"正文"Yeah
+"空行"
+"
+162
+2025/01/16 19:23:09 trans.go:108: 原文"Yeah
+"	译文"是的"
+162
+2025/01/16 19:23:09 trans.go:77: 翻译之前序号"163
+"时间"00:07:05,080 --> 00:07:07,820
+"正文"Oh
+"空行"
+"
+163
+2025/01/16 19:23:09 trans.go:107: 翻译之后序号"163
+"时间"00:07:05,080 --> 00:07:07,820
+"正文"Oh
+"空行"
+"
+163
+2025/01/16 19:23:09 trans.go:108: 原文"Oh
+"	译文"哦"
+163
+2025/01/16 19:23:09 trans.go:77: 翻译之前序号"164
+"时间"00:07:07,820 --> 00:07:11,340
+"正文"Oh
+"空行"
+"
+164
+2025/01/16 19:23:09 trans.go:107: 翻译之后序号"164
+"时间"00:07:07,820 --> 00:07:11,340
+"正文"Oh
+"空行"
+"
+164
+2025/01/16 19:23:09 trans.go:108: 原文"Oh
+"	译文"哦"
+164
+2025/01/16 19:23:09 trans.go:77: 翻译之前序号"165
+"时间"00:07:11,340 --> 00:07:14,820
+"正文"God yes
+"空行"
+"
+165
+2025/01/16 19:23:12 trans.go:107: 翻译之后序号"165
+"时间"00:07:11,340 --> 00:07:14,820
+"正文"God yes
+"空行"
+"
+165
+2025/01/16 19:23:12 trans.go:108: 原文"God yes
+"	译文"是的，上帝"
+165
+2025/01/16 19:23:12 trans.go:77: 翻译之前序号"166
+"时间"00:07:14,820 --> 00:07:15,880
+"正文"Just like that
+"空行"
+"
+166
+2025/01/16 19:23:15 trans.go:107: 翻译之后序号"166
+"时间"00:07:14,820 --> 00:07:15,880
+"正文"Just like that
+"空行"
+"
+166
+2025/01/16 19:23:15 trans.go:108: 原文"Just like that
+"	译文"就这样"
+166
+2025/01/16 19:23:15 trans.go:77: 翻译之前序号"167
+"时间"00:07:15,880 --> 00:07:22,200
+"正文"I hope that girl I see today
+"空行"
+"
+167
+2025/01/16 19:23:18 trans.go:107: 翻译之后序号"167
+"时间"00:07:15,880 --> 00:07:22,200
+"正文"I hope that girl I see today
+"空行"
+"
+167
+2025/01/16 19:23:18 trans.go:108: 原文"I hope that girl I see today
+"	译文"我希望我今天看到的那个女孩"
+167
+2025/01/16 19:23:18 trans.go:77: 翻译之前序号"168
+"时间"00:07:22,200 --> 00:07:23,380
+"正文"Has tits like this
+"空行"
+"
+168
+2025/01/16 19:23:21 trans.go:107: 翻译之后序号"168
+"时间"00:07:22,200 --> 00:07:23,380
+"正文"Has tits like this
+"空行"
+"
+168
+2025/01/16 19:23:21 trans.go:108: 原文"Has tits like this
+"	译文"胸部像这样"
+168
+2025/01/16 19:23:21 trans.go:77: 翻译之前序号"169
+"时间"00:07:23,380 --> 00:07:23,960
+"正文"Yeah
+"空行"
+"
+169
+2025/01/16 19:23:21 trans.go:107: 翻译之后序号"169
+"时间"00:07:23,380 --> 00:07:23,960
+"正文"Yeah
+"空行"
+"
+169
+2025/01/16 19:23:21 trans.go:108: 原文"Yeah
+"	译文"是的"
+169
+2025/01/16 19:23:21 trans.go:77: 翻译之前序号"170
+"时间"00:07:23,960 --> 00:07:24,840
+"正文"Oh yes
+"空行"
+"
+170
+2025/01/16 19:23:21 trans.go:107: 翻译之后序号"170
+"时间"00:07:23,960 --> 00:07:24,840
+"正文"Oh yes
+"空行"
+"
+170
+2025/01/16 19:23:21 trans.go:108: 原文"Oh yes
+"	译文"哦，是的"
+170
+2025/01/16 19:23:21 trans.go:77: 翻译之前序号"171
+"时间"00:07:24,840 --> 00:07:27,260
+"正文"I hope she gets her touch up
+"空行"
+"
+171
+2025/01/16 19:23:24 trans.go:107: 翻译之后序号"171
+"时间"00:07:24,840 --> 00:07:27,260
+"正文"I hope she gets her touch up
+"空行"
+"
+171
+2025/01/16 19:23:24 trans.go:108: 原文"I hope she gets her touch up
+"	译文"我希望她能得到修整"
+171
+2025/01/16 19:23:24 trans.go:77: 翻译之前序号"172
+"时间"00:07:27,260 --> 00:07:27,920
+"正文"Yeah
+"空行"
+"
+172
+2025/01/16 19:23:24 trans.go:107: 翻译之后序号"172
+"时间"00:07:27,260 --> 00:07:27,920
+"正文"Yeah
+"空行"
+"
+172
+2025/01/16 19:23:24 trans.go:108: 原文"Yeah
+"	译文"是的"
+172
+2025/01/16 19:23:24 trans.go:77: 翻译之前序号"173
+"时间"00:07:27,940 --> 00:07:29,720
+"正文"But if not I'll come home and see mommy
+"空行"
+"
+173
+2025/01/16 19:23:27 trans.go:107: 翻译之后序号"173
+"时间"00:07:27,940 --> 00:07:29,720
+"正文"But if not I'll come home and see mommy
+"空行"
+"
+173
+2025/01/16 19:23:27 trans.go:108: 原文"But if not I'll come home and see mommy
+"	译文"如果没有，我就回家看妈妈"
+173
+2025/01/16 19:23:27 trans.go:77: 翻译之前序号"174
+"时间"00:07:29,720 --> 00:07:32,140
+"正文"See mommy and grab mommy's tits
+"空行"
+"
+174
+2025/01/16 19:23:30 trans.go:107: 翻译之后序号"174
+"时间"00:07:29,720 --> 00:07:32,140
+"正文"See mommy and grab mommy's tits
+"空行"
+"
+174
+2025/01/16 19:23:30 trans.go:108: 原文"See mommy and grab mommy's tits
+"	译文"看妈妈，抓妈妈的奶子"
+174
+2025/01/16 19:23:30 trans.go:77: 翻译之前序号"175
+"时间"00:07:32,140 --> 00:07:32,840
+"正文"Yes
+"空行"
+"
+175
+2025/01/16 19:23:34 trans.go:107: 翻译之后序号"175
+"时间"00:07:32,140 --> 00:07:32,840
+"正文"Yes
+"空行"
+"
+175
+2025/01/16 19:23:34 trans.go:108: 原文"Yes
+"	译文"是"
+175
+2025/01/16 19:23:34 trans.go:77: 翻译之前序号"176
+"时间"00:07:32,840 --> 00:07:38,040
+"正文"Oh yes
+"空行"
+"
+176
+2025/01/16 19:23:34 trans.go:107: 翻译之后序号"176
+"时间"00:07:32,840 --> 00:07:38,040
+"正文"Oh yes
+"空行"
+"
+176
+2025/01/16 19:23:34 trans.go:108: 原文"Oh yes
+"	译文"哦，是的"
+176
+2025/01/16 19:23:34 trans.go:77: 翻译之前序号"177
+"时间"00:07:38,040 --> 00:07:39,320
+"正文"Drink it right there mommy
+"空行"
+"
+177
+2025/01/16 19:23:37 trans.go:107: 翻译之后序号"177
+"时间"00:07:38,040 --> 00:07:39,320
+"正文"Drink it right there mommy
+"空行"
+"
+177
+2025/01/16 19:23:37 trans.go:108: 原文"Drink it right there mommy
+"	译文"就在那儿喝吧，妈妈"
+177
+2025/01/16 19:23:37 trans.go:77: 翻译之前序号"178
+"时间"00:07:39,320 --> 00:07:41,460
+"正文"Oh god
+"空行"
+"
+178
+2025/01/16 19:23:40 trans.go:107: 翻译之后序号"178
+"时间"00:07:39,320 --> 00:07:41,460
+"正文"Oh god
+"空行"
+"
+178
+2025/01/16 19:23:40 trans.go:108: 原文"Oh god
+"	译文"上帝啊"
+178
+2025/01/16 19:23:40 trans.go:77: 翻译之前序号"179
+"时间"00:07:41,460 --> 00:07:43,140
+"正文"Oh yes
+"空行"
+"
+179
+2025/01/16 19:23:40 trans.go:107: 翻译之后序号"179
+"时间"00:07:41,460 --> 00:07:43,140
+"正文"Oh yes
+"空行"
+"
+179
+2025/01/16 19:23:40 trans.go:108: 原文"Oh yes
+"	译文"哦，是的"
+179
+2025/01/16 19:23:40 trans.go:77: 翻译之前序号"180
+"时间"00:07:43,140 --> 00:07:45,060
+"正文"Oh yeah
+"空行"
+"
+180
+2025/01/16 19:23:40 trans.go:107: 翻译之后序号"180
+"时间"00:07:43,140 --> 00:07:45,060
+"正文"Oh yeah
+"空行"
+"
+180
+2025/01/16 19:23:40 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+180
+2025/01/16 19:23:40 trans.go:77: 翻译之前序号"181
+"时间"00:07:45,060 --> 00:07:47,700
+"正文"Oh me like that
+"空行"
+"
+181
+2025/01/16 19:23:44 trans.go:107: 翻译之后序号"181
+"时间"00:07:45,060 --> 00:07:47,700
+"正文"Oh me like that
+"空行"
+"
+181
+2025/01/16 19:23:44 trans.go:108: 原文"Oh me like that
+"	译文"我喜欢这样"
+181
+2025/01/16 19:23:44 trans.go:77: 翻译之前序号"182
+"时间"00:07:47,700 --> 00:07:48,280
+"正文"Yeah
+"空行"
+"
+182
+2025/01/16 19:23:44 trans.go:107: 翻译之后序号"182
+"时间"00:07:47,700 --> 00:07:48,280
+"正文"Yeah
+"空行"
+"
+182
+2025/01/16 19:23:44 trans.go:108: 原文"Yeah
+"	译文"是的"
+182
+2025/01/16 19:23:44 trans.go:77: 翻译之前序号"183
+"时间"00:07:48,280 --> 00:07:50,480
+"正文"Oh fuck
+"空行"
+"
+183
+2025/01/16 19:23:44 trans.go:107: 翻译之后序号"183
+"时间"00:07:48,280 --> 00:07:50,480
+"正文"Oh fuck
+"空行"
+"
+183
+2025/01/16 19:23:44 trans.go:108: 原文"Oh fuck
+"	译文"我操"
+183
+2025/01/16 19:23:44 trans.go:77: 翻译之前序号"184
+"时间"00:07:50,480 --> 00:07:54,840
+"正文"Like when your mommy grabs your fucking cock like that
+"空行"
+"
+184
+2025/01/16 19:23:47 trans.go:107: 翻译之后序号"184
+"时间"00:07:50,480 --> 00:07:54,840
+"正文"Like when your mommy grabs your fucking cock like that
+"空行"
+"
+184
+2025/01/16 19:23:47 trans.go:108: 原文"Like when your mommy grabs your fucking cock like that
+"	译文"就像你妈妈那样抓住你的鸡巴"
+184
+2025/01/16 19:23:47 trans.go:77: 翻译之前序号"185
+"时间"00:07:54,840 --> 00:07:55,660
+"正文"Yes
+"空行"
+"
+185
+2025/01/16 19:23:47 trans.go:107: 翻译之后序号"185
+"时间"00:07:54,840 --> 00:07:55,660
+"正文"Yes
+"空行"
+"
+185
+2025/01/16 19:23:47 trans.go:108: 原文"Yes
+"	译文"是"
+185
+2025/01/16 19:23:47 trans.go:77: 翻译之前序号"186
+"时间"00:07:55,660 --> 00:07:55,820
+"正文"Oh fuck
+"空行"
+"
+186
+2025/01/16 19:23:47 trans.go:107: 翻译之后序号"186
+"时间"00:07:55,660 --> 00:07:55,820
+"正文"Oh fuck
+"空行"
+"
+186
+2025/01/16 19:23:47 trans.go:108: 原文"Oh fuck
+"	译文"我操"
+186
+2025/01/16 19:23:47 trans.go:77: 翻译之前序号"187
+"时间"00:07:55,820 --> 00:07:56,660
+"正文"Oh fuck
+"空行"
+"
+187
+2025/01/16 19:23:47 trans.go:107: 翻译之后序号"187
+"时间"00:07:55,820 --> 00:07:56,660
+"正文"Oh fuck
+"空行"
+"
+187
+2025/01/16 19:23:47 trans.go:108: 原文"Oh fuck
+"	译文"我操"
+187
+2025/01/16 19:23:47 trans.go:77: 翻译之前序号"188
+"时间"00:07:57,940 --> 00:07:58,940
+"正文"Oh my god
+"空行"
+"
+188
+2025/01/16 19:23:50 trans.go:107: 翻译之后序号"188
+"时间"00:07:57,940 --> 00:07:58,940
+"正文"Oh my god
+"空行"
+"
+188
+2025/01/16 19:23:50 trans.go:108: 原文"Oh my god
+"	译文"我的天啊"
+188
+2025/01/16 19:23:50 trans.go:77: 翻译之前序号"189
+"时间"00:07:58,940 --> 00:07:59,940
+"正文"Oh my god
+"空行"
+"
+189
+2025/01/16 19:23:50 trans.go:107: 翻译之后序号"189
+"时间"00:07:58,940 --> 00:07:59,940
+"正文"Oh my god
+"空行"
+"
+189
+2025/01/16 19:23:50 trans.go:108: 原文"Oh my god
+"	译文"我的天啊"
+189
+2025/01/16 19:23:50 trans.go:77: 翻译之前序号"190
+"时间"00:07:59,940 --> 00:08:04,940
+"正文"Oh it feels so fucking good doesn't it
+"空行"
+"
+190
+2025/01/16 19:23:54 trans.go:107: 翻译之后序号"190
+"时间"00:07:59,940 --> 00:08:04,940
+"正文"Oh it feels so fucking good doesn't it
+"空行"
+"
+190
+2025/01/16 19:23:54 trans.go:108: 原文"Oh it feels so fucking good doesn't it
+"	译文"哦，感觉真他妈的好，不是吗？"
+190
+2025/01/16 19:23:54 trans.go:77: 翻译之前序号"191
+"时间"00:08:04,940 --> 00:08:05,940
+"正文"Oh god
+"空行"
+"
+191
+2025/01/16 19:23:54 trans.go:107: 翻译之后序号"191
+"时间"00:08:04,940 --> 00:08:05,940
+"正文"Oh god
+"空行"
+"
+191
+2025/01/16 19:23:54 trans.go:108: 原文"Oh god
+"	译文"上帝啊"
+191
+2025/01/16 19:23:54 trans.go:77: 翻译之前序号"192
+"时间"00:08:05,940 --> 00:08:08,940
+"正文"You like when your mommy touches your fucking cock like that
+"空行"
+"
+192
+2025/01/16 19:23:58 trans.go:107: 翻译之后序号"192
+"时间"00:08:05,940 --> 00:08:08,940
+"正文"You like when your mommy touches your fucking cock like that
+"空行"
+"
+192
+2025/01/16 19:23:58 trans.go:108: 原文"You like when your mommy touches your fucking cock like that
+"	译文"你喜欢妈妈这样摸你的鸡巴吗？"
+192
+2025/01/16 19:23:58 trans.go:77: 翻译之前序号"193
+"时间"00:08:08,940 --> 00:08:09,940
+"正文"Oh god
+"空行"
+"
+193
+2025/01/16 19:23:58 trans.go:107: 翻译之后序号"193
+"时间"00:08:08,940 --> 00:08:09,940
+"正文"Oh god
+"空行"
+"
+193
+2025/01/16 19:23:58 trans.go:108: 原文"Oh god
+"	译文"上帝啊"
+193
+2025/01/16 19:23:58 trans.go:77: 翻译之前序号"194
+"时间"00:08:09,940 --> 00:08:14,940
+"正文"Can I bend you over some more that was fun
+"空行"
+"
+194
+2025/01/16 19:24:00 trans.go:107: 翻译之后序号"194
+"时间"00:08:09,940 --> 00:08:14,940
+"正文"Can I bend you over some more that was fun
+"空行"
+"
+194
+2025/01/16 19:24:00 trans.go:108: 原文"Can I bend you over some more that was fun
+"	译文"我能再把你折腾折腾吗？"
+194
+2025/01/16 19:24:00 trans.go:77: 翻译之前序号"195
+"时间"00:08:14,940 --> 00:08:16,940
+"正文"You wanna bend me over just a little more
+"空行"
+"
+195
+2025/01/16 19:24:04 trans.go:107: 翻译之后序号"195
+"时间"00:08:14,940 --> 00:08:16,940
+"正文"You wanna bend me over just a little more
+"空行"
+"
+195
+2025/01/16 19:24:04 trans.go:108: 原文"You wanna bend me over just a little more
+"	译文"你想让我再弯一点"
+195
+2025/01/16 19:24:04 trans.go:77: 翻译之前序号"196
+"时间"00:08:16,940 --> 00:08:17,940
+"正文"Can I
+"空行"
+"
+196
+2025/01/16 19:24:07 trans.go:107: 翻译之后序号"196
+"时间"00:08:16,940 --> 00:08:17,940
+"正文"Can I
+"空行"
+"
+196
+2025/01/16 19:24:07 trans.go:108: 原文"Can I
+"	译文"我可以"
+196
+2025/01/16 19:24:07 trans.go:77: 翻译之前序号"197
+"时间"00:08:17,940 --> 00:08:18,940
+"正文"Yeah
+"空行"
+"
+197
+2025/01/16 19:24:07 trans.go:107: 翻译之后序号"197
+"时间"00:08:17,940 --> 00:08:18,940
+"正文"Yeah
+"空行"
+"
+197
+2025/01/16 19:24:07 trans.go:108: 原文"Yeah
+"	译文"是的"
+197
+2025/01/16 19:24:07 trans.go:77: 翻译之前序号"198
+"时间"00:08:18,940 --> 00:08:19,940
+"正文"Yeah
+"空行"
+"
+198
+2025/01/16 19:24:07 trans.go:107: 翻译之后序号"198
+"时间"00:08:18,940 --> 00:08:19,940
+"正文"Yeah
+"空行"
+"
+198
+2025/01/16 19:24:07 trans.go:108: 原文"Yeah
+"	译文"是的"
+198
+2025/01/16 19:24:07 trans.go:77: 翻译之前序号"199
+"时间"00:08:19,940 --> 00:08:20,940
+"正文"I don't think I'll
+"空行"
+"
+199
+2025/01/16 19:24:10 trans.go:107: 翻译之后序号"199
+"时间"00:08:19,940 --> 00:08:20,940
+"正文"I don't think I'll
+"空行"
+"
+199
+2025/01/16 19:24:10 trans.go:108: 原文"I don't think I'll
+"	译文"我想我不会"
+199
+2025/01/16 19:24:10 trans.go:77: 翻译之前序号"200
+"时间"00:08:20,940 --> 00:08:21,940
+"正文"Come here
+"空行"
+"
+200
+2025/01/16 19:24:13 trans.go:107: 翻译之后序号"200
+"时间"00:08:20,940 --> 00:08:21,940
+"正文"Come here
+"空行"
+"
+200
+2025/01/16 19:24:13 trans.go:108: 原文"Come here
+"	译文"来这里"
+200
+2025/01/16 19:24:13 trans.go:77: 翻译之前序号"201
+"时间"00:08:21,940 --> 00:08:22,940
+"正文"Yes
+"空行"
+"
+201
+2025/01/16 19:24:13 trans.go:107: 翻译之后序号"201
+"时间"00:08:21,940 --> 00:08:22,940
+"正文"Yes
+"空行"
+"
+201
+2025/01/16 19:24:13 trans.go:108: 原文"Yes
+"	译文"是"
+201
+2025/01/16 19:24:13 trans.go:77: 翻译之前序号"202
+"时间"00:08:22,940 --> 00:08:25,940
+"正文"Oh yeah
+"空行"
+"
+202
+2025/01/16 19:24:14 trans.go:107: 翻译之后序号"202
+"时间"00:08:22,940 --> 00:08:25,940
+"正文"Oh yeah
+"空行"
+"
+202
+2025/01/16 19:24:14 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+202
+2025/01/16 19:24:14 trans.go:77: 翻译之前序号"203
+"时间"00:08:25,940 --> 00:08:26,940
+"正文"Oh
+"空行"
+"
+203
+2025/01/16 19:24:14 trans.go:107: 翻译之后序号"203
+"时间"00:08:25,940 --> 00:08:26,940
+"正文"Oh
+"空行"
+"
+203
+2025/01/16 19:24:14 trans.go:108: 原文"Oh
+"	译文"哦"
+203
+2025/01/16 19:24:14 trans.go:77: 翻译之前序号"204
+"时间"00:08:26,940 --> 00:08:27,940
+"正文"Come back in mommy
+"空行"
+"
+204
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"204
+"时间"00:08:26,940 --> 00:08:27,940
+"正文"Come back in mommy
+"空行"
+"
+204
+2025/01/16 19:24:17 trans.go:108: 原文"Come back in mommy
+"	译文"回来吧，妈妈"
+204
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"205
+"时间"00:08:27,940 --> 00:08:28,940
+"正文"Yeah
+"空行"
+"
+205
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"205
+"时间"00:08:27,940 --> 00:08:28,940
+"正文"Yeah
+"空行"
+"
+205
+2025/01/16 19:24:17 trans.go:108: 原文"Yeah
+"	译文"是的"
+205
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"206
+"时间"00:08:28,940 --> 00:08:29,940
+"正文"Oh yeah
+"空行"
+"
+206
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"206
+"时间"00:08:28,940 --> 00:08:29,940
+"正文"Oh yeah
+"空行"
+"
+206
+2025/01/16 19:24:17 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+206
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"207
+"时间"00:08:29,940 --> 00:08:30,940
+"正文"Yeah
+"空行"
+"
+207
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"207
+"时间"00:08:29,940 --> 00:08:30,940
+"正文"Yeah
+"空行"
+"
+207
+2025/01/16 19:24:17 trans.go:108: 原文"Yeah
+"	译文"是的"
+207
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"208
+"时间"00:08:30,940 --> 00:08:31,940
+"正文"Oh my god
+"空行"
+"
+208
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"208
+"时间"00:08:30,940 --> 00:08:31,940
+"正文"Oh my god
+"空行"
+"
+208
+2025/01/16 19:24:17 trans.go:108: 原文"Oh my god
+"	译文"我的天啊"
+208
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"209
+"时间"00:08:31,940 --> 00:08:32,940
+"正文"Oh my god
+"空行"
+"
+209
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"209
+"时间"00:08:31,940 --> 00:08:32,940
+"正文"Oh my god
+"空行"
+"
+209
+2025/01/16 19:24:17 trans.go:108: 原文"Oh my god
+"	译文"我的天啊"
+209
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"210
+"时间"00:08:32,940 --> 00:08:33,940
+"正文"Oh my god
+"空行"
+"
+210
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"210
+"时间"00:08:32,940 --> 00:08:33,940
+"正文"Oh my god
+"空行"
+"
+210
+2025/01/16 19:24:17 trans.go:108: 原文"Oh my god
+"	译文"我的天啊"
+210
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"211
+"时间"00:08:33,940 --> 00:08:34,940
+"正文"Yes
+"空行"
+"
+211
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"211
+"时间"00:08:33,940 --> 00:08:34,940
+"正文"Yes
+"空行"
+"
+211
+2025/01/16 19:24:17 trans.go:108: 原文"Yes
+"	译文"是"
+211
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"212
+"时间"00:08:34,940 --> 00:08:35,940
+"正文"Oh my god
+"空行"
+"
+212
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"212
+"时间"00:08:34,940 --> 00:08:35,940
+"正文"Oh my god
+"空行"
+"
+212
+2025/01/16 19:24:17 trans.go:108: 原文"Oh my god
+"	译文"我的天啊"
+212
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"213
+"时间"00:08:35,940 --> 00:08:37,940
+"正文"Oh my god
+"空行"
+"
+213
+2025/01/16 19:24:17 trans.go:107: 翻译之后序号"213
+"时间"00:08:35,940 --> 00:08:37,940
+"正文"Oh my god
+"空行"
+"
+213
+2025/01/16 19:24:17 trans.go:108: 原文"Oh my god
+"	译文"我的天啊"
+213
+2025/01/16 19:24:17 trans.go:77: 翻译之前序号"214
+"时间"00:08:37,940 --> 00:08:38,940
+"正文"Oh yes that feels so fucking good
+"空行"
+"
+214
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"214
+"时间"00:08:37,940 --> 00:08:38,940
+"正文"Oh yes that feels so fucking good
+"空行"
+"
+214
+2025/01/16 19:24:20 trans.go:108: 原文"Oh yes that feels so fucking good
+"	译文"哦，是的，感觉真他妈的好"
+214
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"215
+"时间"00:08:38,940 --> 00:08:39,940
+"正文"Oh fuck
+"空行"
+"
+215
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"215
+"时间"00:08:38,940 --> 00:08:39,940
+"正文"Oh fuck
+"空行"
+"
+215
+2025/01/16 19:24:20 trans.go:108: 原文"Oh fuck
+"	译文"我操"
+215
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"216
+"时间"00:08:39,940 --> 00:08:41,940
+"正文"Oh
+"空行"
+"
+216
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"216
+"时间"00:08:39,940 --> 00:08:41,940
+"正文"Oh
+"空行"
+"
+216
+2025/01/16 19:24:20 trans.go:108: 原文"Oh
+"	译文"哦"
+216
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"217
+"时间"00:08:41,940 --> 00:08:42,940
+"正文"Oh yeah
+"空行"
+"
+217
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"217
+"时间"00:08:41,940 --> 00:08:42,940
+"正文"Oh yeah
+"空行"
+"
+217
+2025/01/16 19:24:20 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+217
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"218
+"时间"00:08:42,940 --> 00:08:43,940
+"正文"Mm-hmm
+"空行"
+"
+218
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"218
+"时间"00:08:42,940 --> 00:08:43,940
+"正文"Mm-hmm
+"空行"
+"
+218
+2025/01/16 19:24:20 trans.go:108: 原文"Mm-hmm
+"	译文"嗯"
+218
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"219
+"时间"00:08:43,940 --> 00:08:44,940
+"正文"Mm-hmm
+"空行"
+"
+219
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"219
+"时间"00:08:43,940 --> 00:08:44,940
+"正文"Mm-hmm
+"空行"
+"
+219
+2025/01/16 19:24:20 trans.go:108: 原文"Mm-hmm
+"	译文"嗯"
+219
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"220
+"时间"00:08:44,940 --> 00:08:45,940
+"正文"Oh
+"空行"
+"
+220
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"220
+"时间"00:08:44,940 --> 00:08:45,940
+"正文"Oh
+"空行"
+"
+220
+2025/01/16 19:24:20 trans.go:108: 原文"Oh
+"	译文"哦"
+220
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"221
+"时间"00:08:45,940 --> 00:08:46,940
+"正文"Oh yeah
+"空行"
+"
+221
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"221
+"时间"00:08:45,940 --> 00:08:46,940
+"正文"Oh yeah
+"空行"
+"
+221
+2025/01/16 19:24:20 trans.go:108: 原文"Oh yeah
+"	译文"是的"
+221
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"222
+"时间"00:08:46,940 --> 00:08:47,940
+"正文"Mm-hmm
+"空行"
+"
+222
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"222
+"时间"00:08:46,940 --> 00:08:47,940
+"正文"Mm-hmm
+"空行"
+"
+222
+2025/01/16 19:24:20 trans.go:108: 原文"Mm-hmm
+"	译文"嗯"
+222
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"223
+"时间"00:08:47,940 --> 00:08:48,940
+"正文"Mm-hmm
+"空行"
+"
+223
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"223
+"时间"00:08:47,940 --> 00:08:48,940
+"正文"Mm-hmm
+"空行"
+"
+223
+2025/01/16 19:24:20 trans.go:108: 原文"Mm-hmm
+"	译文"嗯"
+223
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"224
+"时间"00:08:48,940 --> 00:08:49,940
+"正文"Oh
+"空行"
+"
+224
+2025/01/16 19:24:20 trans.go:107: 翻译之后序号"224
+"时间"00:08:48,940 --> 00:08:49,940
+"正文"Oh
+"空行"
+"
+224
+2025/01/16 19:24:20 trans.go:108: 原文"Oh
+"	译文"哦"
+224
+2025/01/16 19:24:20 trans.go:77: 翻译之前序号"225
+"时间"00:08:49,940 --> 00:08:50,940
+"正文"Oh fuck yes
+"空行"
+"
+225
+2025/01/16 19:24:24 trans.go:107: 翻译之后序号"225
+"时间"00:08:49,940 --> 00:08:50,940
+"正文"Oh fuck yes
+"空行"
+"
+225
+2025/01/16 19:24:24 trans.go:108: 原文"Oh fuck yes
+"	译文"哦，他妈的是的"
+225
+2025/01/16 19:24:24 trans.go:77: 翻译之前序号"226
+"时间"00:08:50,940 --> 00:08:51,940
+"正文"Fuck your mommy
+"空行"
+"
+226
+2025/01/16 19:24:27 trans.go:107: 翻译之后序号"226
+"时间"00:08:50,940 --> 00:08:51,940
+"正文"Fuck your mommy
+"空行"
+"
+226
+2025/01/16 19:24:27 trans.go:108: 原文"Fuck your mommy
+"	译文"去你妈的"
+226
+2025/01/16 19:24:27 trans.go:77: 翻译之前序号"227
+"时间"00:08:51,940 --> 00:08:52,940
+"正文"Fuck your mommy hard
+"空行"
+"
+227
+2025/01/16 19:24:30 trans.go:107: 翻译之后序号"227
+"时间"00:08:51,940 --> 00:08:52,940
+"正文"Fuck your mommy hard
+"空行"
+"
+227
+2025/01/16 19:24:30 trans.go:108: 原文"Fuck your mommy hard
+"	译文"用力操你妈妈"
+227
+2025/01/16 19:24:30 trans.go:77: 翻译之前序号"228
+"时间"00:08:52,940 --> 00:08:53,940
+"正文"Fuck your
+"空行"
+"
+228
+2025/01/16 19:24:34 trans.go:107: 翻译之后序号"228
+"时间"00:08:52,940 --> 00:08:53,940
+"正文"Fuck your
+"空行"
+"
+228
+2025/01/16 19:24:34 trans.go:108: 原文"Fuck your
+"	译文"去你的"
+228
+2025/01/16 19:24:34 trans.go:77: 翻译之前序号"229
+"时间"00:08:53,940 --> 00:08:54,940
+"正文"Fuck your mommy hard
+"空行"
+"
+229
+2025/01/16 19:24:34 trans.go:107: 翻译之后序号"229
+"时间"00:08:53,940 --> 00:08:54,940
+"正文"Fuck your mommy hard
+"空行"
+"
+229
+2025/01/16 19:24:34 trans.go:108: 原文"Fuck your mommy hard
+"	译文"用力操你妈妈"
+229
+2025/01/16 19:24:34 trans.go:77: 翻译之前序号"230
+"时间"00:08:54,940 --> 00:08:55,940
+"正文"Yes yes
+"空行"
+"
+230
+2025/01/16 19:24:37 trans.go:107: 翻译之后序号"230
+"时间"00:08:54,940 --> 00:08:55,940
+"正文"Yes yes
+"空行"
+"
+230
+2025/01/16 19:24:37 trans.go:108: 原文"Yes yes
+"	译文"是 是"
+230
+2025/01/16 19:24:37 trans.go:77: 翻译之前序号"231
+"时间"00:08:55,940 --> 00:09:15,040
+"正文"Oh God, oh God, oh God, oh man, oh God, I still can't come on you, I don't know, I think
+"空行"
+"
+231
+2025/01/16 19:24:40 trans.go:107: 翻译之后序号"231
+"时间"00:08:55,940 --> 00:09:15,040
+"正文"Oh God, oh God, oh God, oh man, oh God, I still can't come on you, I don't know, I think
+"空行"
+"
+231
+2025/01/16 19:24:40 trans.go:108: 原文"Oh God, oh God, oh God, oh man, oh God, I still can't come on you, I don't know, I think
+"	译文"天啊，天啊，天啊，天啊，天啊，天啊，天啊，我还是不能接受你，我不知道，我觉得"
+231
+2025/01/16 19:24:40 trans.go:77: 翻译之前序号"232
+"时间"00:09:15,040 --> 00:09:19,920
+"正文"it's weird that, you know, you're, you're my mom and I like to come on you.
+"空行"
+"
+232
+2025/01/16 19:24:44 trans.go:107: 翻译之后序号"232
+"时间"00:09:15,040 --> 00:09:19,920
+"正文"it's weird that, you know, you're, you're my mom and I like to come on you.
+"空行"
+"
+232
+2025/01/16 19:24:44 trans.go:108: 原文"it's weird that, you know, you're, you're my mom and I like to come on you.
+"	译文"很奇怪，你是我妈妈，我却喜欢来找你。"
+232
+2025/01/16 19:24:44 trans.go:77: 翻译之前序号"233
+"时间"00:09:20,300 --> 00:09:22,700
+"正文"Oh, well that's what good boys do.
+"空行"
+"
+233
+2025/01/16 19:24:48 trans.go:107: 翻译之后序号"233
+"时间"00:09:20,300 --> 00:09:22,700
+"正文"Oh, well that's what good boys do.
+"空行"
+"
+233
+2025/01/16 19:24:48 trans.go:108: 原文"Oh, well that's what good boys do.
+"	译文"哦，好孩子就是这样。"
+233
+2025/01/16 19:24:48 trans.go:77: 翻译之前序号"234
+"时间"00:09:22,700 --> 00:09:25,820
+"正文"I want you to fucking come on me.
+"空行"
+"
+234
+2025/01/16 19:24:51 trans.go:107: 翻译之后序号"234
+"时间"00:09:22,700 --> 00:09:25,820
+"正文"I want you to fucking come on me.
+"空行"
+"
+234
+2025/01/16 19:24:51 trans.go:108: 原文"I want you to fucking come on me.
+"	译文"我想让你他妈射在我身上"
+234
+2025/01/16 19:24:51 trans.go:77: 翻译之前序号"235
+"时间"00:09:26,220 --> 00:09:37,360
+"正文"You know, oh my God, oh yeah, because that's what, is that dad?
+"空行"
+"
+235
+2025/01/16 19:24:55 trans.go:107: 翻译之后序号"235
+"时间"00:09:26,220 --> 00:09:37,360
+"正文"You know, oh my God, oh yeah, because that's what, is that dad?
+"空行"
+"
+235
+2025/01/16 19:24:55 trans.go:108: 原文"You know, oh my God, oh yeah, because that's what, is that dad?
+"	译文"你知道，哦，我的上帝，哦，是的，因为那是什么，是爸爸吗？"
+235
+2025/01/16 19:24:55 trans.go:77: 翻译之前序号"236
+"时间"00:09:37,760 --> 00:09:49,340
+"正文"I hope dad's not at home, oh, it's, it's okay, it's really okay, I just need you to
+"空行"
+"
+236
+2025/01/16 19:24:58 trans.go:107: 翻译之后序号"236
+"时间"00:09:37,760 --> 00:09:49,340
+"正文"I hope dad's not at home, oh, it's, it's okay, it's really okay, I just need you to
+"空行"
+"
+236
+2025/01/16 19:24:58 trans.go:108: 原文"I hope dad's not at home, oh, it's, it's okay, it's really okay, I just need you to
+"	译文"我希望爸爸不在家，哦，没事，真的没事，我只是需要你"
+236
+2025/01/16 19:24:58 trans.go:77: 翻译之前序号"237
+"时间"00:09:49,340 --> 00:09:52,040
+"正文"come for me, because you can't leave the house with the heart on.
+"空行"
+"
+237
+2025/01/16 19:25:01 trans.go:107: 翻译之后序号"237
+"时间"00:09:49,340 --> 00:09:52,040
+"正文"come for me, because you can't leave the house with the heart on.
+"空行"
+"
+237
+2025/01/16 19:25:01 trans.go:108: 原文"come for me, because you can't leave the house with the heart on.
+"	译文"来找我，因为你不能带着心脏出门。"
+237
+2025/01/16 19:25:01 trans.go:77: 翻译之前序号"238
+"时间"00:09:52,380 --> 00:09:52,620
+"正文"Oh yeah.
+"空行"
+"
+238
+2025/01/16 19:25:04 trans.go:107: 翻译之后序号"238
+"时间"00:09:52,380 --> 00:09:52,620
+"正文"Oh yeah.
+"空行"
+"
+238
+2025/01/16 19:25:04 trans.go:108: 原文"Oh yeah.
+"	译文"哦，是的。"
+238
+2025/01/16 19:25:04 trans.go:77: 翻译之前序号"239
+"时间"00:09:53,060 --> 00:09:53,400
+"正文"Yeah.
+"空行"
+"
+239
+2025/01/16 19:25:04 trans.go:107: 翻译之后序号"239
+"时间"00:09:53,060 --> 00:09:53,400
+"正文"Yeah.
+"空行"
+"
+239
+2025/01/16 19:25:04 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+239
+2025/01/16 19:25:04 trans.go:77: 翻译之前序号"240
+"时间"00:09:53,980 --> 00:09:54,760
+"正文"Oh yeah.
+"空行"
+"
+240
+2025/01/16 19:25:04 trans.go:107: 翻译之后序号"240
+"时间"00:09:53,980 --> 00:09:54,760
+"正文"Oh yeah.
+"空行"
+"
+240
+2025/01/16 19:25:04 trans.go:108: 原文"Oh yeah.
+"	译文"哦，是的。"
+240
+2025/01/16 19:25:04 trans.go:77: 翻译之前序号"241
+"时间"00:09:55,380 --> 00:09:56,220
+"正文"Oh yeah.
+"空行"
+"
+241
+2025/01/16 19:25:04 trans.go:107: 翻译之后序号"241
+"时间"00:09:55,380 --> 00:09:56,220
+"正文"Oh yeah.
+"空行"
+"
+241
+2025/01/16 19:25:04 trans.go:108: 原文"Oh yeah.
+"	译文"哦，是的。"
+241
+2025/01/16 19:25:04 trans.go:77: 翻译之前序号"242
+"时间"00:09:56,760 --> 00:09:57,120
+"正文"Yeah.
+"空行"
+"
+242
+2025/01/16 19:25:04 trans.go:107: 翻译之后序号"242
+"时间"00:09:56,760 --> 00:09:57,120
+"正文"Yeah.
+"空行"
+"
+242
+2025/01/16 19:25:04 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+242
+2025/01/16 19:25:04 trans.go:77: 翻译之前序号"243
+"时间"00:09:57,360 --> 00:09:57,760
+"正文"Yeah.
+"空行"
+"
+243
+2025/01/16 19:25:04 trans.go:107: 翻译之后序号"243
+"时间"00:09:57,360 --> 00:09:57,760
+"正文"Yeah.
+"空行"
+"
+243
+2025/01/16 19:25:04 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+243
+2025/01/16 19:25:04 trans.go:77: 翻译之前序号"244
+"时间"00:09:58,480 --> 00:09:58,920
+"正文"Okay.
+"空行"
+"
+244
+2025/01/16 19:25:04 trans.go:107: 翻译之后序号"244
+"时间"00:09:58,480 --> 00:09:58,920
+"正文"Okay.
+"空行"
+"
+244
+2025/01/16 19:25:04 trans.go:108: 原文"Okay.
+"	译文"好的"
+244
+2025/01/16 19:25:04 trans.go:77: 翻译之前序号"245
+"时间"00:10:00,060 --> 00:10:02,680
+"正文"You gotta come for me, because you can't leave the house with the heart on.
+"空行"
+"
+245
+2025/01/16 19:25:07 trans.go:107: 翻译之后序号"245
+"时间"00:10:00,060 --> 00:10:02,680
+"正文"You gotta come for me, because you can't leave the house with the heart on.
+"空行"
+"
+245
+2025/01/16 19:25:07 trans.go:108: 原文"You gotta come for me, because you can't leave the house with the heart on.
+"	译文"你一定要来找我，因为你不能带着心脏出门。"
+245
+2025/01/16 19:25:07 trans.go:77: 翻译之前序号"246
+"时间"00:10:03,940 --> 00:10:05,660
+"正文"So, are you gonna come for mommy?
+"空行"
+"
+246
+2025/01/16 19:25:11 trans.go:107: 翻译之后序号"246
+"时间"00:10:03,940 --> 00:10:05,660
+"正文"So, are you gonna come for mommy?
+"空行"
+"
+246
+2025/01/16 19:25:11 trans.go:108: 原文"So, are you gonna come for mommy?
+"	译文"你会来找妈妈吗？"
+246
+2025/01/16 19:25:11 trans.go:77: 翻译之前序号"247
+"时间"00:10:05,920 --> 00:10:06,320
+"正文"Yeah.
+"空行"
+"
+247
+2025/01/16 19:25:11 trans.go:107: 翻译之后序号"247
+"时间"00:10:05,920 --> 00:10:06,320
+"正文"Yeah.
+"空行"
+"
+247
+2025/01/16 19:25:11 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+247
+2025/01/16 19:25:11 trans.go:77: 翻译之前序号"248
+"时间"00:10:06,320 --> 00:10:07,900
+"正文"I'm gonna come for you, aren't you?
+"空行"
+"
+248
+2025/01/16 19:25:14 trans.go:107: 翻译之后序号"248
+"时间"00:10:06,320 --> 00:10:07,900
+"正文"I'm gonna come for you, aren't you?
+"空行"
+"
+248
+2025/01/16 19:25:14 trans.go:108: 原文"I'm gonna come for you, aren't you?
+"	译文"我会来找你的，对吧？"
+248
+2025/01/16 19:25:14 trans.go:77: 翻译之前序号"249
+"时间"00:10:09,040 --> 00:10:09,860
+"正文"Good boy.
+"空行"
+"
+249
+2025/01/16 19:25:17 trans.go:107: 翻译之后序号"249
+"时间"00:10:09,040 --> 00:10:09,860
+"正文"Good boy.
+"空行"
+"
+249
+2025/01/16 19:25:17 trans.go:108: 原文"Good boy.
+"	译文"好孩子"
+249
+2025/01/16 19:25:17 trans.go:77: 翻译之前序号"250
+"时间"00:10:10,540 --> 00:10:10,880
+"正文"Yeah.
+"空行"
+"
+250
+2025/01/16 19:25:17 trans.go:107: 翻译之后序号"250
+"时间"00:10:10,540 --> 00:10:10,880
+"正文"Yeah.
+"空行"
+"
+250
+2025/01/16 19:25:17 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+250
+2025/01/16 19:25:17 trans.go:77: 翻译之前序号"251
+"时间"00:10:12,980 --> 00:10:13,940
+"正文"Oh yeah.
+"空行"
+"
+251
+2025/01/16 19:25:17 trans.go:107: 翻译之后序号"251
+"时间"00:10:12,980 --> 00:10:13,940
+"正文"Oh yeah.
+"空行"
+"
+251
+2025/01/16 19:25:17 trans.go:108: 原文"Oh yeah.
+"	译文"哦，是的。"
+251
+2025/01/16 19:25:17 trans.go:77: 翻译之前序号"252
+"时间"00:10:14,760 --> 00:10:16,100
+"正文"Yeah, come for me.
+"空行"
+"
+252
+2025/01/16 19:25:20 trans.go:107: 翻译之后序号"252
+"时间"00:10:14,760 --> 00:10:16,100
+"正文"Yeah, come for me.
+"空行"
+"
+252
+2025/01/16 19:25:20 trans.go:108: 原文"Yeah, come for me.
+"	译文"是啊，来找我吧"
+252
+2025/01/16 19:25:20 trans.go:77: 翻译之前序号"253
+"时间"00:10:17,160 --> 00:10:17,560
+"正文"Good boy.
+"空行"
+"
+253
+2025/01/16 19:25:20 trans.go:107: 翻译之后序号"253
+"时间"00:10:17,160 --> 00:10:17,560
+"正文"Good boy.
+"空行"
+"
+253
+2025/01/16 19:25:20 trans.go:108: 原文"Good boy.
+"	译文"好孩子"
+253
+2025/01/16 19:25:20 trans.go:77: 翻译之前序号"254
+"时间"00:10:17,560 --> 00:10:24,580
+"正文"Oh yeah.
+"空行"
+"
+254
+2025/01/16 19:25:20 trans.go:107: 翻译之后序号"254
+"时间"00:10:17,560 --> 00:10:24,580
+"正文"Oh yeah.
+"空行"
+"
+254
+2025/01/16 19:25:20 trans.go:108: 原文"Oh yeah.
+"	译文"哦，是的。"
+254
+2025/01/16 19:25:20 trans.go:77: 翻译之前序号"255
+"时间"00:10:24,580 --> 00:10:26,000
+"正文"Oh, okay.
+"空行"
+"
+255
+2025/01/16 19:25:23 trans.go:107: 翻译之后序号"255
+"时间"00:10:24,580 --> 00:10:26,000
+"正文"Oh, okay.
+"空行"
+"
+255
+2025/01/16 19:25:23 trans.go:108: 原文"Oh, okay.
+"	译文"哦，好吧"
+255
+2025/01/16 19:25:23 trans.go:77: 翻译之前序号"256
+"时间"00:10:26,000 --> 00:10:27,320
+"正文"Yeah, come for mommy.
+"空行"
+"
+256
+2025/01/16 19:25:27 trans.go:107: 翻译之后序号"256
+"时间"00:10:26,000 --> 00:10:27,320
+"正文"Yeah, come for mommy.
+"空行"
+"
+256
+2025/01/16 19:25:27 trans.go:108: 原文"Yeah, come for mommy.
+"	译文"对，来找妈妈"
+256
+2025/01/16 19:25:27 trans.go:77: 翻译之前序号"257
+"时间"00:10:27,320 --> 00:10:28,320
+"正文"Come for mommy.
+"空行"
+"
+257
+2025/01/16 19:25:30 trans.go:107: 翻译之后序号"257
+"时间"00:10:27,320 --> 00:10:28,320
+"正文"Come for mommy.
+"空行"
+"
+257
+2025/01/16 19:25:30 trans.go:108: 原文"Come for mommy.
+"	译文"来找妈妈"
+257
+2025/01/16 19:25:30 trans.go:77: 翻译之前序号"258
+"时间"00:10:28,320 --> 00:10:29,320
+"正文"Yeah.
+"空行"
+"
+258
+2025/01/16 19:25:30 trans.go:107: 翻译之后序号"258
+"时间"00:10:28,320 --> 00:10:29,320
+"正文"Yeah.
+"空行"
+"
+258
+2025/01/16 19:25:30 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+258
+2025/01/16 19:25:30 trans.go:77: 翻译之前序号"259
+"时间"00:10:29,320 --> 00:10:30,320
+"正文"Come for mommy.
+"空行"
+"
+259
+2025/01/16 19:25:30 trans.go:107: 翻译之后序号"259
+"时间"00:10:29,320 --> 00:10:30,320
+"正文"Come for mommy.
+"空行"
+"
+259
+2025/01/16 19:25:30 trans.go:108: 原文"Come for mommy.
+"	译文"来找妈妈"
+259
+2025/01/16 19:25:30 trans.go:77: 翻译之前序号"260
+"时间"00:10:30,320 --> 00:10:31,320
+"正文"You want to come with me?
+"空行"
+"
+260
+2025/01/16 19:25:34 trans.go:107: 翻译之后序号"260
+"时间"00:10:30,320 --> 00:10:31,320
+"正文"You want to come with me?
+"空行"
+"
+260
+2025/01/16 19:25:34 trans.go:108: 原文"You want to come with me?
+"	译文"你想和我一起去吗？"
+260
+2025/01/16 19:25:34 trans.go:77: 翻译之前序号"261
+"时间"00:10:31,320 --> 00:10:32,320
+"正文"Yeah, give it to me.
+"空行"
+"
+261
+2025/01/16 19:25:37 trans.go:107: 翻译之后序号"261
+"时间"00:10:31,320 --> 00:10:32,320
+"正文"Yeah, give it to me.
+"空行"
+"
+261
+2025/01/16 19:25:37 trans.go:108: 原文"Yeah, give it to me.
+"	译文"给我吧"
+261
+2025/01/16 19:25:37 trans.go:77: 翻译之前序号"262
+"时间"00:10:32,320 --> 00:10:33,320
+"正文"Give me all the gum, baby.
+"空行"
+"
+262
+2025/01/16 19:25:40 trans.go:107: 翻译之后序号"262
+"时间"00:10:32,320 --> 00:10:33,320
+"正文"Give me all the gum, baby.
+"空行"
+"
+262
+2025/01/16 19:25:40 trans.go:108: 原文"Give me all the gum, baby.
+"	译文"把口香糖都给我，宝贝"
+262
+2025/01/16 19:25:40 trans.go:77: 翻译之前序号"263
+"时间"00:10:33,320 --> 00:10:34,320
+"正文"Yeah.
+"空行"
+"
+263
+2025/01/16 19:25:40 trans.go:107: 翻译之后序号"263
+"时间"00:10:33,320 --> 00:10:34,320
+"正文"Yeah.
+"空行"
+"
+263
+2025/01/16 19:25:40 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+263
+2025/01/16 19:25:40 trans.go:77: 翻译之前序号"264
+"时间"00:10:34,320 --> 00:10:35,320
+"正文"Oh, baby.
+"空行"
+"
+264
+2025/01/16 19:25:43 trans.go:107: 翻译之后序号"264
+"时间"00:10:34,320 --> 00:10:35,320
+"正文"Oh, baby.
+"空行"
+"
+264
+2025/01/16 19:25:43 trans.go:108: 原文"Oh, baby.
+"	译文"哦，宝贝"
+264
+2025/01/16 19:25:43 trans.go:77: 翻译之前序号"265
+"时间"00:10:35,320 --> 00:10:36,320
+"正文"Oh, you're a good boy.
+"空行"
+"
+265
+2025/01/16 19:25:47 trans.go:107: 翻译之后序号"265
+"时间"00:10:35,320 --> 00:10:36,320
+"正文"Oh, you're a good boy.
+"空行"
+"
+265
+2025/01/16 19:25:47 trans.go:108: 原文"Oh, you're a good boy.
+"	译文"哦，你是个好孩子。"
+265
+2025/01/16 19:25:47 trans.go:77: 翻译之前序号"266
+"时间"00:10:36,320 --> 00:10:37,320
+"正文"Oh, you're such a good boy.
+"空行"
+"
+266
+2025/01/16 19:25:49 trans.go:107: 翻译之后序号"266
+"时间"00:10:36,320 --> 00:10:37,320
+"正文"Oh, you're such a good boy.
+"空行"
+"
+266
+2025/01/16 19:25:49 trans.go:108: 原文"Oh, you're such a good boy.
+"	译文"哦，你真是个好孩子。"
+266
+2025/01/16 19:25:49 trans.go:77: 翻译之前序号"267
+"时间"00:10:37,320 --> 00:10:38,320
+"正文"Okay.
+"空行"
+"
+267
+2025/01/16 19:25:49 trans.go:107: 翻译之后序号"267
+"时间"00:10:37,320 --> 00:10:38,320
+"正文"Okay.
+"空行"
+"
+267
+2025/01/16 19:25:49 trans.go:108: 原文"Okay.
+"	译文"好的"
+267
+2025/01/16 19:25:49 trans.go:77: 翻译之前序号"268
+"时间"00:10:38,320 --> 00:10:39,320
+"正文"Yeah.
+"空行"
+"
+268
+2025/01/16 19:25:49 trans.go:107: 翻译之后序号"268
+"时间"00:10:38,320 --> 00:10:39,320
+"正文"Yeah.
+"空行"
+"
+268
+2025/01/16 19:25:49 trans.go:108: 原文"Yeah.
+"	译文"是啊"
+268
+2025/01/16 19:25:49 trans.go:77: 翻译之前序号"269
+"时间"00:10:39,320 --> 00:10:40,320
+"正文"Oh, you're a good boy.
+"空行"
+"
+269
+2025/01/16 19:25:49 trans.go:107: 翻译之后序号"269
+"时间"00:10:39,320 --> 00:10:40,320
+"正文"Oh, you're a good boy.
+"空行"
+"
+269
+2025/01/16 19:25:49 trans.go:108: 原文"Oh, you're a good boy.
+"	译文"哦，你是个好孩子。"
+269
+2025/01/16 19:25:49 trans.go:77: 翻译之前序号"270
+"时间"00:10:40,320 --> 00:10:41,320
+"正文"It's okay.
+"空行"
+"
+270
+2025/01/16 19:25:53 trans.go:107: 翻译之后序号"270
+"时间"00:10:40,320 --> 00:10:41,320
+"正文"It's okay.
+"空行"
+"
+270
+2025/01/16 19:25:53 trans.go:108: 原文"It's okay.
+"	译文"没关系。"
+270
+2025/01/16 19:25:53 trans.go:77: 翻译之前序号"271
+"时间"00:10:41,320 --> 00:10:42,320
+"正文"It's okay.
+"空行"
+"
+271
+2025/01/16 19:25:53 trans.go:107: 翻译之后序号"271
+"时间"00:10:41,320 --> 00:10:42,320
+"正文"It's okay.
+"空行"
+"
+271
+2025/01/16 19:25:53 trans.go:108: 原文"It's okay.
+"	译文"没关系。"
+271
+2025/01/16 19:25:53 trans.go:77: 翻译之前序号"272
+"时间"00:10:42,320 --> 00:10:43,320
+"正文"It's okay.
+"空行"
+"
+272
+2025/01/16 19:25:53 trans.go:107: 翻译之后序号"272
+"时间"00:10:42,320 --> 00:10:43,320
+"正文"It's okay.
+"空行"
+"
+272
+2025/01/16 19:25:53 trans.go:108: 原文"It's okay.
+"	译文"没关系。"
+272
+2025/01/16 19:25:53 trans.go:77: 翻译之前序号"273
+"时间"00:10:43,320 --> 00:10:44,320
+"正文"It's okay.
+"空行"
+"
+273
+2025/01/16 19:25:53 trans.go:107: 翻译之后序号"273
+"时间"00:10:43,320 --> 00:10:44,320
+"正文"It's okay.
+"空行"
+"
+273
+2025/01/16 19:25:53 trans.go:108: 原文"It's okay.
+"	译文"没关系。"
+273
+2025/01/16 19:25:53 trans.go:77: 翻译之前序号"274
+"时间"00:10:44,320 --> 00:10:45,320
+"正文"I love you.
+"空行"
+"
+274
+2025/01/16 19:25:57 trans.go:107: 翻译之后序号"274
+"时间"00:10:44,320 --> 00:10:45,320
+"正文"I love you.
+"空行"
+"
+274
+2025/01/16 19:25:57 trans.go:108: 原文"I love you.
+"	译文"我爱你"
+274
+2025/01/16 19:25:57 trans.go:77: 翻译之前序号"275
+"时间"00:10:45,320 --> 00:10:46,320
+"正文"I love you.
+"空行"
+"
+275
+2025/01/16 19:25:57 trans.go:107: 翻译之后序号"275
+"时间"00:10:45,320 --> 00:10:46,320
+"正文"I love you.
+"空行"
+"
+275
+2025/01/16 19:25:57 trans.go:108: 原文"I love you.
+"	译文"我爱你"
+275
+2025/01/16 19:25:57 trans.go:77: 翻译之前序号"276
+"时间"00:10:46,320 --> 00:10:47,000
+"正文"Oh, yeah.
+"空行"
+"
+276
+2025/01/16 19:25:57 trans.go:107: 翻译之后序号"276
+"时间"00:10:46,320 --> 00:10:47,000
+"正文"Oh, yeah.
+"空行"
+"
+276
+2025/01/16 19:25:57 trans.go:108: 原文"Oh, yeah.
+"	译文"哦，是的"
+276
+2025/01/16 19:25:57 trans.go:77: 翻译之前序号"277
+"时间"00:10:47,000 --> 00:10:49,980
+"正文"Oh, my God.
+"空行"
+"
+277
+2025/01/16 19:25:57 trans.go:107: 翻译之后序号"277
+"时间"00:10:47,000 --> 00:10:49,980
+"正文"Oh, my God.
+"空行"
+"
+277
+2025/01/16 19:25:57 trans.go:108: 原文"Oh, my God.
+"	译文"我的天啊"
+277
+2025/01/16 19:25:57 trans.go:77: 翻译之前序号"278
+"时间"00:10:50,000 --> 00:10:51,100
+"正文"Oh, my God.
+"空行"
+"
+278
+2025/01/16 19:25:57 trans.go:107: 翻译之后序号"278
+"时间"00:10:50,000 --> 00:10:51,100
+"正文"Oh, my God.
+"空行"
+"
+278
+2025/01/16 19:25:57 trans.go:108: 原文"Oh, my God.
+"	译文"我的天啊"
+278
+2025/01/16 19:25:57 trans.go:77: 翻译之前序号"279
+"时间"00:10:51,520 --> 00:10:54,140
+"正文"Oh, my God.
+"空行"
+"
+279
+2025/01/16 19:25:57 trans.go:107: 翻译之后序号"279
+"时间"00:10:51,520 --> 00:10:54,140
+"正文"Oh, my God.
+"空行"
+"
+279
+2025/01/16 19:25:57 trans.go:108: 原文"Oh, my God.
+"	译文"我的天啊"
+279
+2025/01/16 19:25:57 trans.go:77: 翻译之前序号"280
+"时间"00:10:54,160 --> 00:10:55,180
+"正文"Did you just come from Mommy?
+"空行"
+"
+280
+2025/01/16 19:26:00 trans.go:107: 翻译之后序号"280
+"时间"00:10:54,160 --> 00:10:55,180
+"正文"Did you just come from Mommy?
+"空行"
+"
+280
+2025/01/16 19:26:00 trans.go:108: 原文"Did you just come from Mommy?
+"	译文"你刚从妈妈那里回来吗？"
+280
+2025/01/16 19:26:00 trans.go:77: 翻译之前序号"281
+"时间"00:10:55,440 --> 00:10:57,000
+"正文"I did come all the way from Mommy.
+"空行"
+"
+281
+2025/01/16 19:26:03 trans.go:107: 翻译之后序号"281
+"时间"00:10:55,440 --> 00:10:57,000
+"正文"I did come all the way from Mommy.
+"空行"
+"
+281
+2025/01/16 19:26:03 trans.go:108: 原文"I did come all the way from Mommy.
+"	译文"我确实是从妈妈那里远道而来的。"
+281
+2025/01/16 19:26:03 trans.go:77: 翻译之前序号"282
+"时间"00:10:57,300 --> 00:10:57,740
+"正文"Good.
+"空行"
+"
+282
+2025/01/16 19:26:06 trans.go:107: 翻译之后序号"282
+"时间"00:10:57,300 --> 00:10:57,740
+"正文"Good.
+"空行"
+"
+282
+2025/01/16 19:26:06 trans.go:108: 原文"Good.
+"	译文"很好。"
+282
+2025/01/16 19:26:06 trans.go:77: 翻译之前序号"283
+"时间"00:10:58,140 --> 00:10:59,140
+"正文"Oh, shit.
+"空行"
+"
+283
+2025/01/16 19:26:09 trans.go:107: 翻译之后序号"283
+"时间"00:10:58,140 --> 00:10:59,140
+"正文"Oh, shit.
+"空行"
+"
+283
+2025/01/16 19:26:09 trans.go:108: 原文"Oh, shit.
+"	译文"哦，该死"
+283
+2025/01/16 19:26:09 trans.go:77: 翻译之前序号"284
+"时间"00:10:59,220 --> 00:11:00,320
+"正文"All over my tits.
+"空行"
+"
+284
+2025/01/16 19:26:12 trans.go:107: 翻译之后序号"284
+"时间"00:10:59,220 --> 00:11:00,320
+"正文"All over my tits.
+"空行"
+"
+284
+2025/01/16 19:26:12 trans.go:108: 原文"All over my tits.
+"	译文"我的乳房上到处都是"
+284
+2025/01/16 19:26:12 trans.go:77: 翻译之前序号"285
+"时间"00:11:02,340 --> 00:11:04,300
+"正文"Now you can leave the house.
+"空行"
+"
+285
+2025/01/16 19:26:15 trans.go:107: 翻译之后序号"285
+"时间"00:11:02,340 --> 00:11:04,300
+"正文"Now you can leave the house.
+"空行"
+"
+285
+2025/01/16 19:26:15 trans.go:108: 原文"Now you can leave the house.
+"	译文"现在你可以出门了。"
+285
+2025/01/16 19:26:15 trans.go:77: 翻译之前序号"286
+"时间"00:11:04,420 --> 00:11:05,180
+"正文"And now I'm ready.
+"空行"
+"
+286
+2025/01/16 19:26:18 trans.go:107: 翻译之后序号"286
+"时间"00:11:04,420 --> 00:11:05,180
+"正文"And now I'm ready.
+"空行"
+"
+286
+2025/01/16 19:26:18 trans.go:108: 原文"And now I'm ready.
+"	译文"现在我准备好了。"
+286
+2025/01/16 19:26:18 trans.go:77: 翻译之前序号"287
+"时间"00:11:05,380 --> 00:11:05,980
+"正文"Now you're ready.
+"空行"
+"
+287
+2025/01/16 19:26:21 trans.go:107: 翻译之后序号"287
+"时间"00:11:05,380 --> 00:11:05,980
+"正文"Now you're ready.
+"空行"
+"
+287
+2025/01/16 19:26:21 trans.go:108: 原文"Now you're ready.
+"	译文"现在你准备好了。"
+287
+2025/01/16 19:26:21 trans.go:77: 翻译之前序号"288
+"时间"00:11:06,060 --> 00:11:06,580
+"正文"You're the best.
+"空行"
+"
+288
+2025/01/16 19:26:24 trans.go:107: 翻译之后序号"288
+"时间"00:11:06,060 --> 00:11:06,580
+"正文"You're the best.
+"空行"
+"
+288
+2025/01/16 19:26:24 trans.go:108: 原文"You're the best.
+"	译文"你是最棒的"
+288
+2025/01/16 19:26:24 trans.go:77: 翻译之前序号"289
+"时间"00:11:06,620 --> 00:11:07,060
+"正文"Thanks, Mom.
+"空行"
+"
+289
+2025/01/16 19:26:27 trans.go:107: 翻译之后序号"289
+"时间"00:11:06,620 --> 00:11:07,060
+"正文"Thanks, Mom.
+"空行"
+"
+289
+2025/01/16 19:26:27 trans.go:108: 原文"Thanks, Mom.
+"	译文"谢谢你，妈妈。"
+289
+2025/01/16 19:26:27 trans.go:77: 翻译之前序号"290
+"时间"00:11:07,180 --> 00:11:07,640
+"正文"You're welcome.
+"空行"
+"
+290
+2025/01/16 19:26:31 trans.go:107: 翻译之后序号"290
+"时间"00:11:07,180 --> 00:11:07,640
+"正文"You're welcome.
+"空行"
+"
+290
+2025/01/16 19:26:31 trans.go:108: 原文"You're welcome.
+"	译文"不客气。"
